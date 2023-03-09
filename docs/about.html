@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> The Simpsons Project: The Code</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+      
+            body {
+                margin: 0;
+                background-image: url("photos/homer.jpg");
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+            }
+            
+            .container {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                align-items: center;
+                padding: 20px;
+            }
+            
+            .member {
+                width: 30%;
+                margin-bottom: 20px;
+                padding: 20px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                box-shadow: 0px 0px 5px #ddd;
+                text-align: center;
+            }
+            
+            .member img {
+                width: 80%;
+                border-radius: 50%;
+                margin-bottom: 10px;
+            }
+            
+            .member h2 {
+                margin-top: 0;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="topnav">
+            <a href="home.html">Home</a>
+            <a href="analysis.html">Analysis</a>
+            <a href="code.html">The Code</a>
+            <a href="about.html">About Us</a>
+        </div>
+        
+        <div class="header">
+            <h1>
+                <strong>About Us</strong>
+            </h1>
+        </div>
+        
+        <div class="container">
+            <div class="member">
+                <img src="member1.jpg" alt="EeganPhoto">
+                <h2>Eegan Peck</h2>
+                <p>Eegan is the CEO of our company. He has 10 years of experience in the industry and is passionate about creating innovative solutions for our clients.</p>
+            </div>
+            <div class="member">
+                <img src="member2.jpg" alt="LyndonPhoto">
+                <h2>Lyndon Hershel</h2>
+                <p>Lyndon is our lead designer. She has a background in graphic design and loves creating beautiful, user-friendly interfaces.</p>
+            </div>
+            <div class="member">
+                <img src="member3.jpg" alt="RemiPhoto">
+                <h2>Remington Orange</h2>
+                <p>Remington is our head of development. He has extensive knowledge of programming languages and enjoys finding elegant solutions to complex problems.</p>
+            </div>
+        </div>
+    </body>
+</html>
+
