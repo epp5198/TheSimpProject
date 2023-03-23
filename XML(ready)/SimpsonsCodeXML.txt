@@ -1,0 +1,33 @@
+ XML Tags we will be using 
+
+- `ep` = episode
+- `epTitle` - episode Title
+- `szn` - season
+- `epNum` - episode number
+- `txt` - this covers the entire episode (we already used episode previously)
+- `xml` - needed
+- `fam` - used to mark the family
+- `stage` - marks various stage notes
+- `music` - Indicates musical numbers or any form of musical connotation
+
+HEIRARCHY
+
+<xml>
+	<txt> 
+		<metadata>
+				<ep>
+					<epTitle></epTitle>
+					<szn></szn>
+					<epNum></epNum>
+					
+				<date></date>
+				<runtime></runtime>
+				</ep>
+		</metadata>
+		<stage></stage>
+		<music></music>
+		<fam></fam>
+
+		
+	</txt> 
+</xml>

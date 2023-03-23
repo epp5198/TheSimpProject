@@ -1,0 +1,68 @@
+TXT to XML Conversion Steps
+
+
+Pre-Conversion
+```
+-Find `&` Replace with `&amp;`
+
+-Find `<` Replace with `&lt;`
+
+-Find `>` Replace with `&gt;`
+```
+
+1. Cleanup of Top junk
+```
+- Find `^(.*by )([^0-9]*)(\d+.*)` Dot Matches All = OFF - REPLACE `$3`
+
+- Find `(\d{2}/\d{2}/\d{2}) (\d{2}:\d{2})` REPLACE `<date>$1</date> <runtime>$2</runtime>`
+
+- Find `\nPost` Dot Matches All = OFF
+
+- Find `\nQuote` Dot Matches All = OFF
+
+- Find `(\d\d)x(\d\d) - (.*)` and REPLACE with `<ep><epTitle>\3</epTitle><szn>\1</szn>x<epNum>\2</epNum></ep>` ** Dot Matches All = OFF **
+
+- Find `^(<ep>.*<\/ep>)[\s\S]*?<date>(\d{2}\/\d{2}\/\d{2})<\/date>\s*<runtime>(\d{2}:\d{2})<\/runtime>` REPLACE `<metadata>\0</metadata>`
+
+- Find `\n\s{3,}` REPLACE with nothing Dot Matches All = OFF
+```
+
+
+** This part changes from each season **
+
+2A. Stage tag for Seasons 10 and 30
+```
+- Find `\[(.*?)\]` and Replace with `<stage>\1</stage>`
+```
+
+2B. Stage tag for Season 20
+```
+- Find `\((.*?)\)` and Replace with `<stage>\1</stage>`
+```
+
+2C. Stage tag for Season 1 
+```
+- Find `([A-Z ]+):\s` and Replace with `<stage>\1</stage>`
+
+- Find  `(([^)]+)\)` and Replace with  <stage>\0</stage>
+```
+
+3. Capturing the main family
+```
+- Find `\b(Homer|Lisa|Bart|Grampa|Marge)\b` and Replace with `<fam>\0</fam>` 
+
+* We do this because according to Google, there's nearly 400 characters so naming them out would be useless
+```
+
+4. Capturing  Lines, Episode, and XML
+```
+- Find `^(.*)$` and replace with <txt>\0</txt> ** Dot Matches All = ON **
+
+- Find `^(.*)$` and replace with <xml>\0</xml> ** Dot Matches All = OFF ** * Must happen after `txt` *
+```
+
+
+5. Capturing Music
+```
+- Find `♪\s*(.*)` Replace `<music>\0</music>
+```
