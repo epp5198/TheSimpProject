@@ -2,7 +2,7 @@
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
-D'oh!
+<catchphrase>D'oh</catchphrase>!
 
 <stage>SCREAMS</stage>
 
@@ -246,7 +246,7 @@ Got it.
 
 <stage>CHUCKLES</stage>
 
-Ay, caramba!
+Ay, <catchphrase>caramba</catchphrase>!
 
 <fam>Bart</fam>, I've fallen in love with crosswords.
 
@@ -316,7 +316,7 @@ With my clothes in my hand.
 
 <stage>LAUGHING</stage>
 
-Homie, I'm not sure about this new business of yours.
+<fam>Homie</fam>, I'm not sure about this new business of yours.
 
 You're making it too easy for couples to break up just because they hit a rough patch.
 
@@ -346,7 +346,7 @@ Get him, chairs and babies!
 
 <stage>SHOUTING</stage>
 
-Homie?
+<fam>Homie</fam>?
 
 <fam>Marge</fam>, I'm getting out of the breakup business, and I don't know if I'll ever sleep soundly again.
 

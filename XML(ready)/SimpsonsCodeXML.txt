@@ -9,6 +9,7 @@
 - `fam` - used to mark the family
 - `stage` - marks various stage notes
 - `music` - Indicates musical numbers or any form of musical connotation
+- `catchphrase` - Iconic Simpsons Catchphrases
 
 HEIRARCHY
 
@@ -27,6 +28,7 @@ HEIRARCHY
 		<stage></stage>
 		<music></music>
 		<fam></fam>
+		<catchphrase></catchphrase>
 
 		
 	</txt> 

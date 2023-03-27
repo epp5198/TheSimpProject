@@ -10,7 +10,7 @@
 
 <stage>TIRES SCREECHING</stage>
 
-D'oh!
+<catchphrase>D'oh</catchphrase>!
 
 <stage>SCREAMS</stage>
 
@@ -42,7 +42,7 @@ Nobody shuts out my blather!
 
 Uh-oh.
 
-Homie, let's pick up those hitchhikers. They don't look like the s*ab kind.
+<fam>Homie</fam>, let's pick up those hitchhikers. They don't look like the s*ab kind.
 
 Mom, you said all hitchhikers were drug-crazed thrill seekers.
 
@@ -200,7 +200,7 @@ We'll stay for one hand roll or two nigiri. Then we have to get back to the kids
 
 Let my dad enjoy them a little longer.
 
-<stage>ABE LAUGHING</stage>
+<stage><fam>ABE</fam> LAUGHING</stage>
 
 Stop! Stop!
 
@@ -392,11 +392,11 @@ Okay!
 
 There you are!
 
-Homie, what's taking so long?
+<fam>Homie</fam>, what's taking so long?
 
 Listen, you're a classy lady and a great sushi fighter, but you're going in the box!
 
-Homie?
+<fam>Homie</fam>?
 
 Coming, <fam>Marge</fam>.
 

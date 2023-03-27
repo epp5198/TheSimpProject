@@ -11,7 +11,7 @@ We begin with a poster of Krusty the Clown, Springfield's favorite clown. The re
 
 <stage>KRUSTY</stage>How much do you love me?
 
-The image transforms into a TV set which <fam>Bart</fam> and <fam>Lisa</fam> and Maggie are watching. They speak in sync with the children.
+The image transforms into a TV set which <fam>Bart</fam> and <fam>Lisa</fam> and <fam>Maggie</fam> are watching. They speak in sync with the children.
 
 KIDS + BART +<stage> LISA</stage>With all our hearts!
 
@@ -79,13 +79,13 @@ Scratchy the Cat lies peacefully in a hammock. Itchy lights an arrow on f*re and
 
 <stage>HOMER</stage>Yello.
 
-<stage>MARGE</stage>Hello, Homie. I was hoping you could pick up a half-gallon of premium ice cream on your way home from work.
+<stage>MARGE</stage>Hello, <fam>Homie</fam>. I was hoping you could pick up a half-gallon of premium ice cream on your way home from work.
 
 <stage>HOMER</stage>Ooh, premium --- wait a minute. Why?
 
 <stage>MARGE</stage>Patty and Selma are coming over to show us slides from their trip to the Yucatan.
 
-<stage>HOMER</stage>Doh!
+<stage>HOMER</stage><catchphrase>Doh</catchphrase>!
 
 At the Simpsons, the doorbell rings.
 

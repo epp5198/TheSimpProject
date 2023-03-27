@@ -1,8 +1,8 @@
-<xml><txt><metadata><ep><epTitle>Waverly Hills, 9021-D'Oh</epTitle><szn>20</szn>x<epNum>19</epNum></ep><date>05/07/09</date> <runtime>05:26</runtime></metadata>
+<xml><txt><metadata><ep><epTitle>Waverly Hills, 9021-<catchphrase>D'Oh</catchphrase></epTitle><szn>20</szn>x<epNum>19</epNum></ep><date>05/07/09</date> <runtime>05:26</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
-D'oh!
+<catchphrase>D'oh</catchphrase>!
 
 <stage>BRAKES SCREECHING</stage>
 
@@ -478,7 +478,7 @@ Be sure to dig around in the g*n.
 
 <stage>GASPS</stage>
 
-Homie!
+<fam>Homie</fam>!
 
 A key to your apartment.
 
@@ -596,7 +596,7 @@ City inspector.
 
 I'm here to verify that this is the residence of <fam>Bart</fam> and <fam>Lisa</fam> Simpson.
 
-D'oh!
+<catchphrase>D'oh</catchphrase>!
 
 Hello, friendos.
 

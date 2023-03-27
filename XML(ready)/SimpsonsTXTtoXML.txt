@@ -65,4 +65,16 @@ Pre-Conversion
 5. Capturing Music
 ```
 - Find `♪\s*(.*)` Replace `<music>\0</music>
+
+6. Capturing More Family
 ```
+- Find `\b(Maggie|Lis|Bartholomew|Abe|Grandpa|Bartman|Homie)\b` Replace `<fam>\0</fam>`
+```
+
+8. Capturing Catchphrases
+```
+ - Find `\b(Doh|D'oh|Eat my shorts|cowabunga|Stupid Flanders|Mmm, donuts|Why you little|Woo Hoo|Hi-diddly-ho|caramba)\b` Replace `<catchphrase>\0</catchphrase>
+```
+
+
+

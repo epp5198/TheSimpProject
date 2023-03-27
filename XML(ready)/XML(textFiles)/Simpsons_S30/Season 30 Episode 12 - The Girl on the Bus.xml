@@ -55,7 +55,7 @@ and fall    feet to the street.
 
 <stage>EXCITED CHATTER</stage>   </music>
 
-Lis, wish me luck. I'm going for the lunch-boxing middleweight title.   
+<fam>Lis</fam>, wish me luck. I'm going for the lunch-boxing middleweight title.   
 
 <stage>SIGHS</stage> What does it matter?   
 
@@ -504,7 +504,7 @@ Ah, you sure can.
 
 Hey, there he is!    
 
-Hi-diddly-ho!    
+<catchphrase>Hi-diddly-ho</catchphrase>!    
 
 Daddy!    
 
@@ -516,7 +516,7 @@ a hearty woo-hoo!
 
 Well, God bless you, Mr. Simpson. 
 
-I hate stupid Flanders!    
+I hate <catchphrase>stupid Flanders</catchphrase>!    
 
 Annoyed grunt, annoyed grunt!    
 
@@ -676,7 +676,7 @@ to be your father, but he can't stop.
 
 Look at me in sector  -G!    
 
-D'oh diddly d'oh!    
+<catchphrase>D'oh</catchphrase> diddly <catchphrase>d'oh</catchphrase>!    
 
 I'm sorry, I didn't want to hurt you guys,    
 
@@ -702,7 +702,7 @@ but there are a lot of people who really like her.
 
 Mom's not the problem.    
 
-<stage>GASPS SOFTLY</stage> So, it's Maggie. 
+<stage>GASPS SOFTLY</stage> So, it's <fam>Maggie</fam>. 
 
 I know she can't speak.    
 
@@ -770,7 +770,7 @@ Come back here!
 You can have pizza, but your father    
 
 - gets vegetables.
-- D'oh!    
+- <catchphrase>D'oh</catchphrase>!    
 
 How could she be so embarrassed of her own family?    
 
@@ -960,7 +960,7 @@ Sure you do.
 
 You can come in, sweetheart.    
 
-I'll take care of this, Homie.    
+I'll take care of this, <fam>Homie</fam>.    
 
 Move along, sir. You're blocking the f*re escape.    
 

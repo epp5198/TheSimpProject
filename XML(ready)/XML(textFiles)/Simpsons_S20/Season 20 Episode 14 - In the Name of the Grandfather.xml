@@ -12,7 +12,7 @@
 
 <stage>TIRES SCREECHING</stage>
 
-D'oh!
+<catchphrase>D'oh</catchphrase>!
 
 <stage>BRAKES SCREECHING</stage>
 
@@ -122,7 +122,7 @@ That's it.
 
 <stage>GRUNTING</stage>
 
-I'm sorry, Abe. We just can't wait for your family any longer.
+I'm sorry, <fam>Abe</fam>. We just can't wait for your family any longer.
 
 But they're coming. My son even put a note on his refrigerator.
 
@@ -138,7 +138,7 @@ No!
 
 <stage>CROWD CHEERING</stage>
 
-They're blanks, Abe.
+They're blanks, <fam>Abe</fam>.
 
 <stage>ALL MOANING HAPPILY</stage>
 
@@ -184,7 +184,7 @@ We'll do that one!
 
 <fam>Homer</fam>: This place is in lreland?
 
-Abe: That's right.
+<fam>Abe</fam>: That's right.
 
 Now let's make our reservations!
 
@@ -428,7 +428,7 @@ So I hope you'll forgive two well-meaning Americans for trying to take lreland b
 
 Thank you.
 
-<stage>ABE CHUCKLES</stage>
+<stage><fam>ABE</fam> CHUCKLES</stage>
 
 That was absolutely terrible.
 

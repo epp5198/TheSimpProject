@@ -30,7 +30,7 @@
 
 <stage>TIRES SCREECH</stage>  
 
-D'oh!   
+<catchphrase>D'oh</catchphrase>!   
 
 <stage>GRUNTS</stage>   
 
@@ -119,7 +119,7 @@ Just, uh, play with the siren.
 
 <fam>Homer</fam>, that's the weather.   
 
-HOMER: D'oh!   
+HOMER: <catchphrase>D'oh</catchphrase>!   
 
 <fam>Homer</fam>, I want you to do something with <fam>Lisa</fam>.   
 
@@ -263,7 +263,7 @@ And dig I will. <stage>CHUCKLES</stage>
 Well, I don't care if Dad's your hero.    
 
 You know whose hero I am?
-Maggie's. Come here, girl.    
+<fam>Maggie</fam>'s. Come here, girl.    
 
 Okay, the dog's your hero, but I'm your human hero.    
 
@@ -290,9 +290,9 @@ I admired him.
 
 The way he'd take me to the science museum once a year. 
 
-D'oh!    
+<catchphrase>D'oh</catchphrase>!    
 
-D'oh!    
+<catchphrase>D'oh</catchphrase>!    
 
 And now we get ice cream.    
 
@@ -601,7 +601,7 @@ Oh, okay.
 - <stage>g*n</stage>
 - WIGGUM: Sorry.    
 
-Okay, Maggie, you give me your binky, and I'll give you this substitution bear doll.    
+Okay, <fam>Maggie</fam>, you give me your binky, and I'll give you this substitution bear doll.    
 
 You can't b*at addiction, <fam>Marge</fam>.    
 
@@ -782,7 +782,7 @@ I'll kick <fam>Homer</fam> in the butt.
 
 You can kick it if you can find it.    
 
-D'oh.    
+<catchphrase>D'oh</catchphrase>.    
 
 <music>♪ Well, they say ♪    </music>
 

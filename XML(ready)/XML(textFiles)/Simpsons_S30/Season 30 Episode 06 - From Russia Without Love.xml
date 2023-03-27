@@ -16,13 +16,13 @@
 
 <stage>AUDIO OF CHOIR SINGING "THE SIMPSONS" PLAYS BACKWARDS</stage>
 
- D'oh!
+ <catchphrase>D'oh</catchphrase>!
 
  - <stage>TIRES SCREECHING</stage>
 
  - <stage>GRUNTING</stage>
 
- D'oh!
+ <catchphrase>D'oh</catchphrase>!
 
  <stage>GRUNTING SOFTLY</stage>
 
@@ -32,7 +32,7 @@
 
  Hey.
 
- <stage>GRUNTING GIBBERISH</stage>: old lady kids then the f*re go out stupid Flanders.
+ <stage>GRUNTING GIBBERISH</stage>: old lady kids then the f*re go out <catchphrase>stupid Flanders</catchphrase>.
 
  Beer Only good will come of you.
 
@@ -50,7 +50,7 @@
 
  <stage>INSECTS TRILLING</stage>
 
- Homie, we can't keep inviting so many people to Thanksgiving.
+ <fam>Homie</fam>, we can't keep inviting so many people to Thanksgiving.
 
  They all drink too much.
 

@@ -1,7 +1,7 @@
 <xml><txt>
 
 
-<metadata><ep><epTitle>I'm Just a Girl Who Can't Say D'oh</epTitle><szn>30</szn>x<epNum>20</epNum></ep>
+<metadata><ep><epTitle>I'm Just a Girl Who Can't Say <catchphrase>D'oh</catchphrase></epTitle><szn>30</szn>x<epNum>20</epNum></ep>
 
 
 
@@ -26,7 +26,7 @@
 
 <stage>TIRES SCREECH</stage>  
 
-D'oh!  
+<catchphrase>D'oh</catchphrase>!  
 
 <stage>GRUNTS</stage>  
 
@@ -98,7 +98,7 @@ Right here.
 
 Now, this I can work with.   
 
-HOMER: Okay, Maggie,   
+HOMER: Okay, <fam>Maggie</fam>,   
 
 what shall we do while Mommy rehearses?   
 
@@ -155,7 +155,7 @@ Oh, I get it, she's sexy.
 
 <stage>GROWLS</stage>   
 
-Maggie! How long have you been here?   
+<fam>Maggie</fam>! How long have you been here?   
 
 <music>♪   
 
@@ -290,14 +290,14 @@ I'll write a musical biography, warts and all.
 
 I can't see how that could fail.    
 
-Now I'm in a hurry... Maggie and I have a Daddy and Me class.    
+Now I'm in a hurry... <fam>Maggie</fam> and I have a Daddy and Me class.    
 
 Aren't you forgetting something?    
 
 Keys, wallet, I don't think so.    
 
 <stage>CHUCKLING</stage>: Oh, sure.
-I'm happy to take Maggie.    
+I'm happy to take <fam>Maggie</fam>.    
 
 You sure like that class.    
 
@@ -329,7 +329,7 @@ Yeah, I know what you were just.
 
 LISA: Let's see... k*ll a bear, founded a town, died of a beaver bite.    
 
-Lis, you're gonna love it.    
+<fam>Lis</fam>, you're gonna love it.    
 
 I came up with the perfect opening.    
 
@@ -564,14 +564,14 @@ Stay in there, you stupid blackbirds!
 
 Darling, you're supposed to k*ll the blackbirds before you put them in the pie.    
 
-Homie, Homie.    
+<fam>Homie</fam>, <fam>Homie</fam>.    
 
 <stage>SCREECHING</stage>    
 
-- Homie. Homie.
+- <fam>Homie</fam>. <fam>Homie</fam>.
 - Blackbirds! Blackbirds!    
 
-Homie, wake up.    
+<fam>Homie</fam>, wake up.    
 
 What are you dreaming about?    
 

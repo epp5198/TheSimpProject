@@ -24,7 +24,7 @@
 
 <stage>TIRES SCREECHING</stage>
 
-D'oh!
+<catchphrase>D'oh</catchphrase>!
 
 <stage>BRAKES SCREECHING</stage>
 
@@ -60,7 +60,7 @@ A kid at school.
 
 So you did learn something.
 
-Homie, the insurance bill is due today. Can you make sure to mail it?
+<fam>Homie</fam>, the insurance bill is due today. Can you make sure to mail it?
 
 Absolutely. Insurance is the greatest deal ever.
 
@@ -78,7 +78,7 @@ What is it?
 
 Not again!
 
-All: D'oh! D'oh! D'oh! D'oh!
+All: <catchphrase>D'oh</catchphrase>! <catchphrase>D'oh</catchphrase>! <catchphrase>D'oh</catchphrase>! <catchphrase>D'oh</catchphrase>!
 
 <stage>LAUGHING</stage>
 
@@ -268,7 +268,7 @@ I won't be insured until 3:00!
 
 Okay, until then, I have to avoid any serious injuries or accidents on my property, or I'm ruined!
 
-D'oh!
+<catchphrase>D'oh</catchphrase>!
 
 No, you don't!
 
@@ -460,7 +460,7 @@ All: Uh-huh.
 
 Next stop, Springfield Elementary!
 
-Skinner! Otto! Bullies! The "cowabunga" kid!
+Skinner! Otto! Bullies! The "<catchphrase>cowabunga</catchphrase>" kid!
 
 And the wee nitwit! It's so good to see you all!
 

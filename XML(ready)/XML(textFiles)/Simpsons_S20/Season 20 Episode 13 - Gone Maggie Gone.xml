@@ -1,8 +1,8 @@
-<xml><txt><metadata><ep><epTitle>Gone Maggie Gone</epTitle><szn>20</szn>x<epNum>13</epNum></ep><date>03/19/09</date> <runtime>01:07</runtime></metadata>
+<xml><txt><metadata><ep><epTitle>Gone <fam>Maggie</fam> Gone</epTitle><szn>20</szn>x<epNum>13</epNum></ep><date>03/19/09</date> <runtime>01:07</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
-D'oh!
+<catchphrase>D'oh</catchphrase>!
 
 <stage>BRAKES SCREECHING</stage>
 
@@ -96,11 +96,11 @@ What is it with kids and candy-colored poison, huh?
 
 <stage>CLERK CHUCKLES</stage>
 
-<stage>MAGGIE FUSSING</stage>
+<stage><fam>MAGGIE</fam> FUSSING</stage>
 
 <stage>SANTA'S LITTLE HELPER GROWLING</stage>
 
-No, you stupid dog! That's Maggie's bunny!
+No, you stupid dog! That's <fam>Maggie</fam>'s bunny!
 
 Not in front of the poison man!
 
@@ -132,7 +132,7 @@ Heart and Soul!
 
 <stage>TRAIN WHISTLE BLOWS</stage>
 
-Homie, I haven't held Maggie all day. Can you hand her to me?
+<fam>Homie</fam>, I haven't held <fam>Maggie</fam> all day. Can you hand her to me?
 
 No problem, sweetie.
 
@@ -370,7 +370,7 @@ Hush, you foolish girl!
 
 The gem is over there.
 
-Maggie? No, no, no. The solution was, "Regally, the rock gem is <fam>Lisa</fam>."
+<fam>Maggie</fam>? No, no, no. The solution was, "Regally, the rock gem is <fam>Lisa</fam>."
 
 Oh, please. How many sentences start with the word "regally"?
 
@@ -378,7 +378,7 @@ This one.
 
 Oh, give me that!
 
-<fam>Lisa</fam>: "It's really Maggie, Sherlock."
+<fam>Lisa</fam>: "It's really <fam>Maggie</fam>, Sherlock."
 
 You know, I have to point out that this only makes sense, if I get the wrong answer first.
 
@@ -400,7 +400,7 @@ Something tells me the Gem of St. Teresa has been returned to its throne.
 
 <stage>GASPS</stage>
 
-Maggie, it's true! You are the Gem Child!
+<fam>Maggie</fam>, it's true! You are the Gem Child!
 
 Four centuries of patient sacrifice has finally paid off.
 
@@ -408,15 +408,15 @@ All is peace and harmony.
 
 Give me my baby back!
 
-Mom, how did you know Maggie was here?
+Mom, how did you know <fam>Maggie</fam> was here?
 
 A mother knows!
 
 <stage>MARGE MURMURS WORRIEDLY</stage>
 
-Maggie, you're coming home with me.
+<fam>Maggie</fam>, you're coming home with me.
 
-Mom, wait! Maggie is the Gem Child! She's brought peace to our town and reports of less road rage in Shelbyville.
+Mom, wait! <fam>Maggie</fam> is the Gem Child! She's brought peace to our town and reports of less road rage in Shelbyville.
 
 She has to stay here.
 

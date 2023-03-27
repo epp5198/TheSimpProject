@@ -1,7 +1,7 @@
 <xml><txt>
 
 
-<metadata><ep><epTitle>D'oh Canada</epTitle><szn>30</szn>x<epNum>21</epNum></ep>
+<metadata><ep><epTitle><catchphrase>D'oh</catchphrase> Canada</epTitle><szn>30</szn>x<epNum>21</epNum></ep>
 
 
 
@@ -34,7 +34,7 @@
 
 <stage>TIRES SCREECH</stage>   
 
-D'oh!   
+<catchphrase>D'oh</catchphrase>!   
 
 <stage>GRUNTS</stage>   
 
@@ -131,7 +131,7 @@ I spy a closed-down Toys "R" Us.
 
 I spy a bankrupt Sears and Roebuck.   
 
-- D'oh!
+- <catchphrase>D'oh</catchphrase>!
 - I don't know about this game.   
 
 I find it a little... <stage>GASPS</stage>   
@@ -208,7 +208,7 @@ LISA: Now, that's worth a quarter.
 
 BART: So magnificent.   
 
-Hey, Lis, want to bounce?    
+Hey, <fam>Lis</fam>, want to bounce?    
 
 Not till I've soaked in the full majesty of the falls.    
 
@@ -514,7 +514,7 @@ MARGE AND DRIVERS: We all know.
 
 <music>♪ ♪    </music>
 
-D'oh.    
+<catchphrase>D'oh</catchphrase>.    
 
 What's this blue stuff, eh?    
 
@@ -623,7 +623,7 @@ Let me just say this asbestos will be reinstalled with the greatest of care.
 
 <stage>COUGHS</stage>    
 
-Oh, Homie, I don't know how we're gonna get back.    
+Oh, <fam>Homie</fam>, I don't know how we're gonna get back.    
 
 Hmm... how soon can you grow a mustache? 
 
@@ -678,7 +678,7 @@ Okay, now I'm gonna focus on the good things that you've got.
 
 <stage>TRUMPETS</stage>    
 
-Abe Lincoln... Dumbo...    
+<fam>Abe</fam> Lincoln... Dumbo...    
 
 Aretha Franklin, Eleanor Roosevelt, Seabiscuit, the computer that won on Jeopardy! 
 
@@ -765,7 +765,7 @@ Hope you wash up on a shore you like!
 
 <stage>CAR HORN HONKS</stage>    
 
-- Homie!
+- <fam>Homie</fam>!
 - Dad!    
 
 Guess who's here to save the day.    

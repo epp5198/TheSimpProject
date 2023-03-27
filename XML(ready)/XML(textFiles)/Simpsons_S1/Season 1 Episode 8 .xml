@@ -36,11 +36,11 @@ At the Simpson house,  MARGE stands at the bottom of the stairs dressed for chur
 
 <stage>MARGE</stage>Kids!  We're late for church.  Get your butts down here right now!
 
-LISA and MAGGIE slowly walk down while <fam>Bart</fam> slides quickly.
+LISA and <fam>MAGGIE</fam> slowly walk down while <fam>Bart</fam> slides quickly.
 
 <stage>LISA</stage>Ready for inspection, Mom.
 
-<stage>MARGE</stage>Very nice, Maggie.  And <fam>Lisa</fam>, you look lovely.  <fam>Bart</fam>, assume the position.
+<stage>MARGE</stage>Very nice, <fam>Maggie</fam>.  And <fam>Lisa</fam>, you look lovely.  <fam>Bart</fam>, assume the position.
 
 <fam>Bart</fam> puts his hands against the wall.  <fam>Marge</fam> searches his pockets and brings out a slingshot, some dice, a comic book.
 
@@ -62,7 +62,7 @@ LISA and MAGGIE slowly walk down while <fam>Bart</fam> slides quickly.
 
 <stage>MARGE</stage><fam>Homer</fam>?
 
-<stage>HOMER</stage>D'oh!
+<stage>HOMER</stage><catchphrase>D'oh</catchphrase>!
 
 <stage>ANNOUNCER</stage>A 64 yard run!  We've got an upset in the making.
 
@@ -84,7 +84,7 @@ LISA and MAGGIE slowly walk down while <fam>Bart</fam> slides quickly.
 
 <stage>ANNOUNCER</stage>In the endzone!  Another touchdown!
 
-<stage>HOMER</stage>D'oh!
+<stage>HOMER</stage><catchphrase>D'oh</catchphrase>!
 
 <stage>MARGE</stage>Come on.
 
@@ -282,7 +282,7 @@ The living room, later.  <fam>Homer</fam> lies on the couch when <fam>Bart</fam>
 
 <fam>Bart</fam> walks up the stairs and undresses as he makes his way into his bedroom.  He puts on his standard shorts and orange shirt.  He picks up his skateboard, swings out his window, and skates off.
 
-<stage>BART</stage>Da da da da da!  Whoa!  Whoa!  Ooh, cowabunga.
+<stage>BART</stage>Da da da da da!  Whoa!  Whoa!  Ooh, <catchphrase>cowabunga</catchphrase>.
 
 48.
 
@@ -370,11 +370,11 @@ He runs off.
 
 <stage>DISSOLVE TO</stage>
 
-<fam>Homer</fam> sits alongside Maggie, looking through a bowling magazine.
+<fam>Homer</fam> sits alongside <fam>Maggie</fam>, looking through a bowling magazine.
 
-<stage>HOMER</stage>Wow!  Look at these bowling balls, Maggie.  Can you think of a better way for Daddy to spend his hard-won 50 bucks?
+<stage>HOMER</stage>Wow!  Look at these bowling balls, <fam>Maggie</fam>.  Can you think of a better way for Daddy to spend his hard-won 50 bucks?
 
-Maggie sucks her pacifier.  <fam>Homer</fam> turns the page and gasps.
+<fam>Maggie</fam> sucks her pacifier.  <fam>Homer</fam> turns the page and gasps.
 
 <stage>HOMER</stage>Now I've seen everything.  Black marbleized with a liquid center.
 
@@ -476,7 +476,7 @@ Back to kitchen, where the entire family has gathered.
 
 A horn honks.
 
-<stage>BART</stage>Uh-oh.  School bus.  Come on, Lis.  School bus.
+<stage>BART</stage>Uh-oh.  School bus.  Come on, <fam>Lis</fam>.  School bus.
 
 He picks up the backpack.  <fam>Lisa</fam> looks down sadly at the table.
 
@@ -496,9 +496,9 @@ Moe starts sobbing.
 
 <stage>CUT TO</stage>
 
-The Springfield Retirement Home, where ABE SIMPSON sits on a bench along with other seniors.
+The Springfield Retirement Home, where <fam>ABE</fam> SIMPSON sits on a bench along with other seniors.
 
-<stage>ABE</stage>I said it before, and I'll say it again.  "Hell in a handbasket!"  I hope they find the punk who did this, and I hope they cut his head off.
+<stage><fam>ABE</fam></stage>I said it before, and I'll say it again.  "Hell in a handbasket!"  I hope they find the punk who did this, and I hope they cut his head off.
 
 <stage>SENIORS</stage>Yeah!
 

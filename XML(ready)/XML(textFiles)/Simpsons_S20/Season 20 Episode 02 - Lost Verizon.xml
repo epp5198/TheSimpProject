@@ -14,13 +14,13 @@
 
 <stage>TIRES SCREECHING</stage>
 
-D'oh!
+<catchphrase>D'oh</catchphrase>!
 
 <stage>SCREAMS</stage>
 
 <stage>BRAKES SCREECHING</stage>
 
-<fam>Bart</fam>: Ay, caramba!
+<fam>Bart</fam>: Ay, <catchphrase>caramba</catchphrase>!
 
 <stage>ENGINE SPUTTERING</stage>
 
@@ -450,7 +450,7 @@ You sure this is safe?
 
 Sure. I got my seatbelt on.
 
-<fam>Marge</fam>: Bartholomew J. Simpson!
+<fam>Marge</fam>: <fam>Bartholomew</fam> J. Simpson!
 
 Milhouse: Whoa!
 
@@ -598,6 +598,6 @@ Never leave again!
 
 <stage>MARGE GRUNTING</stage>
 
-Where's Maggie?
+Where's <fam>Maggie</fam>?
 
 She's...</txt></xml>
