@@ -1,4 +1,8 @@
-<xml><txt><metadata><ep><epTitle><fam>Homer</fam>'s Night Out</epTitle><szn>01</szn>x<epNum>10</epNum></ep><date>05/21/98</date> <runtime>02:15</runtime></metadata>
+
+<?xml-model href="../../../../../OneDrive/Desktop/Untitled1.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><txt>
+<metadata><ep><epTitle><fam>Homer</fam>'s Night Out</epTitle><szn>01</szn>x<epNum>10</epNum></ep>
+<date>05/21/98</date> <runtime>02:15</runtime></metadata>
 
 <stage>FADE IN</stage>
 
@@ -6,7 +10,8 @@ We begin with an outside sh*t of the house.
 
 Inside, <fam>Marge</fam> hums as she brushes her teeth.
 
-<stage>MARGE</stage>So how was the office birthday party?It turns out <fam>Homer</fam> is right behind her.
+<stage>MARGE</stage>So how was the office birthday party?
+It turns out <fam>Homer</fam> is right behind her.
 
 <stage>HOMER</stage>Oh, it was delightful.  The frosting on the cake was this thick.
 
@@ -622,7 +627,8 @@ Inside, <fam>Homer</fam> drinks a cup of coffee.  Smithers comes on the announce
 
 <fam>Homer</fam> sitting in front of Burns in his office.
 
-<stage>BURNS</stage>What in blue blazes do you think you're doing, Simpson?<stage>HOMER</stage>What do you mean, sir?
+<stage>BURNS</stage>What in blue blazes do you think you're doing, Simpson?
+<stage>HOMER</stage>What do you mean, sir?
 
 Burns holds up the photo.
 
@@ -758,4 +764,5 @@ FADE OUT
 
 CREDITS BEGIN
 
-THE END</txt></xml>
+THE END
+</txt></xml>

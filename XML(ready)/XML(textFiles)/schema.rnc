@@ -1,0 +1,14 @@
+start = xml
+xml = element xml {txt}
+txt = element txt {metadata | stage* | fam* | text | music* | catchphrase*}
+metadata = element metadata {ep | date | runtime | text}
+date = element date {text}
+runtime = element runtime {text}
+ep = element ep {epTitle | szn | epNum | text}
+epTitle = element epTitle {text | fam*}
+szn = element szn {text}
+epNum = element epNum {text}
+stage = element stage {text}
+fam = element fam {text}
+music = element music {text}
+catchphrase = element catchphrase {text}
