@@ -1,5 +1,5 @@
 
-<?xml-model href="../../../../../OneDrive/Desktop/Untitled1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle><fam>Homer</fam>'s Night Out</epTitle><szn>01</szn>x<epNum>10</epNum></ep>
 <date>05/21/98</date> <runtime>02:15</runtime></metadata>
