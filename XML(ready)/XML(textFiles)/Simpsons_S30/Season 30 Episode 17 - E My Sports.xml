@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>03/18/19</date> <runtime>15:35</runtime></metadata>
 
@@ -18,7 +20,7 @@
 - Sorry, Dad, but it looks like I've conquered you at Risk,  
 
 - bankrupted you at Monopoly...
-- HOMER: Hmm. Hmm. and aggravated you at Aggravation.  
+- <person>HOMER</person>: Hmm. Hmm. and aggravated you at Aggravation.  
 
 Well, with you as a daughter, I'm a winner in the game of Life.  
 
@@ -30,16 +32,16 @@ Everyone is really getting along.
 
 What the hell is going on?   
 
-There's no <fam>Bart</fam>.   
+There's no <fam><person>Bart</person></fam>.   
 
 - You're right.
 - Where is he?   
 
 Ladies, relax.   
 
-Remember when I said I'd punish <fam>Bart</fam> after he got us... banned from the buffet?   
+Remember when I said I'd punish <fam><person>Bart</person></fam> after he got us... banned from the buffet?   
 
-<stage>BART CHUCKLES</stage>   
+<stage><person>BART</person> CHUCKLES</stage>   
 
 I can't shut it off.   
 
@@ -80,7 +82,7 @@ Jinx. You me a Coke.
 
 <stage>GROANS</stage> I'll never be able to pay that bet.   
 
-Focus, Nelson, focus.   
+Focus, <person>Nelson</person>, focus.   
 
 Kite the enemy into a gank.
 Squeeze it...   
@@ -94,7 +96,7 @@ That means "good game."
 
 It's how the other team lets you know... they surrender!   
 
-HOMER: Mm.   
+<person>HOMER</person>: Mm.   
 
 Now I hit control-six to defile their corpses.   
 
@@ -107,11 +109,11 @@ Haw-haw! Haw-haw!
 
 Civilized annihilation.   
 
-<fam>Marge</fam>, the boy just may be learning some life k*ll.   
+<fam><person>Marge</person></fam>, the boy just may be learning some life k*ll.   
 
 Mom, do you agree with this?   
 
-I guess so. Your father is showing an interest in <fam>Bart</fam>, which is good.   
+I guess so. Your father is showing an interest in <fam><person>Bart</person></fam>, which is good.   
 
 Well, if that's how things work, then I'm gonna behave badly, too.   
 
@@ -122,13 +124,13 @@ Well, if that's how things work, then I'm gonna behave badly, too.
 
 I'll show you! I'm gonna... tear up my homework.   
 
-<stage>LISA GROANS</stage>   
+<stage><person>LISA</person> GROANS</stage>   
 
 I'm really gonna do this. Here I go.   
 
 <stage>GROANS</stage> Actually, this bibliography could be improved.   
 
-<stage>LISA HUMMING A TUNE</stage>   
+<stage><person>LISA</person> HUMMING A TUNE</stage>   
 
 - <stage>TYPING</stage>
 - Island of the Blue Dolphins. 
@@ -141,7 +143,7 @@ Ibid. Ibid. Ibid.
 
 <stage>SHOWER RUNNING</stage>   
 
-<fam>Bart</fam>'s been in the shower for an hour.   
+<fam><person>Bart</person></fam>'s been in the shower for an hour.   
 
 <stage>CHUCKLES</stage> With a young man that age, there's only one reason he's in the bathroom that long.   
 
@@ -155,7 +157,7 @@ He's playing that game in the shower?
 
 We have to stop this right now.   
 
-<fam>Homer</fam>, take care of your son.   
+<fam><person>Homer</person></fam>, take care of your son.   
 
 Make him quit. <stage>GROANS</stage> Geez.   
 
@@ -171,9 +173,9 @@ Well, team building is important.
 
 All right, let yourself go, and your partner will support you.   
 
-<stage>LENNY SCREAMS, GROANS</stage>   
+<stage><person>LENNY</person> SCREAMS, GROANS</stage>   
 
-Damn you, <fam>Homer</fam>!   
+Damn you, <fam><person>Homer</person></fam>!   
 
 Please, Dad, can I play in this one last tournament?   
 
@@ -237,7 +239,7 @@ Let me just, uh... <stage>CHUCKLES</stage> look at it.
 
 PILOT: Uh, welcome to our  -hour-and-  -minute flight 
 
-from Seoul, South Korea to Springfield. 
+from Seoul, <location>South</location> Korea to <location>Springfield</location>. 
 
 One brief note: Our in-flight entertainment system 
 
@@ -246,7 +248,7 @@ is not working at all.
 Have a great flight, folks. 
 
 - Also, we're out of almonds.
-- <stage>HOMER GROANS</stage>    
+- <stage><person>HOMER</person> GROANS</stage>    
 
 Zen. Remember your Zen.    
 
@@ -260,7 +262,7 @@ Dad, I don't think you've quite grasped the religion.
 
 Two words: Boo-duh.    
 
-<stage>LISA GRUMBLES</stage>    
+<stage><person>LISA</person> GRUMBLES</stage>    
 
 <stage>SNORING</stage>    
 

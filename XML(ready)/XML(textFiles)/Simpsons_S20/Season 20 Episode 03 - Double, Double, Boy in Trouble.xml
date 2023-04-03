@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Double, Double, Boy in Trouble</epTitle><szn>20</szn>x<epNum>03</epNum></ep><date>10/23/08</date> <runtime>15:23</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Double, Double, Boy in Trouble</epTitle><szn>20</szn>x<epNum>03</epNum></ep>
+<date>10/23/08</date> <runtime>15:23</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -22,7 +24,7 @@
 
 Stupid shopping list, turning food into work.
 
-<fam>Bart</fam>!
+<fam><person>Bart</person></fam>!
 
 Look at me! I'm doing something!
 
@@ -30,7 +32,7 @@ Look at me! I'm doing something!
 
 You better settle down, boy, or I'll drag you into the blind spot of that security camera and b*at you with one of those big thick women's magazines with all the ads in it.
 
-Mr. <fam>Homer</fam>, why don't you forget your worries with this, the last lottery ticket on the roll.
+Mr. <fam><person>Homer</person></fam>, why don't you forget your worries with this, the last lottery ticket on the roll.
 
 <stage>SING-SONG</stage> They say the last one is lucky unlike all the others.
 
@@ -44,23 +46,23 @@ Cannonball!
 
 <stage>SCREAMS</stage>
 
-I'll take that last lottery ticket, Apu.
+I'll take that last lottery ticket, <person>Apu</person>.
 
 <stage>EXCLAIMS</stage>
 
 <stage>LAUGHS</stage> Again!
 
-<stage>BART GRUNTING</stage>
+<stage><person>BART</person> GRUNTING</stage>
 
-Lenny: I won! I won!
+<person>Lenny</person>: I won! I won!
 
-$50,000! Ponder this, <fam>Homer</fam>.
+$50,000! Ponder this, <fam><person>Homer</person></fam>.
 
 This ticket would've been yours if your kid hadn't been screwing around!
 
-That is true. Another ironic tale of the Kwik-E-Mart.
+That is true. Another ironic tale of the <location>Kwik</location>-E-Mart.
 
-<stage>APU LAUGHS EVILLY</stage>
+<stage><person>APU</person> LAUGHS EVILLY</stage>
 
 You just cost me $200,000!
 
@@ -72,9 +74,9 @@ All the groceries seem to have been balled up in anger.
 
 That kid has become a Dennis-level menace!
 
-Now, <fam>Homer</fam>, boys will be boys.
+Now, <fam><person>Homer</person></fam>, boys will be boys.
 
-<fam>Bart</fam> cost us $50,000!
+<fam><person>Bart</person></fam> cost us $50,000!
 
 <stage>GRUNTS ANGRILY</stage>
 
@@ -82,23 +84,23 @@ Now, <fam>Homer</fam>, boys will be boys.
 
 <stage>GROANS</stage>
 
-I'm going to Moe's.
+I'm going to <person>Moe</person>'s.
 
-All: <stage>SINGING</stage> Lenny! Lenny! He's our guy!
+All: <stage>SINGING</stage> <person>Lenny</person>! <person>Lenny</person>! He's our guy!
 
-Got the ticket <fam>Homer</fam> didn't buy!
+Got the ticket <fam><person>Homer</person></fam> didn't buy!
 
 <stage>SIGHS</stage>
 
-Cheer up, <fam>Homer</fam>. The drinks are on Lenny.
+Cheer up, <fam><person>Homer</person></fam>. The drinks are on <person>Lenny</person>.
 
 I don't want your pity booze. I'll pay for it myself.
 
-I gotta check with Lenny on that. Is that all right, Lenny?
+I gotta check with <person>Lenny</person> on that. Is that all right, <person>Lenny</person>?
 
-Nope! Lucky Lenny's buying all the drinks tonight!
+Nope! Lucky <person>Lenny</person>'s buying all the drinks tonight!
 
-Sorry, <fam>Homer</fam>. But here's a compromise. Why don't you both pay for the drink?
+Sorry, <fam><person>Homer</person></fam>. But here's a compromise. Why don't you both pay for the drink?
 
 And tip.
 
@@ -106,7 +108,7 @@ I just want to tell you all that even before I won this money, I was the luckies
 
 All: Aww.
 
-That's why I'm spending my remaining scratcher winnings on a kick-ass party for all my friends!
+That's why I'm spending my remaining scratcher winnings on a kick-ass <location>party</location> for all my friends!
 
 <stage>ALL CHEERING</stage>
 
@@ -114,21 +116,21 @@ That's why I'm spending my remaining scratcher winnings on a kick-ass party for 
 
 <stage>DEEP SIGH</stage>
 
-Where's <fam>Bart</fam>? We're gonna be late for Lenny's party.
+Where's <fam><person>Bart</person></fam>? We're gonna be late for <person>Lenny</person>'s <location>party</location>.
 
-<fam>Bart</fam>: Don't waste your sh*t, <fam>Bart</fam>.
+<fam><person>Bart</person></fam>: Don't waste your sh*t, <fam><person>Bart</person></fam>.
 
 You've got just enough cat pee to soak two dorks.
 
 <stage>TODD LAUGHS</stage>
 
-<fam>Bart</fam> Simpson! Did you just spray water on me?
+<fam><person>Bart</person></fam> Simpson! Did you just spray water on me?
 
 It was water this morning.
 
 <stage>GRUNTS</stage>
 
-Dang that <fam>Bart</fam>! Thanks to him, I have to wear my backup dress, which makes my arms look fat.
+Dang that <fam><person>Bart</person></fam>! Thanks to him, I have to wear my backup dress, which makes my arms look fat.
 
 You look great!
 
@@ -136,23 +138,23 @@ Ha-ha!
 
 You feel self-conscious!
 
-<stage>MARGE GRUNTS ANGRILY</stage>
+<stage><person>MARGE</person> GRUNTS ANGRILY</stage>
 
 Why can't our son just behave?
 
-Well, <fam>Marge</fam>, you did have that one sip of alcohol while you were pregnant.
+Well, <fam><person>Marge</person></fam>, you did have that one sip of alcohol while you were pregnant.
 
 I now christen this ship, the USS Float and sh**t.
 
-<stage>MARGE GASPS</stage>
+<stage><person>MARGE</person> GASPS</stage>
 
 Ay, <catchphrase>caramba</catchphrase>! Ay, <catchphrase>caramba</catchphrase>!
 
 That was unforgivable.
 
-But I'm beginning to think that <fam>Bart</fam>'s bad behavior is more than just a phase.
+But I'm beginning to think that <fam><person>Bart</person></fam>'s bad behavior is more than just a phase.
 
-Mom! <fam>Bart</fam>'s flicking boogers on me!
+Mom! <fam><person>Bart</person></fam>'s flicking boogers on me!
 
 They're not boogers! They're clumps of rubber cement that I stored in my nose.
 
@@ -168,7 +170,7 @@ Both: Yes, ma'am.
 
 <stage>PIANO PLAYING SLOW MUSIC</stage>
 
-Wow, Lenny went all out.
+Wow, <person>Lenny</person> went all out.
 
 Announcer: In the beginning, there was darkness. So God created man.
 
@@ -198,7 +200,7 @@ These are going right on my mom's grave!
 
 Thank you for being a friend
 
-Lenny, it was pretty cool of you to spend your lotto winnings on your pals.
+<person>Lenny</person>, it was pretty cool of you to spend your lotto winnings on your pals.
 
 It was worth it so everyone could have a wonderful evening and go home with a gift bag.
 
@@ -228,7 +230,7 @@ Yep, there it is.
 
 The three of us could create quite a lot of mischief.
 
-But I have to fly back to New York. That's where my wife and I live.
+But I have to fly back to <location>New York</location>. That's where my wife and I live.
 
 That's her. You want to see pictures of our kids?
 
@@ -236,7 +238,7 @@ My name is Simon Woosterfield.
 
 Woosterfield?
 
-Your family owns this place. And Woosterfield Arena.
+Your family owns this place. And <location>Woosterfield Arena</location>.
 
 Bonnie Raitt played there. You guys must be loaded!
 
@@ -254,13 +256,13 @@ Wouldn't it be hilarious if we switched places and lived each other's lives for 
 
 I don't know. I'm pretty attached to my family. And...
 
-<fam>Homer</fam>: Get out here, boy! I want to punish you before I get drunk and merciful!
+<fam><person>Homer</person></fam>: Get out here, boy! I want to punish you before I get drunk and merciful!
 
 Deal!
 
-My father's name is <fam>Homer</fam>. My mother's name is Mom.
+My father's name is <fam><person>Homer</person></fam>. My mother's name is Mom.
 
-My sister's name is <fam>Lisa</fam> but everyone calls her Loser.
+My sister's name is <fam><person>Lisa</person></fam> but everyone calls her Loser.
 
 <stage>LAUGHING</stage>
 
@@ -280,11 +282,11 @@ Thank you, Lipizzaner.
 
 As you say, sir. Watch your head.
 
-<fam>Bart</fam>: Ow.
+<fam><person>Bart</person></fam>: Ow.
 
 <stage>CAR ENGINE STARTING</stage>
 
-<stage>HOMER GRUNTING ANGRILY</stage>
+<stage><person>HOMER</person> GRUNTING ANGRILY</stage>
 
 You ruin everything!
 
@@ -304,11 +306,12 @@ McMansion, Fleetwood Mac and Macaulay Culkin!
 
 And this is your home, sir. But of course you already knew that.
 
-<fam>Bart</fam>: Awesome.
+<fam><person>Bart</person></fam>: Awesome.
 
 Awesome!
 
-Awesome!<stage>EXCLAIMS DISINTERESTEDLY</stage>
+Awesome!
+<stage>EXCLAIMS DISINTERESTEDLY</stage>
 
 This is my bedroom?
 
@@ -322,13 +325,13 @@ Wow. Cool poster of Joe Montana.
 
 It's not a poster.
 
-<stage>BART SCREAMS</stage>
+<stage><person>BART</person> SCREAMS</stage>
 
 I'm the real deal.
 
-And every day I stand here, the family donates a million dollars to Notre Dame.
+And every day I stand here, the family donates a million dollars to <location>Notre Dame</location>.
 
-Did you know the words "Notre Dame" are French but the team is the Fighting lrish?
+Did you know the words "<location>Notre Dame</location>" are French but the team is the Fighting lrish?
 
 That's the kind of thing I think about in here.
 
@@ -336,7 +339,7 @@ Back in the poster, Gabby.
 
 Yes, sir.
 
-Milhouse, it's me. Check out the caller ID on your phone.
+<person>Milhouse</person>, it's me. Check out the caller ID on your phone.
 
 Blocked number? That service is 3.65 a month!
 
@@ -362,7 +365,7 @@ Talk louder? You bet!
 
 Naturally I threw my old chair in the Dumpster right away!
 
-But then Lenny said, "No. That was the new chair.
+But then <person>Lenny</person> said, "No. That was the new chair.
 
 "That memo was two months old." So now I'm sitting on an orange crate.
 
@@ -376,7 +379,7 @@ Keep your meal in your mouth, you semi-literate spew monkey!
 
 That's it, boy! You're going to bed without supper!
 
-That was an odd thing for <fam>Bart</fam> to say.
+That was an odd thing for <fam><person>Bart</person></fam> to say.
 
 Maybe he's going through certain changes.
 
@@ -386,7 +389,7 @@ Stupid kids, think I'm made of hormones.
 
 <stage>MUFFLED</stage> Mister La-Di-Da, uppity...
 
-This is the greatest great hall I've ever eaten in, <fam>Bart</fam>.
+This is the greatest great hall I've ever eaten in, <fam><person>Bart</person></fam>.
 
 Chester: Huh?
 
@@ -416,7 +419,7 @@ Now I get it.
 
 Quenley: Hmm!
 
-<fam>Bart</fam>, I have a crush on your new sister.
+<fam><person>Bart</person></fam>, I have a crush on your new sister.
 
 You had a crush on my old sister!
 
@@ -424,7 +427,7 @@ Yeah. But that was never gonna happen.
 
 Give me back my newspaper!
 
-<fam>Marge</fam>: <fam>Homer</fam>, it's not a real paper!
+<fam><person>Marge</person></fam>: <fam><person>Homer</person></fam>, it's not a real paper!
 
 It's a rubber chew toy!
 
@@ -452,7 +455,7 @@ Enjoy the upper lower middle class.
 
 <stage>SIGHS</stage>
 
-<fam>Bart</fam>, honey? I saw you didn't like your dinner.
+<fam><person>Bart</person></fam>, honey? I saw you didn't like your dinner.
 
 So I thought you might like pepperoni pizza with the crusts cut off.
 
@@ -464,7 +467,7 @@ Nighty-night, sweetheart.
 
 I could get used to this.
 
-Fancy party. This is like a rap video before the rappers show up.
+Fancy <location>party</location>. This is like a rap video before the rappers show up.
 
 Simon, have you ever seen the family mausoleum?
 
@@ -474,27 +477,27 @@ Do you know that after 100 years, d*ad bodies turn to red licorice?
 
 Whoa! Let me at it!
 
-<fam>Bart</fam>: Help! Let me out! I have my doubts about this licorice!
+<fam><person>Bart</person></fam>: Help! Let me out! I have my doubts about this licorice!
 
-<stage>MR. BURNS GROANS</stage>
+<stage>MR. <person>BURNS</person> GROANS</stage>
 
-Mr. Burns, I'm really sorry.
+Mr. <person>Burns</person>, I'm really sorry.
 
 Nonsense, Young Woosterfield.
 
 Your fortune is greater than mine. It is I who am at your service.
 
-Smithers, fetch us some lemonade!
+<person>Smithers</person>, fetch us some lemonade!
 
-<stage>MR. BURNS GRUNTS WEAKLY</stage>
+<stage>MR. <person>BURNS</person> GRUNTS WEAKLY</stage>
 
-<stage>SMITHERS PANTING</stage>
+<stage><person>SMITHERS</person> PANTING</stage>
 
 All they had was Sunnytime Pink.
 
 Premix? I beg your forgiveness, lad.
 
-Smithers, pour it down your pants!
+<person>Smithers</person>, pour it down your pants!
 
 Now squish about in those pants, rewetting every hour!
 
@@ -514,7 +517,7 @@ My sister died of a poisoned potato. My twin was sh*t. That girl was s*ab.
 
 He ate another poisoned potato. Spontaneous combustion.
 
-Fell down a well, potato, potato, and impaled on the Chrysler Building.
+Fell down a well, potato, potato, and impaled on <location>the Chrysler Building</location>.
 
 Wow. Only you survived.
 
@@ -536,7 +539,7 @@ And all this time I thought he wanted the life of a stranger he met in the bathr
 
 Now, would you care to continue this conversation on the teeter-totter?
 
-<stage>BART GRUNTING</stage>
+<stage><person>BART</person> GRUNTING</stage>
 
 Why won't you come down?
 
@@ -554,7 +557,7 @@ Oh.
 
 That means I gotta come up with an ending for this nonsense!
 
-<fam>Bart</fam>, what are you doing?
+<fam><person>Bart</person></fam>, what are you doing?
 
 Politely listening to our grandfather.
 
@@ -568,7 +571,7 @@ They continued to challenge Coke!
 
 Okay, listen, you.
 
-I don't know who you are or what you've done with the real <fam>Bart</fam>, but...
+I don't know who you are or what you've done with the real <fam><person>Bart</person></fam>, but...
 
 Well, God help me, I want him back.
 
@@ -576,7 +579,7 @@ I don't know what you're talking about.
 
 <stage>CHUCKLES</stage>
 
-The real <fam>Bart</fam> would've thrown me out the window!
+The real <fam><person>Bart</person></fam> would've thrown me out the window!
 
 He would have defenestrated you?
 
@@ -584,7 +587,7 @@ You're just digging yourself even deeper.
 
 <stage>GRUNTING</stage>
 
-Come on, <fam>Bart</fam>. You gotta get out of here.
+Come on, <fam><person>Bart</person></fam>. You gotta get out of here.
 
 Pack like you've never packed before. You know, I have never packed before.
 
@@ -614,13 +617,13 @@ And when you're covered with goo that's when I'm scrubbing you.
 
 Scrub-ub-ub-ub-ub Scrub-ub-ub-ub-ub
 
-Mom, "<fam>Bart</fam>" has something to tell you.
+Mom, "<fam><person>Bart</person></fam>" has something to tell you.
 
 I don't like the look of those air quotes.
 
-So now <fam>Bart</fam> is on his way to Aspen where they're going to try to k*ll him.
+So now <fam><person>Bart</person></fam> is on his way to Aspen where they're going to try to k*ll him.
 
-Thank you, Future <fam>Bart</fam>, for traveling back through time to warn us.
+Thank you, Future <fam><person>Bart</person></fam>, for traveling back through time to warn us.
 
 Boy, Aspen sure is ritzy. Even the winos look better.
 
@@ -634,7 +637,7 @@ Which is what you'll be if you make it to the bottom.
 
 Which you won't.
 
-<stage>BART SCREAMS</stage>
+<stage><person>BART</person> SCREAMS</stage>
 
 Soon he'll be d*ad.
 
@@ -646,7 +649,7 @@ Potato?
 
 <stage>GASPS</stage>
 
-There's <fam>Bart</fam>!
+There's <fam><person>Bart</person></fam>!
 
 This looks like a job for Captain Crazy! Up, up, and away!
 
@@ -654,7 +657,7 @@ Come on, gravity. You used to be cool.
 
 <catchphrase>D'oh</catchphrase>!
 
-<stage>HOMER SCREAMS</stage>
+<stage><person>HOMER</person> SCREAMS</stage>
 
 Occupied.
 
@@ -676,7 +679,7 @@ You know, I feel sorry for you, kid, going back to that cold, loveless family.
 
 I'll survive.
 
-Your favorite, sir. Hot fudge sundae with gold leaf and diamond flakes.
+Your favorite, sir. Hot fudge sundae with gold <location>leaf</location> and diamond flakes.
 
 Take me with you! I'll be anything and everything you want!
 
@@ -684,14 +687,15 @@ Don't leave me here with them!
 
 I never thought I'd say this, but I missed you guys.
 
-Even what's-her-name... <fam>Lisa</fam>.
+Even what's-her-name... <fam><person>Lisa</person></fam>.
 
-<stage>LISA GRUNTS ANGRILY</stage>
+<stage><person>LISA</person> GRUNTS ANGRILY</stage>
 
 Now we tuck in the tummy, the tushy, and the tootsies.
 
-<stage>MARGE GIBBERING</stage>
+<stage><person>MARGE</person> GIBBERING</stage>
 
-<stage>BART LAUGHING</stage>
+<stage><person>BART</person> LAUGHING</stage>
 
-This is the life.</txt></xml>
+This is the life.
+</txt></xml>

@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>The Burns and the Bees</epTitle><szn>20</szn>x<epNum>08</epNum></ep><date>12/11/08</date> <runtime>10:06</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>The <person>Burns</person> and the Bees</epTitle><szn>20</szn>x<epNum>08</epNum></ep>
+<date>12/11/08</date> <runtime>10:06</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -58,17 +60,17 @@ I dare you to dump that bees' nest on those second-grade babies.
 
 Why would I want to?
 
-Because I said, "I dare you." Kearney, can you read it back?
+Because I said, "I dare you." <person>Kearney</person>, can you read it back?
 
 "Nice prank, Simpson. I dare you to dump that bees' nest on those second-grade babies."
 
-<fam>Bart</fam>: Why would I want to?
+<fam><person>Bart</person></fam>: Why would I want to?
 
-Jimbo: Because I said, 'I dare you.'
+<person>Jimbo</person>: Because I said, 'I dare you.'
 
-"Kearney, can you read it back?
+"<person>Kearney</person>, can you read it back?
 
-"Kearney, reading: Nice prank, Simpson. I dare you to..."
+"<person>Kearney</person>, reading: Nice prank, Simpson. I dare you to..."
 
 The point is, Simpson, a dare has been placed on your nards!
 
@@ -108,7 +110,7 @@ Willie, I didn't know you were an apiarist.
 
 From context, I can tell that means beekeeper.
 
-'Tis a tragedy, <fam>Lisa</fam>. No man should outlive his bees.
+'Tis a tragedy, <fam><person>Lisa</person></fam>. No man should outlive his bees.
 
 They're stinging God now.
 
@@ -124,19 +126,19 @@ I fold.
 
 I raise a million dollars.
 
-And to sweeten the pot, my assistant, Smithers.
+And to sweeten the pot, my assistant, <person>Smithers</person>.
 
 If you lose me, sir, may I say what an honor it's been to...
 
 Bets don't talk. They see and raise.
 
-<stage>SMITHERS GROANS</stage>
+<stage><person>SMITHERS</person> GROANS</stage>
 
 Well, if we're betting people, I got a whole herd of them.
 
 My professional basketball team, the Austin Celtics.
 
-Well, they're hardly worth a Smithers. But we don't have all night.
+Well, they're hardly worth a <person>Smithers</person>. But we don't have all night.
 
 Can you b*at nine high?
 
@@ -190,13 +192,13 @@ Honey?
 
 <stage>MOANING</stage>
 
-<stage>HOMER YELLING</stage>
+<stage><person>HOMER</person> YELLING</stage>
 
 <catchphrase>D'oh</catchphrase>!
 
 I never dreamed the future could be scary.
 
-Let's go, <fam>Lisa</fam>.
+Let's go, <fam><person>Lisa</person></fam>.
 
 We've got some worms to save.
 
@@ -216,7 +218,8 @@ How I hate him.
 
 In there. Close. See these red dots?
 
-10 whole seconds.<stage>CHAINSAW WHIRRING</stage>
+10 whole seconds.
+<stage>CHAINSAW WHIRRING</stage>
 
 It's time for this peacock to show his feathers.
 
@@ -234,15 +237,15 @@ The secret is not to swallow the stingers.
 
 Dad, don't eat the bees!
 
-They're just drones, <fam>Lisa</fam>.
+They're just drones, <fam><person>Lisa</person></fam>.
 
 They only live for like five minutes anyway.
 
-And they only have haploid cells, not diploid, like me and <fam>Bart</fam>!
+And they only have haploid cells, not diploid, like me and <fam><person>Bart</person></fam>!
 
 Yeah!
 
-Listen, <fam>Lisa</fam>, I was trying to think of a way to help your bees.
+Listen, <fam><person>Lisa</person></fam>, I was trying to think of a way to help your bees.
 
 And I remembered this abandoned greenhouse outside of town.
 
@@ -262,19 +265,19 @@ I miss them.
 
 Now you know how I'll feel when you go to college.
 
-You'll always have <fam>Bart</fam>, always.
+You'll always have <fam><person>Bart</person></fam>, always.
 
 But he'll be gone a lot, repairing refrigerators.
 
 Always.
 
-Announcer on PA: Ladies and gentlemen, please welcome your new fun-Ioving owner.
+Announcer on <location>PA</location>: Ladies and gentlemen, please welcome your new fun-Ioving owner.
 
-You've seen him on the cover of the December 1943 issue of Collier's Magazine, Montgomery Burns!
+You've seen him on the cover of the December 1943 issue of Collier's Magazine, Montgomery <person>Burns</person>!
 
 <stage>CROWD CHEERING</stage>
 
-Silence! Now let's make some noise for everyone's favorite basketball team, whom I have renamed the Springfield Excitement!
+Silence! Now let's make some noise for everyone's favorite basketball team, whom I have renamed <location>the Springfield Excitement</location>!
 
 I knew it!
 
@@ -312,7 +315,7 @@ The Cold w*r.
 
 Then what? Then what?
 
-<stage>SMITHERS WHISPERING UNINTELLIGIBLY</stage>
+<stage><person>SMITHERS</person> WHISPERING UNINTELLIGIBLY</stage>
 
 Then what?
 
@@ -320,9 +323,9 @@ The European Union.
 
 A European union? Good heavens.
 
-Mr. Burns: Ladies, hold on to your husbands.
+Mr. <person>Burns</person>: Ladies, hold on to your husbands.
 
-It's time for the saucy antics of Springfield's own.
+It's time for the saucy antics of <location>Springfield</location>'s own.
 
 Basket-Belles!
 
@@ -334,7 +337,7 @@ Enough of this vulgarity! Back to your brothel, harlots!
 
 Now enjoy your game and the madcap antics of the freewheeling title holder of this asset, me!
 
-<stage>HIP-HOPHOORA YPLAYING OVER PA</stage>
+<stage>HIP-HOPHOORA YPLAYING OVER <location>PA</location></stage>
 
 Hip-Hop hooray! Ho! Hey! Ho!
 
@@ -378,7 +381,7 @@ New arena.
 
 That's it, men! Pave and tar the way God intended!
 
-Mr. Burns, you can't do this!
+Mr. <person>Burns</person>, you can't do this!
 
 I can, I shall, and in the future, I will have done!
 
@@ -392,9 +395,9 @@ I don't know who that guy was you were leaving your kids with.
 
 Now without further ado, let's get ready to referendum!
 
-There's only one place in town where the bees can survive, and Mr. Burns wants to tear it down.
+There's only one place in town where the bees can survive, and Mr. <person>Burns</person> wants to tear it down.
 
-<stage>MR. BURNS GULPS</stage>
+<stage>MR. <person>BURNS</person> GULPS</stage>
 
 Please, people. You didn't listen to me about the snail darter.
 
@@ -432,4 +435,5 @@ No! No! Just k*ll me now!
 
 <stage>SOUTHERN ACCENT</stage> Howdy do! I own a minor league hockey team!
 
-<stage>SCREAMING</stage></txt></xml>
+<stage>SCREAMING</stage>
+</txt></xml>

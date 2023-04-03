@@ -5,16 +5,18 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>02/28/19</date> <runtime>06:42</runtime></metadata>
 
-<stage>LISA YAWNING</stage>  
+<stage><person>LISA</person> YAWNING</stage>  
 
 <stage>YAWNING LOUDLY</stage>  
 
@@ -29,7 +31,7 @@ And then, last night, my dreams were in French!
 
 My dream is you keep moving.  
 
-FRENCH NARRATOR: <fam>Lisa</fam> Simpson, a bright girl in a dull school. 
+FRENCH NARRATOR: <fam><person>Lisa</person></fam> Simpson, a bright girl in a dull school. 
 
 She likes the sound a Sharpie makes 
 
@@ -59,7 +61,7 @@ Frankly, I am redundant.
 
 "J. Beardsley."   
 
-<stage>GASPS</stage> Jasper!   
+<stage>GASPS</stage> <person>Jasper</person>!   
 
 FRENCH NARRATOR: Suddenly, in the middle 
 
@@ -67,7 +69,7 @@ of this crap school, a mystery!
 
 Meanwhile, for the first time in his life, 
 
-<fam>Homer</fam> would be disappointed in a kitchen. 
+<fam><person>Homer</person></fam> would be disappointed in a kitchen. 
 
 Oh, my God. Leftovers!   
 
@@ -90,7 +92,7 @@ Tubberware? Isn't that the thing where you find people to host parties where you
 
 Well, you do your Kickstarters.   
 
-Hey, if people pay to send me on my tour of rocking chairs in the Midwest, that helps everyone.   
+Hey, if people pay to send me on my tour of rocking chairs in the <location>Midwest</location>, that helps everyone.   
 
 We really could use the money.   
 
@@ -100,13 +102,13 @@ Please, <fam>Homie</fam>.
 
 I want to open a checking account so the family finally has one.   
 
-<fam>Marge</fam>, no wife of mine will ever have to work.   
+<fam><person>Marge</person></fam>, no wife of mine will ever have to work.   
 
 Is what men used to say for some insane reason.   
 
 You have my blessing.   
 
-Where's Jasper? He's late again.   
+Where's <person>Jasper</person>? He's late again.   
 
 Maybe we should feed the birds without him.   
 
@@ -122,11 +124,11 @@ It's not Bernie?
 
 <stage>AMÉLIE THEME PLAYS</stage>   
 
-FRENCH NARRATOR: <fam>Lisa</fam> returned Jasper's childhood, 
+FRENCH NARRATOR: <fam><person>Lisa</person></fam> returned <person>Jasper</person>'s childhood, 
 
 and all she wanted was her own secret giggle. 
 
-<stage>WHISPERS</stage>: Jasper.   
+<stage>WHISPERS</stage>: <person>Jasper</person>.   
 
 <stage>GASPS, COUGHS</stage>   
 
@@ -152,7 +154,7 @@ I've been angry my whole life, but suddenly, the world seems... magical.
 FRENCH NARRATOR:
 For the first time ever, 
 
-<fam>Lisa</fam> experienced a feeling 
+<fam><person>Lisa</person></fam> experienced a feeling 
 
 that could only be described as... magnifique.   
 
@@ -162,12 +164,12 @@ Tubberware? I'd love to buy some.
 
 No, you don't buy it now.   
 
-You have a party, and then I sell it to your friends.   
+You have a <location>party</location>, and then I sell it to your friends.   
 
 - No!
 - <stage>SIGHS</stage>   
 
-You have the party at your house...   
+You have the <location>party</location> at your house...   
 
 Oh.   
 
@@ -175,15 +177,15 @@ Then, when your friends fill out the order forms, we...
 
 Oh.   
 
-If you host a Tubberware party, you get an exclusive gift: a lemonade pitcher!   
+If you host a Tubberware <location>party</location>, you get an exclusive gift: a lemonade pitcher!   
 
 Ma'am, if the good Lord wanted us to store juice in plastic, he wouldn't have made a possum's bladder watertight.   
 
-JULIO: Okay, <fam>Marge</fam>, you're like a black hole of sadness and split ends.   
+JULIO: Okay, <fam><person>Marge</person></fam>, you're like a black hole of sadness and split ends.   
 
 What is wrong with you?   
 
-I haven't booked a single Tubberware party.   
+I haven't booked a single Tubberware <location>party</location>.   
 
 I don't know why I thought I could do this.   
 
@@ -200,7 +202,7 @@ Ooh. Just like with a doormat, the key is underneath.
 - Huh?
 - You know what?    
 
-I will throw a Tubberware party for you.    
+I will throw a Tubberware <location>party</location> for you.    
 
 But it's gonna take me a while to plan.    
 
@@ -213,7 +215,7 @@ That's a punchbowl, and that's for leftover lasagna.
 
 What?! Whoever heard of leftover lasagna?    
 
-<stage>GROANS</stage> Maybe you should just go to Moe's.    
+<stage>GROANS</stage> Maybe you should just go to <person>Moe</person>'s.    
 
 Fine, but I'm not gonna get drunk.    
 
@@ -225,7 +227,7 @@ I just can't stay sober at you.
 
 I can't do this. I can't do this!    
 
-Can't? Can't? <fam>Marge</fam>, I never want to hear you use the C-A-next-Tuesday word again.    
+Can't? Can't? <fam><person>Marge</person></fam>, I never want to hear you use the C-A-next-Tuesday word again.    
 
 You need to tap into your female warrior side.    
 
@@ -269,7 +271,7 @@ Let me assure you, the lids match the tubs.
 
 Mm. Mm-hmm.    
 
-Oh. You should have told us this was a drag Tubberware party.    
+Oh. You should have told us this was a drag Tubberware <location>party</location>.    
 
 He's the most convincing woman I've ever seen.    
 
@@ -277,9 +279,9 @@ Oh, oh, yes, yes.
 
 He is quite the impersonator.    
 
-He calls himself "<fam>Marge</fam>."    
+He calls himself "<fam><person>Marge</person></fam>."    
 
-Perfect! "<fam>Marge</fam>."    
+Perfect! "<fam><person>Marge</person></fam>."    
 
 If she were any more camp, she'd be a Coleman lantern.    
 
@@ -291,7 +293,7 @@ And you wanted to go dancing.
 
 Mm. Mm-mm-mm-mm.    
 
-And voilà... a <fam>Marge</fam>-tini!    
+And voilà... a <fam><person>Marge</person></fam>-tini!    
 
 But don't worry.    
 
@@ -302,7 +304,7 @@ That's not the only surprise I've got tucked away.
 
 No one's that funny.    
 
-FRENCH NARRATOR: And that night, <fam>Marge</fam> sold more Tubberware 
+FRENCH NARRATOR: And that night, <fam><person>Marge</person></fam> sold more Tubberware 
 
 than she ever imagined. 
 
@@ -316,9 +318,9 @@ I'm really good at this.
 
 Yeah, well, uh, you see, um...    
 
-"<fam>Marge</fam>" is good at this.    
+"<fam><person>Marge</person></fam>" is good at this.    
 
-Yeah, <fam>Marge</fam>. Me. I'm <fam>Marge</fam>.    
+Yeah, <fam><person>Marge</person></fam>. Me. I'm <fam><person>Marge</person></fam>.    
 
 Okay, so here's what happened, okay?    
 
@@ -333,11 +335,11 @@ I felt so pretty, but the whole time, people thought I was a man.
 
 A man who looked like a fabulous woman!    
 
-Drag queens can be very beautiful. Exhibit: me.    
+Drag <location>queens</location> can be very beautiful. Exhibit: me.    
 
 I call myself "Penelope Cruising."    
 
-I was Mr. Burns's date for the Kennedy Center Honors.    
+I was Mr. <person>Burns</person>'s date for <location>the Kennedy Center Honors</location>.    
 
 See? Look how cute I am.    
 
@@ -355,14 +357,14 @@ Oh, you're just being nice.
 
 It was ju! It was ju! It was ju!    
 
-And besides, the top Tubberware sellers... they're all drag queens.    
+And besides, the top Tubberware sellers... they're all drag <location>queens</location>.    
 
 What? That can't be true.    
 
-So, what do you say, <fam>Marge</fam>?
+So, what do you say, <fam><person>Marge</person></fam>?
 Are you in it to win it?    
 
-CONTAINER: Go for it, <fam>Marge</fam>!    
+CONTAINER: Go for it, <fam><person>Marge</person></fam>!    
 
 Who cares if what's outside doesn't match what's inside?    
 
@@ -374,9 +376,9 @@ All the bread you're gonna make selling Tubberware.
 
 Did you just high-five that bowl?    
 
-Be cool, <fam>Marge</fam>. Be cool.    
+Be cool, <fam><person>Marge</person></fam>. Be cool.    
 
-<fam>Homer</fam>, order anything you like.
+<fam><person>Homer</person></fam>, order anything you like.
 It's on me.    
 
 Anything. 
@@ -396,7 +398,7 @@ But all you need is a "G."
 
 You should be like the "G" in gnocchi... silent!    
 
-Mmm. Oh, <fam>Marge</fam>, thank you.    
+Mmm. Oh, <fam><person>Marge</person></fam>, thank you.    
 
 Thank you. I'm so happy!    
 
@@ -406,7 +408,7 @@ Leftover lasagna.
 
 <catchphrase>D'oh</catchphrase>!    
 
-FRENCH NARRATOR: <fam>Lisa</fam> still felt sort of magnifique,    
+FRENCH NARRATOR: <fam><person>Lisa</person></fam> still felt sort of magnifique,    
 
 but the magical feeling from her good deed started to fade. 
 
@@ -422,9 +424,9 @@ between the identical-looking Kirk and Luann.
 
 KIRK: Looks like dying my nose hair's really paying off! 
 
-FRENCH NARRATOR: Next, <fam>Lisa</fam> helped Gil, 
+FRENCH NARRATOR: Next, <fam><person>Lisa</person></fam> helped <person>Gil</person>, 
 
-Springfield's Pepé Le Pew, minus the charm. 
+<location>Springfield</location>'s Pepé Le Pew, minus the charm. 
 
 Sir, would ya like one? No, huh? Well, I guess not.    
 
@@ -438,19 +440,19 @@ Oh, my God. People are taking them!
 
 I'm turning the heat on in my car tonight.    
 
-LISA: <fam>Bart</fam>. Wake up. 
+<person>LISA</person>: <fam><person>Bart</person></fam>. Wake up. 
 
-<fam>Bart</fam>! I need your help again.    
+<fam><person>Bart</person></fam>! I need your help again.    
 
-FRENCH NARRATOR: But <fam>Lisa</fam>'s greatest challenge 
+FRENCH NARRATOR: But <fam><person>Lisa</person></fam>'s greatest challenge 
 
-was to make Mrs. Skinner believe in her son again. 
+was to make Mrs. <person>Skinner</person> believe in her son again. 
 
-So <fam>Lisa</fam> created an imaginary journal for Seymour, 
+So <fam><person>Lisa</person></fam> created an imaginary journal for Seymour, 
 
 one that would mend all fences. 
 
-I have to get this fake diary into Skinner's house.    
+I have to get this fake diary into <person>Skinner</person>'s house.    
 
 Here's the key.    
 
@@ -460,9 +462,9 @@ Oh, and here's some tuna. I'm making his cat really fat.
 
 <stage>YAWNING</stage>    
 
-So <fam>Lisa</fam> hid the diary 
+So <fam><person>Lisa</person></fam> hid the diary 
 
-where she knew Mrs. Skinner would find it... 
+where she knew Mrs. <person>Skinner</person> would find it... 
 
 anywhere a grown man would expect privacy. 
 
@@ -478,13 +480,13 @@ A gift card now, and an apology on my deathbed.
 
 Meanwhile, to help perfect her art and increase business, 
 
-Julio took <fam>Marge</fam> 
+Julio took <fam><person>Marge</person></fam> 
 
-to Springfield's hottest drag club, 
+to <location>Springfield</location>'s hottest drag club, 
 
 with its most confusing bathroom signage. 
 
-<fam>Marge</fam>, this is Queen Chanté, Barbra Streisman, the Mysterious Waylon, and Fiona Adams Apple.    
+<fam><person>Marge</person></fam>, this is Queen Chanté, Barbra Streisman, the Mysterious Waylon, and Fiona Adams Apple.    
 
 Hello, squirrel-friend.    
 
@@ -503,13 +505,13 @@ Mel, is that you?
 
 Yes! I've taped my bone between my legs.    
 
-Your Majesty, can <fam>Marge</fam> lip-synch with us?    
+Your Majesty, can <fam><person>Marge</person></fam> lip-synch with us?    
 
-Honey, I'll tell you what I told Eddie Murphy:    
+Honey, I'll tell you what I told <person>Eddie</person> Murphy:    
 
 "Sure, why not?"    
 
-So, tell me about this "<fam>Marge</fam>" character.    
+So, tell me about this "<fam><person>Marge</person></fam>" character.    
 
 What is she like?    
 
@@ -576,7 +578,7 @@ Even penises!
 
 Oh, hi, Helen.    
 
-Hi, <fam>Marge</fam>.    
+Hi, <fam><person>Marge</person></fam>.    
 
 I heard you're selling Tubberware.    
 
@@ -594,11 +596,11 @@ Is it because your husband would rather play with his toy train than with you?
 
 Not Helen!    
 
-You better beware, <fam>Bart</fam>.    
+You better beware, <fam><person>Bart</person></fam>.    
 
 Mom just grew a backbone.    
 
-- <stage>MRS. SKINNER LAUGHS</stage>
+- <stage>MRS. <person>SKINNER</person> LAUGHS</stage>
 - You mean it, Mother?    
 
 You'll finally let me take karate lessons?    
@@ -654,7 +656,7 @@ I'm living off my wife like Mr. Meryl Streep!
 
 Don Gummer.    
 
-<fam>Homer</fam>, do you know exactly what <fam>Marge</fam> is up to?    
+<fam><person>Homer</person></fam>, do you know exactly what <fam><person>Marge</person></fam> is up to?    
 
 Because, uh, we know, and we've told everybody except you.    
 
@@ -675,21 +677,21 @@ That's right. Get really drunk, then go to this address. Uh-huh.
 
 Hello. Are you on the list?    
 
-I have to be on the list for a Tubberware party?    
+I have to be on the list for a Tubberware <location>party</location>?    
 
 Well, you do for this one.    
 
-<fam>Marge</fam> is like if Donna Reed and Donna Summer combined to solve all your food storage problems.    
+<fam><person>Marge</person></fam> is like if Donna Reed and Donna Summer combined to solve all your food storage problems.    
 
 And rumor has it, out of drag,    
 
-<fam>Marge</fam> is hot, hunky and all man.    
+<fam><person>Marge</person></fam> is hot, hunky and all man.    
 
 My wife is none of those things!    
 
 She leaves the room to burp!    
 
-<fam>Marge</fam>! You didn't tell me you're tricking all these people into thinking you're a drag queen, when you're really a regular housewife in need of empowerment, and now... that I say it out loud, it doesn't seem so bad.    
+<fam><person>Marge</person></fam>! You didn't tell me you're tricking all these people into thinking you're a drag queen, when you're really a regular housewife in need of empowerment, and now... that I say it out loud, it doesn't seem so bad.    
 
 She's not a female impersonator.    
 
@@ -723,15 +725,15 @@ I'm going out. You can watch the kids and wonder where I am.
 
 No. I don't want anything to do with him.    
 
-<stage>LISA CRYING</stage>    
+<stage><person>LISA</person> CRYING</stage>    
 
-<fam>Lisa</fam>, are you okay?    
+<fam><person>Lisa</person></fam>, are you okay?    
 
 I tried to play God, and like the real God, it went horribly wrong.    
 
 FRENCH NARRATOR: Life was a struggle for the Simpson women. 
 
-Even <fam>Maggie</fam>. 
+Even <fam><person>Maggie</person></fam>. 
 
 But where there is life, there is hope. 
 
@@ -749,29 +751,29 @@ a day that would soon change the Simpson women forever.
 
 Read the tots.    
 
-LISA: "Go to the roof"?    
+<person>LISA</person>: "Go to the roof"?    
 
 Enjoy.    
 
 Next!    
 
-NELSON: Huh?    
+<person>NELSON</person>: Huh?    
 
 Aw, man!    
 
-<fam>Lisa</fam>, would you join us for lunch?    
+<fam><person>Lisa</person></fam>, would you join us for lunch?    
 
 We decided to bring some magic into your life.    
 
 Ah, you deserve it, sweetie. You're the only person in this town who thinks about someone other than herself.    
 
-The only person who would listen to old Gil when he...    
+The only person who would listen to old <person>Gil</person> when he...    
 
 She had finally found her place to eat lunch. 
 
-But what is this? Has <fam>Homer</fam> lost his will to drink? 
+But what is this? Has <fam><person>Homer</person></fam> lost his will to drink? 
 
-<fam>Homer</fam>, we're sorry we razzed ya.    
+<fam><person>Homer</person></fam>, we're sorry we razzed ya.    
 
 We were just trying to hurt your feelings.    
 
@@ -783,7 +785,7 @@ Nothing you can do. Change your name, glue on a wig and find yourself a new woma
 
 <stage>GASPS</stage> That's it!    
 
-Moe, you're a genius!    
+<person>Moe</person>, you're a genius!    
 
 Wish me luck.    
 
@@ -819,14 +821,14 @@ number two is the kicker.
 
 My husband and I have had more than the usual number of scrapes, but we've always gotten back to our love.    
 
-But this time, you all made me feel understood and supported, and therefore made me realize how selfish <fam>Homer</fam> is.    
+But this time, you all made me feel understood and supported, and therefore made me realize how selfish <fam><person>Homer</person></fam> is.    
 
 - ALL: Oh...
 - Oh, honey.    
 
 And what hurts the most is that I can't imagine there's anything he can say or do to make me come back.    
 
-HOMER: Oh. Well, then I went through a lot of work for nothing.    
+<person>HOMER</person>: Oh. Well, then I went through a lot of work for nothing.    
 
 - <fam>Homie</fam>.
 - Honey, I understand it now.    
@@ -839,7 +841,7 @@ Hey, believe me, nobody is wondering, baby.
 
 Ow!    
 
-If you don't go to him, <fam>Marge</fam>, I will.    
+If you don't go to him, <fam><person>Marge</person></fam>, I will.    
 
 And he will never leave my kitchen.    
 
@@ -868,11 +870,11 @@ I don't know. I guess these days it's okay for everyone
 - to be everything.
 - So, miss, are you alone?    
 
-It's me, <fam>Homer</fam>!    
+It's me, <fam><person>Homer</person></fam>!    
 
 Hmm? Oh!    
 
-All the good ones are either married or <fam>Homer</fam>.
+All the good ones are either married or <fam><person>Homer</person></fam>.
 
 
 </txt></xml>

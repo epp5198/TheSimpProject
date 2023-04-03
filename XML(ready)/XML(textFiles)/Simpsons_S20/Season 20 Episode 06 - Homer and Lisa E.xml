@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle><fam>Homer</fam> and <fam>Lisa</fam> Exchange Cross Words</epTitle><szn>20</szn>x<epNum>06</epNum></ep><date>11/20/08</date> <runtime>05:22</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle><fam><person>Homer</person></fam> and <fam><person>Lisa</person></fam> Exchange Cross Words</epTitle><szn>20</szn>x<epNum>06</epNum></ep>
+<date>11/20/08</date> <runtime>05:22</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -34,7 +36,7 @@ Lousy dog. If you had your way, I'd walk you every day.
 
 Lemonade!
 
-<stage>HOMER PANTING</stage>
+<stage><person>HOMER</person> PANTING</stage>
 
 Girl: Stop pushing.
 
@@ -42,13 +44,13 @@ Six cups, please. And put it on my tab.
 
 Keep moving, deadbeat. Cash only.
 
-Fine. Lemonade's for babies, anyways. I'm going to Moe's for beer!
+Fine. Lemonade's for babies, anyways. I'm going to <person>Moe</person>'s for beer!
 
 Have fun drinking your lemonade, babies!
 
 <stage>CAR ENGINE SPUTTERING</stage>
 
-<fam>Lisa</fam>? Can Daddy borrow your bike?
+<fam><person>Lisa</person></fam>? Can Daddy borrow your bike?
 
 I guess.
 
@@ -58,11 +60,11 @@ I guess.
 
 <stage>SIGHS IN RELIEF</stage>
 
-Hey, Moe. Give me a...
+Hey, <person>Moe</person>. Give me a...
 
-<fam>Homer</fam>, shush.
+<fam><person>Homer</person></fam>, shush.
 
-We're watching Krabappel try to break up with Skinner.
+We're watching Krabappel try to break up with <person>Skinner</person>.
 
 Seymour, I have something difficult I want to say to you.
 
@@ -108,17 +110,17 @@ Exactly. You're good-Iooking. You have a decent job.
 
 What lonely widow wouldn't consider you an option?
 
-Thanks, <fam>Homer</fam>.
+Thanks, <fam><person>Homer</person></fam>.
 
 I don't think the school pep squad could've cheered me up more, and they were state runners-up in 1997.
 
 <stage>WHISTLING</stage>
 
-<fam>Homer</fam>, that was amazing.
+<fam><person>Homer</person></fam>, that was amazing.
 
 He actually felt better coming out of the breakup than he did going in.
 
-Say, <fam>Homer</fam>, you're real good at this.
+Say, <fam><person>Homer</person></fam>, you're real good at this.
 
 Think you could dump my girlfriend Doreen for me?
 
@@ -128,11 +130,11 @@ Well, except for me.
 
 And I've showered her with gifts, fancy soaps and massage oils and what have you.
 
-Here she comes. Work your magic, <fam>Homer</fam>.
+Here she comes. Work your magic, <fam><person>Homer</person></fam>.
 
-Is Lenny here?
+Is <person>Lenny</person> here?
 
-I'm afraid Lenny's d*ad.
+I'm afraid <person>Lenny</person>'s d*ad.
 
 What? I just talked to him.
 
@@ -148,7 +150,7 @@ Don't worry, folks. Our master chef is stirring up a fresh batch.
 
 Stop that transaction!
 
-I'm a part-time field agent with the Springfield Department of Commerce!
+I'm a part-time field agent with the <location>Springfield</location> Department of Commerce!
 
 Great gig.
 
@@ -170,7 +172,7 @@ Geez, I'm thirsty. You got any lemonade?
 
 Not anymore!
 
-<stage>LISA MUMBLING ANGRILY</stage>
+<stage><person>LISA</person> MUMBLING ANGRILY</stage>
 
 <stage>PEOPLE GRUMBLING</stage>
 
@@ -214,17 +216,17 @@ What is a four letter word for hero?
 
 Hero!
 
-Yes. But I meant <fam>Lisa</fam>.
+Yes. But I meant <fam><person>Lisa</person></fam>.
 
-<fam>Lisa</fam>! <fam>Lisa</fam>! <fam>Lisa</fam>!
+<fam><person>Lisa</person></fam>! <fam><person>Lisa</person></fam>! <fam><person>Lisa</person></fam>!
 
-<fam>Lisa</fam>! <fam>Lisa</fam>! <fam>Lisa</fam>!
+<fam><person>Lisa</person></fam>! <fam><person>Lisa</person></fam>! <fam><person>Lisa</person></fam>!
 
 <stage>TELEPHONE RINGS</stage>
 
 Y'ello?
 
-<fam>Homer</fam>? It's your old roommate, Grady.
+<fam><person>Homer</person></fam>? It's your old roommate, Grady.
 
 The gay guy?
 
@@ -240,15 +242,15 @@ Uh-huh.
 
 Got it.
 
-<fam>Marge</fam>, I'm going to a hardcore gay club and I won't be home till 3:00 in the morning!
+<fam><person>Marge</person></fam>, I'm going to a hardcore gay club and I won't be home till 3:00 in the morning!
 
-<fam>Marge</fam>: Have fun!
+<fam><person>Marge</person></fam>: Have fun!
 
 <stage>CHUCKLES</stage>
 
 Ay, <catchphrase>caramba</catchphrase>!
 
-<fam>Bart</fam>, I've fallen in love with crosswords.
+<fam><person>Bart</person></fam>, I've fallen in love with crosswords.
 
 It finally happened. You've gone completely fruit loops.
 
@@ -266,7 +268,7 @@ Fine! Go nuts! See if I care!
 
 Eye care. Optician's concern.
 
-Thanks for your help, <fam>Bart</fam>! BART. San Francisco people mover!
+Thanks for your help, <fam><person>Bart</person></fam>! <person>BART</person>. San Francisco people mover!
 
 Speaking of San Francisco people mover...
 
@@ -300,7 +302,7 @@ Me, too! I've been doing them since 1958.
 
 Back then, we called them alphabet hotels 'cause every letter gets its own little room.
 
-I still do the Springfield Shopper puzzle every day.
+I still do the <location>Springfield</location> Shopper puzzle every day.
 
 Let's see there...
 
@@ -328,7 +330,7 @@ That's one of your breakup lines!
 
 What would've happened if there was someone who could break us up every time I had my doubts about you?
 
-<stage>MARGE SNORING</stage>
+<stage><person>MARGE</person> SNORING</stage>
 
 <stage>BOTH SNORING</stage>
 
@@ -348,7 +350,7 @@ Get him, chairs and babies!
 
 <fam>Homie</fam>?
 
-<fam>Marge</fam>, I'm getting out of the breakup business, and I don't know if I'll ever sleep soundly again.
+<fam><person>Marge</person></fam>, I'm getting out of the breakup business, and I don't know if I'll ever sleep soundly again.
 
 Well, maybe...
 
@@ -430,13 +432,13 @@ No. It must just be a weird coincidence.
 
 But what if it's not? It must be. Or mustn't it not?
 
-Dad, I know this is crazy, but did you plant a message to me in the New York Times crossword puzzle?
+Dad, I know this is crazy, but did you plant a message to me in the <location>New York</location> Times crossword puzzle?
 
 Well, I had a little help from this guy.
 
-<stage>LISA GASPS</stage>
+<stage><person>LISA</person> GASPS</stage>
 
-New York Times crossword editor, Will Shortz!
+<location>New York</location> Times crossword editor, Will Shortz!
 
 And master puzzle constructor, Merl Reagle!
 
@@ -450,13 +452,13 @@ Yes, sir.
 
 Well, I must admit, I'm kind of touched. "Dumb dad sorry for his bet." Nice.
 
-You didn't get <fam>Homer</fam>'s whole message, <fam>Lisa</fam>.
+You didn't get <fam><person>Homer</person></fam>'s whole message, <fam><person>Lisa</person></fam>.
 
 I didn't?
 
 Take a look at the first letters of all the clues.
 
-Dear <fam>Lisa</fam>, you make me so happy.
+Dear <fam><person>Lisa</person></fam>, you make me so happy.
 
 Really, really, really happy.
 
@@ -472,4 +474,5 @@ Oh, Dad.
 
 All the feeling that I have hiding here for you inside.
 
-You don't know how many times I've wished that I had told you[/i]</txt></xml>
+You don't know how many times I've wished that I had told you[/i]
+</txt></xml>

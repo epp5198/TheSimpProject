@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Wedding For Disaster</epTitle><szn>20</szn>x<epNum>15</epNum></ep><date>04/02/09</date> <runtime>09:11</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Wedding For Disaster</epTitle><szn>20</szn>x<epNum>15</epNum></ep>
+<date>04/02/09</date> <runtime>09:11</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -6,7 +8,7 @@
 
 <stage>SCHOOL BELL RINGING</stage>
 
-<stage>BARNEY BURPS</stage>
+<stage><person>BARNEY</person> BURPS</stage>
 
 <stage>HORN BELLOWING</stage>
 
@@ -46,7 +48,7 @@ Oh, my God! She fainted! Let's go get smelling salts.
 
 <stage>CAR REVVING</stage>
 
-<fam>Homer</fam>: Suckers!
+<fam><person>Homer</person></fam>: Suckers!
 
 Springfielders have camped out all night to get a glimpse of the most saintly person to visit our town since Mother Teresa stopped here to gas up her Vespa.
 
@@ -116,11 +118,11 @@ Fly away, ghostie!
 
 Go back to your haunted cornfield!
 
-Reverend Lovejoy, you deliver pizza now? We didn't order a pizza.
+<person>Reverend Lovejoy</person>, you deliver pizza now? We didn't order a pizza.
 
-But you forgot the pizza anyway. <fam>Marge</fam>, the pizza place screwed up again!
+But you forgot the pizza anyway. <fam><person>Marge</person></fam>, the pizza place screwed up again!
 
-You remember when I remarried you two after <fam>Homer</fam> got that divorce?
+You remember when I remarried you two after <fam><person>Homer</person></fam> got that divorce?
 
 Like it was yesterday.
 
@@ -128,13 +130,13 @@ Like it was yesterday.
 
 Kirk and Luann split up.
 
-So, <fam>Homer</fam>, fearing we would do the same, preemptively filed for divorce.
+So, <fam><person>Homer</person></fam>, fearing we would do the same, preemptively filed for divorce.
 
 But then you re-married us and we were as solid as ever.
 
-And I think Apu got lucky with my sister.
+And I think <person>Apu</person> got lucky with my sister.
 
-<stage>MARGE SIGHING</stage>
+<stage><person>MARGE</person> SIGHING</stage>
 
 Well, I'm afraid that joyous occasion fell during a time when I wasn't actually a minister.
 
@@ -156,7 +158,7 @@ But in the sense someone calls you one when they're angry, yes.
 
 It's not a big deal.
 
-We'll just go to City Hall and get married there.
+We'll just go to <location>City Hall</location> and get married there.
 
 I think it's romantic.
 
@@ -170,7 +172,7 @@ That's the angry one.
 
 <stage>MUTTERING ANGRILY</stage>
 
-Moe: Hmm.
+<person>Moe</person>: Hmm.
 
 <stage>MURMURS SADLY</stage>
 
@@ -182,17 +184,17 @@ Watch your back! Half a corpse coming through!
 
 <stage>SIGHING SADLY</stage>
 
-<fam>Marge</fam>, this time I'm gonna give you the wedding you deserve.
+<fam><person>Marge</person></fam>, this time I'm gonna give you the wedding you deserve.
 
 Let's get out of here.
 
 Whoa, whoa, whoa. That's the line to get out.
 
-<stage>HOMER MURMURS SADLY</stage>
+<stage><person>HOMER</person> MURMURS SADLY</stage>
 
 <stage>HUMMING HAPPILY</stage>
 
-<fam>Marge</fam>: Ah!
+<fam><person>Marge</person></fam>: Ah!
 
 <stage>PHONE RINGING</stage>
 
@@ -208,23 +210,23 @@ Whatever you say, Lance.
 
 Oh!
 
-<stage>BARNEY GRUNTS</stage>
+<stage><person>BARNEY</person> GRUNTS</stage>
 
 Whoa!
 
-Bill: This is Bill and Marty saying, '"<fam>Marge</fam>, go down to the basement. '"
+Bill: This is Bill and Marty saying, '"<fam><person>Marge</person></fam>, go down to the basement. '"
 
 <stage>EXCLAIMING</stage>
 
 <stage>SLOW MUSIC PLAYING ON VIOLIN</stage>
 
-<fam>Homer</fam>, what's going on? The violin, pants with a crease? Why?
+<fam><person>Homer</person></fam>, what's going on? The violin, pants with a crease? Why?
 
-<fam>Marge</fam>, you deserve a wedding day that, unlike our children, was planned in advance.
+<fam><person>Marge</person></fam>, you deserve a wedding day that, unlike our children, was planned in advance.
 
 So, will you marry me in style?
 
-Yes, <fam>Homer</fam>! Yes!
+Yes, <fam><person>Homer</person></fam>! Yes!
 
 Did you hear that, Santa? She said yes! Yes!
 
@@ -238,7 +240,7 @@ Oh! It's beautiful.
 
 But that's an awful lot to pay for a dress I'll only wear once.
 
-<fam>Marge</fam>, a woman only gets one chance at a second remarriage.
+<fam><person>Marge</person></fam>, a woman only gets one chance at a second remarriage.
 
 The choice is yours.
 
@@ -254,7 +256,7 @@ Well, the last time I checked, pirates weren't gay.
 
 <stage>GROANS IN DISGUST</stage> How'd you check?
 
-Check out this rocket ship cake, <fam>Marge</fam>!
+Check out this rocket ship cake, <fam><person>Marge</person></fam>!
 
 That's for a child's birthday. We're going to get this one.
 
@@ -290,15 +292,15 @@ What if we...
 
 There is no "we" in wedding!
 
-But there is, <fam>Marge</fam>. The first two letters.
+But there is, <fam><person>Marge</person></fam>. The first two letters.
 
 I can't believe you're ruining the second Thursday before the wedding!
 
-<fam>Homer</fam>!
+<fam><person>Homer</person></fam>!
 
 <stage>GRUNTING ANGRILY</stage>
 
-I can't believe you told Lenny and Carl they could bring dates.
+I can't believe you told <person>Lenny</person> and <person>Carl</person> they could bring dates.
 
 'Cause they're not even coming to the wedding.
 
@@ -306,7 +308,7 @@ Why not?
 
 Because their RSVP cards arrived one day after the deadline!
 
-<fam>Marge</fam>, maybe you should take a break from wedding planning.
+<fam><person>Marge</person></fam>, maybe you should take a break from wedding planning.
 
 I think you're becoming a bridezilla!
 
@@ -326,7 +328,7 @@ Mmm.
 
 <stage>HUMMING</stage>
 
-No matter what I do, <fam>Marge</fam> yells at me.
+No matter what I do, <fam><person>Marge</person></fam> yells at me.
 
 If she's like this now, what will she be like after we get married?
 
@@ -346,7 +348,7 @@ Cue the band.
 
 And release the groom!
 
-<fam>Homer</fam>, that's you!
+<fam><person>Homer</person></fam>, that's you!
 
 <stage>GRUNTS ANGRILY</stage>
 
@@ -360,21 +362,21 @@ We are now 11 seconds behind schedule!
 
 <stage>CRYING</stage>
 
-I can't believe <fam>Homer</fam> left me at the altar.
+I can't believe <fam><person>Homer</person></fam> left me at the altar.
 
-<fam>Marge</fam>, have a shrimp puff.
+<fam><person>Marge</person></fam>, have a shrimp puff.
 
 Wipe your tears with a monogrammed napkin.
 
-<fam>Marge</fam>: Oh!
+<fam><person>Marge</person></fam>: Oh!
 
 I know it is hard, but smile for the cameraman from Gary's Magic Moments.
 
 You have my deepest sympathy.
 
-<fam>Homer</fam>: What's going on? What's with all the darkness?
+<fam><person>Homer</person></fam>: What's going on? What's with all the darkness?
 
-Hello? <fam>Marge</fam>? Where am I?
+Hello? <fam><person>Marge</person></fam>? Where am I?
 
 <stage>GRUNTS</stage>
 
@@ -388,7 +390,7 @@ It would have to be someone who could afford a chain.
 
 Deep voice on speaker: You're going to be here awhile.
 
-But I have to marry <fam>Marge</fam>!
+But I have to marry <fam><person>Marge</person></fam>!
 
 As of now, your pathetic little life means nothing!
 
@@ -396,7 +398,7 @@ Just so you know, you're making a pretty bad first impression!
 
 It's all my fault.
 
-<fam>Homer</fam> wanted to serve those little cocktail hotdogs.
+<fam><person>Homer</person></fam> wanted to serve those little cocktail hotdogs.
 
 But, no! I had to have spring rolls!
 
@@ -412,9 +414,9 @@ Hey, I found something!
 
 <stage>GASPS</stage>
 
-Sideshow Bob!
+<person>Sideshow Bob</person>!
 
-Sideshow Bob?
+<person>Sideshow Bob</person>?
 
 He ruined the wedding, getting his revenge on us at last!
 
@@ -438,7 +440,7 @@ You idiot. How am I ever gonna find the key to the...
 
 Here it is.
 
-<stage>HOMER EXCLAIMS</stage>
+<stage><person>HOMER</person> EXCLAIMS</stage>
 
 To get the key, I have to lick through a lollipop?
 
@@ -456,11 +458,11 @@ Oh! Whose side are you on?
 
 <stage>LAUGHING EVILLY</stage>
 
-Sideshow Bob, drop that knife and give back our dad!
+<person>Sideshow Bob</person>, drop that knife and give back our dad!
 
 <stage>EXCLAIMS IN CONFUSION</stage>
 
-I'm working on a bust of Krusty and using this knife to aerate the clay.
+I'm working on a bust of <person>Krusty</person> and using this knife to aerate the clay.
 
 <stage>GRUNTING</stage>
 
@@ -474,7 +476,7 @@ We're gonna drop him out of a blimp tomorrow and see what happens.
 
 <stage>EXCLAIMS</stage>
 
-Don't worry. Nothing's gonna happen to you, Mr. Teeny number seven.
+Don't worry. Nothing's gonna happen to you, <person>Mr. Teeny</person> number seven.
 
 Bob, did you take any breaks yesterday to kidnap our dad?
 
@@ -498,7 +500,7 @@ Scott Baio, the Sultan of Brunei, the former Polish secret police, the Sluzba Be
 
 <stage>GROANING</stage>
 
-<fam>Marge</fam>, I miss you!
+<fam><person>Marge</person></fam>, I miss you!
 
 I miss you so much.
 
@@ -514,11 +516,11 @@ Hmm?
 
 I'm gonna say this for the last time.
 
-<fam>Bart</fam>, if this is one of your pranks, very funny.
+<fam><person>Bart</person></fam>, if this is one of your pranks, very funny.
 
 Maybe we should let him out soon.
 
-Not till <fam>Marge</fam> dumps him for good.
+Not till <fam><person>Marge</person></fam> dumps him for good.
 
 Hey, lame-o. Ready for some fun with f*re ants?
 
@@ -528,9 +530,9 @@ Wow. You're the smartest guy in that room.
 
 Thank you. That's very... Oh! More sarcasm.
 
-Just see that my fiancée, <fam>Marge</fam>, gets this, my wedding vows.
+Just see that my fiancée, <fam><person>Marge</person></fam>, gets this, my wedding vows.
 
-"<fam>Marge</fam>, I hope this day is as perfect for you as the day we met was for me.
+"<fam><person>Marge</person></fam>, I hope this day is as perfect for you as the day we met was for me.
 
 "You always find the one grain of sugar in the saltshaker that is I.
 
@@ -562,4 +564,5 @@ Yes. It took a lot of frantic genetic engineering, but enjoy.
 
 <stage>HISSING</stage>
 
-No! You're a plant now!</txt></xml>
+No! You're a plant now!
+</txt></xml>

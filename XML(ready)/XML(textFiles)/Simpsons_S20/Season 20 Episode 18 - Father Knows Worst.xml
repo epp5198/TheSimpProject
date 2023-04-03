@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Father Knows Worst</epTitle><szn>20</szn>x<epNum>18</epNum></ep><date>04/30/09</date> <runtime>08:24</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Father Knows Worst</epTitle><szn>20</szn>x<epNum>18</epNum></ep>
+<date>04/30/09</date> <runtime>08:24</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -24,7 +26,7 @@ Hot dogs! Not so hot dogs!
 
 Cold and droopy!
 
-Fried dough! America's worst legal food! Never leaves your body!
+Fried dough! <location>America</location>'s worst legal food! Never leaves your body!
 
 Wow. The Truth in Boardwalking Law has really done a number on this place.
 
@@ -32,9 +34,9 @@ sh**t an oversized basketball into an undersized hoop!
 
 It's impossible! The prizes have been here for 50 years!
 
-<fam>Homer</fam>: Ooh. Oh.
+<fam><person>Homer</person></fam>: Ooh. Oh.
 
-<stage>HOMER WHIMPERS</stage>
+<stage><person>HOMER</person> WHIMPERS</stage>
 
 Maybe we should just check out the street performers.
 
@@ -50,7 +52,7 @@ You can't throw a little boy into my cascade.
 
 Stop tossing kids!
 
-<stage>BART LAUGHING</stage>
+<stage><person>BART</person> LAUGHING</stage>
 
 <stage>EXCLAIMS</stage>
 
@@ -94,7 +96,7 @@ You better bellow.
 
 Hey, big guy! Give me some Jell-O
 
-No Jell-O for you, <fam>Bart</fam>. It'll keep you up at night, like last week when you crawled into bed with me and Mommy.
+No Jell-O for you, <fam><person>Bart</person></fam>. It'll keep you up at night, like last week when you crawled into bed with me and Mommy.
 
 <stage>ALL LAUGHING</stage>
 
@@ -118,13 +120,13 @@ Am I wanted?
 
 No.
 
-Hi. <fam>Homer</fam> Simpson. Mind if I sit near your son? Mine sucks.
+Hi. <fam><person>Homer</person></fam> Simpson. Mind if I sit near your son? Mine sucks.
 
 Well, we certainly are proud of Noah. He's a straight-A student.
 
 Noah! State capitals, alphabetical order, on my clap.
 
-Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Capital City, Carson City.
+<location>Albany</location>, Annapolis, <location>Atlanta</location>, Augusta, Austin, Baton Rouge, Bismarck, Boise, <location>Boston</location>, Capital City, Carson City.
 
 Wow. He's terrified of you.
 
@@ -142,7 +144,7 @@ Well, call me over-involved, but someday, your son will be my son's chauffeur.
 
 $1000? That's what my house is worth.
 
-<fam>Bart</fam> Simpson, what will you be making?
+<fam><person>Bart</person></fam> Simpson, what will you be making?
 
 I don't know.
 
@@ -150,17 +152,17 @@ Time to take control of my son's life. Let's see. What can he build?
 
 Too obvious.
 
-Gotta be something from earth.
+Gotta be something from <location>earth</location>.
 
 You're no help!
 
 Perfect.
 
-"The Washington Monument?"
+"<location>The Washington Monument</location>?"
 
-Washington Monument.
+<location>Washington</location> Monument.
 
-I like <fam>Bart</fam>'s idea.
+I like <fam><person>Bart</person></fam>'s idea.
 
 You're not in this class.
 
@@ -168,11 +170,11 @@ Willie swept me in here.
 
 My mistake.
 
-I did it. I helped my son. Helicopter <fam>Homer</fam>, away!
+I did it. I helped my son. Helicopter <fam><person>Homer</person></fam>, away!
 
 Black Hawk down! Black Hawk down!
 
-<fam>Lisa</fam>, I found this book in the "What's wrong with my daughter" section of the bookstore.
+<fam><person>Lisa</person></fam>, I found this book in the "What's wrong with my daughter" section of the bookstore.
 
 It tells you how you can get popular.
 
@@ -182,23 +184,23 @@ Dad, if I join a clique, I'll be the kind of person I hate.
 
 We'd like some balsa wood, please.
 
-Enough to build a Washington Monument.
+Enough to build a <location>Washington</location> Monument.
 
 What scale are you using?
 
 What cologne are you wearing? None of your business!
 
-Now we'd like our Washington Monument to be one-five hundredth the size of the real one.
+Now we'd like our <location>Washington</location> Monument to be one-five hundredth the size of the real one.
 
 <stage>LAUGHS</stage>
 
-Washington Monument? Aren't you gonna even try?
+<location>Washington</location> Monument? Aren't you gonna even try?
 
 What do you mean? And who are you?
 
 I'm your son's principal.
 
-And the Washington Monument is the most uninspired model choice there is.
+And <location>the Washington Monument</location> is the most uninspired model choice there is.
 
 It's like saying, "I don't care. My kid's a loser."
 
@@ -222,23 +224,23 @@ Hey, how hard can it be? All we have to do is follow the directions.
 
 <stage>GRUNTS</stage>
 
-<fam>Marge</fam>, the boy and I will be making Westminster Abbey.
+<fam><person>Marge</person></fam>, the boy and I will be making Westminster Abbey.
 
 Blabby's gonna build an abbey. Groovy.
 
-But first, as part of Operation Popularity, <fam>Lisa</fam> and I are hosting a "Decorate Your Own Cell Phone" party in the backyard.
+But first, as part of Operation Popularity, <fam><person>Lisa</person></fam> and I are hosting a "Decorate Your Own Cell Phone" <location>party</location> in the backyard.
 
 <stage>GASPS</stage>
 
 Britney and Caitlin are here! Where's my spray-on tan?
 
-<stage>HOMER READING</stage>
+<stage><person>HOMER</person> READING</stage>
 
 Why do I always read the labels after?
 
 Ladies, we've got it all. Rhinestones, stickers, tassels, everything to make those $100 phones look like $5 toys!
 
-<fam>Lisa</fam>, this party is twisted!
+<fam><person>Lisa</person></fam>, this <location>party</location> is twisted!
 
 You're fierce!
 
@@ -280,7 +282,7 @@ Do you want me to watch and learn?
 
 No. That kind of creeps me out.
 
-Must finish Poets' Corner or <fam>Bart</fam> will work for Noah with his hot mom.
+Must finish Poets' Corner or <fam><person>Bart</person></fam> will work for Noah with his hot mom.
 
 <stage>SNORING</stage>
 
@@ -288,11 +290,11 @@ Must finish Poets' Corner or <fam>Bart</fam> will work for Noah with his hot mom
 
 That's not Henry VII! That's Henry VI! Stupid, stupid, stupid!
 
-<fam>Homer</fam>, don't give up till you finish my dear abbey!
+<fam><person>Homer</person></fam>, don't give up till you finish my dear abbey!
 
 Geoffrey Chaucer? What are you doing here?
 
-Well, I'm buried here, and I want to tell you you're right to do all <fam>Bart</fam>'s work for him.
+Well, I'm buried here, and I want to tell you you're right to do all <fam><person>Bart</person></fam>'s work for him.
 
 It's the best thing for the boy.
 
@@ -306,7 +308,7 @@ And where is this delightful boy?
 
 Oscar Wilde?
 
-<fam>Homer</fam>, there are only two tragedies in life.
+<fam><person>Homer</person></fam>, there are only two tragedies in life.
 
 One is not getting what one wants, and the other is getting it.
 
@@ -328,7 +330,7 @@ Now we could smash the real Westminster Abbey so it looks like this.
 
 <stage>GROANS</stage> There are no flights to London till 5:00.
 
-Welcome to Springfield Elementary's Next Top Model Building Contest.
+Welcome to <location>Springfield Elementary</location>'s Next Top Model Building Contest.
 
 Kenny, he said your show.
 
@@ -352,7 +354,7 @@ Hmm.
 
 <stage>WHIMPERS</stage>
 
-Skinner!
+<person>Skinner</person>!
 
 These models are clearly the work of meddling parents.
 
@@ -368,7 +370,7 @@ The best thing I can do as a parent is simply check out.
 
 No, there's a middle ground.
 
-<fam>Lisa</fam>, a light bulb is either on or it's off.
+<fam><person>Lisa</person></fam>, a light bulb is either on or it's off.
 
 Not if you use a dimmer switch.
 
@@ -404,4 +406,5 @@ I feel like I've died and gone to hell.
 
 The Simpsons
 
-<stage>ALL VOCALIZING</stage></txt></xml>
+<stage>ALL VOCALIZING</stage>
+</txt></xml>

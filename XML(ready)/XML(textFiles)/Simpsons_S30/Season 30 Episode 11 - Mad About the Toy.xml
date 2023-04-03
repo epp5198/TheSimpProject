@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>01/07/19</date> <runtime>07:41</runtime></metadata>
 
@@ -136,7 +138,7 @@ Ordering. Two-day delivery.
 
 We can't leave our kids with a greedy tube.   
 
-Sorry, <fam>Homer</fam>, looks like you have to spend time with...   
+Sorry, <fam><person>Homer</person></fam>, looks like you have to spend time with...   
 
 your children. 
 
@@ -144,9 +146,9 @@ your children.
 
 You will be sat.   
 
-<fam>Marge</fam>, it's time to go to DEFCON  .   
+<fam><person>Marge</person></fam>, it's time to go to DEFCON  .   
 
-<stage><fam>GRANDPA</fam> MOANS</stage>   
+<stage><fam><person>GRANDPA</person></fam> MOANS</stage>   
 
 Dad, the kids really miss you.   
 
@@ -169,7 +171,7 @@ She's d*ad.
 
 That's one of the reasons.   
 
-HOMER: Bye-bye.   
+<person>HOMER</person>: Bye-bye.   
 
 <stage>GLASS SQUEAKING</stage>   
 
@@ -193,12 +195,12 @@ We'll just have to speed things up.
 
 Keep your motor running.   
 
-HOMER: He sh**t, he scores! 
+<person>HOMER</person>: He sh**t, he scores! 
 
 Shut that off.   
 
-- MARGE: <fam>Homie</fam>...
-- HOMER: No time.   
+- <person>MARGE</person>: <fam>Homie</fam>...
+- <person>HOMER</person>: No time.   
 
 - Go, go, go, go, go!
 - <stage>TIRES SCREECH</stage>   
@@ -223,7 +225,7 @@ Don't get into that Packard.
 
 <stage>HORN HONKS, TIRES SCREECH, CRASH</stage>    
 
-<fam>Bart</fam>, do something.    
+<fam><person>Bart</person></fam>, do something.    
 
 SIPPER: Back to-back to jail I go.    
 
@@ -257,7 +259,7 @@ The only place you can still say "Oriental."
 
 Aw, rats. No money.    
 
-BART: Ay, <catchphrase>caramba</catchphrase>! 
+<person>BART</person>: Ay, <catchphrase>caramba</catchphrase>! 
 
 Sir, this is just Monopoly money.    
 
@@ -367,7 +369,7 @@ We have a lot to talk about.
 
 Well, since the trauma is not combat-related, we're gonna have to start charging you.    
 
-HOMER: And we're done.    
+<person>HOMER</person>: And we're done.    
 
 I don't understand.
 Why would being a toy model be so traumatizing?    
@@ -416,7 +418,7 @@ We'll pay you a royalty for every one we sell.
 
 Goo-goo-ga-ga!    
 
-The w*r was over and America turned to toys. 
+The w*r was over and <location>America</location> turned to toys. 
 
 Finally, putty could be silly again. 
 
@@ -518,7 +520,7 @@ He's unlisted. Last Word.
 
 <fam>Grampa</fam>, you got an e-mail from the toy company.    
 
-They want you to visit them in New York City, all expenses paid.    
+They want you to visit them in <location>New York</location> City, all expenses paid.    
 
 <stage>LAUGHS</stage> Pay day!    
 
@@ -530,9 +532,9 @@ I'm not paying for your trip to Aspen.
 
 But it's almost spring break, and I'm bored.    
 
-PILOT: Uh, we are making our descent into New York, 
+PILOT: Uh, we are making our descent into <location>New York</location>, 
 
-where there's a happy heart for every light on Broadway. 
+where there's a happy heart for every light on <location>Broadway</location>. 
 
 Enjoy your fabulous success. 
 
@@ -544,13 +546,13 @@ And don't worry about buckling up or putting your chairs back... you're on a rol
 
 <music>♪ I'm back ♪    </music>
 
-<music>♪ Back in the New York groove ♪    </music>
+<music>♪ Back in the <location>New York</location> groove ♪    </music>
 
 <music>♪ Back ♪    </music>
 
-<music>♪ In the New York groove ♪    </music>
+<music>♪ In the <location>New York</location> groove ♪    </music>
 
-<music>♪ In the New York groove. ♪    </music>
+<music>♪ In the <location>New York</location> groove. ♪    </music>
 
 From my shoulders, you can see Rhode Island.    
 
@@ -663,7 +665,7 @@ According to Cyber Stalker.com, he now lives in a small town in Texas.
 
 Texas? That's where my friend Louisiana Joe is from.    
 
-MARGE: Marfa, Texas.    
+<person>MARGE</person>: Marfa, Texas.    
 
 Why don't you go see him and clear your conscience?    
 
@@ -761,7 +763,7 @@ I've started to think maybe a man can love different things
 
 <stage>GRUNTING</stage>    
 
-Wait, <fam>Homer</fam>! No. Stop.    
+Wait, <fam><person>Homer</person></fam>! No. Stop.    
 
 You might be strangling him    
 
@@ -772,14 +774,14 @@ Why you thoughtful...
 - <stage>SCREAMING</stage>
 - <stage>GRUNTING</stage>    
 
-- <fam>Homer</fam>!
+- <fam><person>Homer</person></fam>!
 - Okay, time to go.    
 
 <stage>GASPS</stage>    
 
 Now to face my greatest fear: someone who only had love for me.    
 
-Better lock and load.    
+Better lock and <location>load</location>.    
 
 <music>♪ There's a handsome man in Texas ♪    </music>
 

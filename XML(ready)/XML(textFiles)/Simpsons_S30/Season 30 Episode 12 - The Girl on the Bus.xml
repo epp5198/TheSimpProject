@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>01/14/19</date> <runtime>08:51</runtime></metadata>
 
@@ -25,7 +27,7 @@ or no coffee at all.
 
 Now, it's time to k*ll time with  
 
-"This Day in Springfield History."  
+"This Day in <location>Springfield</location> History."  
 
     : We become the first flyover state 
 
@@ -35,11 +37,11 @@ on a voyage from Ohio to Kentucky.
 
     : Peace breaks out 
 
-and Montgomery Burns fires his female employees. 
+and Montgomery <person>Burns</person> fires his female employees. 
 
-    : As the rest of America rockets into the new frontier, 
+    : As the rest of <location>America</location> rockets into the new frontier, 
 
-Springfield unveils a fleet of school busses. 
+<location>Springfield</location> unveils a fleet of school busses. 
 
 These buses are bursting with American technology.   
 
@@ -63,7 +65,7 @@ You'll never unify the belts.
 
 <stage>ALL GRUNTING</stage>   
 
-Okay, champ, remember your game plan: lead with your Krusty, th jab-jab-jab with my Eeyore.   
+Okay, champ, remember your game plan: <location>lead</location> with your <person>Krusty</person>, th jab-jab-jab with my Eeyore.   
 
 Work the vest and the head will die.   
 - <stage>BELL CLANGS</stage>
@@ -89,7 +91,7 @@ I'm taking care of this goldfish.
 
 <music>♪ Is just one friend to ride with ♪   </music>
 
-<music>♪ And please not Milhouse or Kearney ♪   </music>
+<music>♪ And please not <person>Milhouse</person> or <person>Kearney</person> ♪   </music>
 
 Don't drag me into your lonely song.   
 
@@ -107,7 +109,7 @@ This is a special night, sweetie.
 
 We've all been waiting for..   
 
-HOMER, MARGE, BART: Beast Blaster! 
+<person>HOMER</person>, <person>MARGE</person>, <person>BART</person>: Beast Blaster! 
 
 Welcome back to the U.S. Ninja Ultimate Beast Blaster, 
 
@@ -125,7 +127,7 @@ Yeah, you're right, I think Marcus is gonna take it all this year.
 
 Mm-hmm. He's got the best narrative.   
 
-He's doing it for his buddies at MacDill Air Force Base.   
+He's doing it for his buddies at <location>MacDill Air Force Base</location>.   
 
 - MacDill!
 - <stage>SIGHS</stage>   
@@ -160,7 +162,7 @@ Oh, my God, what a fail!
 
 <stage>YELLING</stage>   
 
-HOMER, MARGE, BART: Ooh!   
+<person>HOMER</person>, <person>MARGE</person>, <person>BART</person>: Ooh!   
 
 I never gave up, and I taught my kids   
 
@@ -176,13 +178,13 @@ Backpack att*ck!
 
 Ugh. It smells like Milhouss back.   
 
-<fam>Lisa</fam> knows what my back smells like.   
+<fam><person>Lisa</person></fam> knows what my back smells like.   
 
 Hamster volleyball. <stage>GRUNTS</stage>   
 
 <stage>HAMSTER SQUEAKING</stage>   
 
-You lose. <fam>Lisa</fam> counts as floor.   
+You lose. <fam><person>Lisa</person></fam> counts as floor.   
 
 That's it.
 There's gotta be a better place.   
@@ -199,9 +201,9 @@ I'm not that crazy. Yogurt.
 
 Oh, my God. I'm in that other girl's neighborhood.   
 
-Without the baggage of being <fam>Lisa</fam> Simpson.   
+Without the baggage of being <fam><person>Lisa</person></fam> Simpson.   
 
-BART: Yo. Sis-boom-blah. Little help?   
+<person>BART</person>: Yo. Sis-boom-blah. Little help?   
 
 Go. Go le.   
 
@@ -250,7 +252,7 @@ GIRL <stage>CRYING</stage>: Oh, no.
 
 <stage>CRYING</stage>    
 
-Hey. Don't be afraid. I'm <fam>Lisa</fam>.    
+Hey. Don't be afraid. I'm <fam><person>Lisa</person></fam>.    
 
 I saw you from my school bus..i    
 
@@ -261,7 +263,7 @@ At least, I think it was you.
 - Why were you crying?
 - Because I just read    
 
-the Pacific garbage patch grew to    ,   square miles.    
+the <location>Pacific</location> garbage patch grew to    ,   square miles.    
 
 - <stage>GASPS</stage>
 - So then I put on "The Dolphin"    
@@ -298,7 +300,7 @@ for an occupation, and I just fell in love with the work.
 
 I yes-and-ed myself into a career.    
 
-More seitan gumbo, <fam>Lisa</fam>?    
+More seitan gumbo, <fam><person>Lisa</person></fam>?    
 
 The rice is conflict-free.    
 
@@ -349,7 +351,7 @@ BOTH: Mmm.    </music>
 
 You do not say "suck" at the dinner table!    
 
-But veggie loaf does suck.    
+But veggie <location>loaf</location> does suck.    
 
 It sucks a whole truck full of butts.    
 
@@ -398,7 +400,7 @@ Not now!
 LUCAS: I like your hair!    
 DINA: Ah, get me out of here.    
 
-<stage>LISA GROANS</stage>    
+<stage><person>LISA</person> GROANS</stage>    
 
 Oh, this is so good. Mmm.
 Oh, just the way I like it.    
@@ -420,7 +422,7 @@ Why do we have to eat dinner together every night?
 
 Because it's good for the damn family.    
 
-Now, <fam>Lisa</fam>, I know you're a vegetarian.    
+Now, <fam><person>Lisa</person></fam>, I know you're a vegetarian.    
 
 Do you mind if we eat this in front of you?    
 
@@ -516,13 +518,13 @@ a hearty woo-hoo!
 
 Well, God bless you, Mr. Simpson. 
 
-I hate <catchphrase>stupid Flanders</catchphrase>!    
+I hate <catchphrase>stupid <person>Flanders</person></catchphrase>!    
 
 Annoyed grunt, annoyed grunt!    
 
 <stage>WHISPERS</stage>: Thank you.    
 
-<stage>IMITATING HOMER</stage>: Mmm... deception.    
+<stage>IMITATING <person>HOMER</person></stage>: Mmm... deception.    
 
 <stage>RINGS DOORBELL</stage>    
 
@@ -568,7 +570,7 @@ Have you been to Lithuania?
 
 No. And it is quite a sore spot.    
 
-<fam>Lisa</fam>, I'll miss you.    
+<fam><person>Lisa</person></fam>, I'll miss you.    
 
 Oh, no, I'm not going with them.    
 
@@ -589,7 +591,7 @@ Aw, oh...
 
 So, what do you say?    
 
-LISA: Okay, that's it. I've been piling lie upon lie 
+<person>LISA</person>: Okay, that's it. I've been piling lie upon lie 
 
 like a bad French farce. 
 
@@ -607,7 +609,7 @@ But also, I have to leave at  :  every morning for my...
 
 morning swimming lessons.    
 
-You're a swimmer, <fam>Lisa</fam>.    
+You're a swimmer, <fam><person>Lisa</person></fam>.    
 
 We would never presume to question your schedule.    
 
@@ -620,7 +622,7 @@ How was your swimming lesson?
 It went swimmingly!    
 
 - <stage>CHUCKLES</stage>
-- <stage>LISA HUMMING A TUNE</stage>    
+- <stage><person>LISA</person> HUMMING A TUNE</stage>    
 
 <stage>HOUNDS SNARLING</stage>    
 
@@ -640,7 +642,7 @@ Well, when you wear the same thing every day, it's easy.
 
 You were sleeping like teacher.    
 
-Oh, Ralph. I'm deceiving all the people I love,    
+Oh, <person>Ralph</person>. I'm deceiving all the people I love,    
 
 and it's so exciting.    
 
@@ -660,7 +662,7 @@ Good night, honey.
 
 <music>♪    
 
-Hello, <fam>Lisa</fam>.    </music>
+Hello, <fam><person>Lisa</person></fam>.    </music>
 
 <stage>SCREAMS</stage> Sideshow Mom!    
 
@@ -668,7 +670,7 @@ I can't believe you've been seeing another family!
 
 How did you know?    
 
-I found out from Ned.    
+I found out from <person>Ned</person>.    
 
 He feels so guilty about pretending    
 
@@ -694,7 +696,7 @@ I have no idea what that's like.
 
 
 
-<fam>Lisa</fam>, I understand that this family isn't perfect.    
+<fam><person>Lisa</person></fam>, I understand that this family isn't perfect.    
 
 Your mom has her flaws,    
 
@@ -702,13 +704,13 @@ but there are a lot of people who really like her.
 
 Mom's not the problem.    
 
-<stage>GASPS SOFTLY</stage> So, it's <fam>Maggie</fam>. 
+<stage>GASPS SOFTLY</stage> So, it's <fam><person>Maggie</person></fam>. 
 
 I know she can't speak.    
 
 She's just a little S-L-O.    
 
-It's all of us, <fam>Homer</fam>. She's embarrassed by all of us.    
+It's all of us, <fam><person>Homer</person></fam>. She's embarrassed by all of us.    
 
 No! Not at all!    
 
@@ -747,7 +749,7 @@ What are you gonna do to me?
 
 and ask them to dinner with us.    
 
-<stage>LISA WHIMPERS</stage>    
+<stage><person>LISA</person> WHIMPERS</stage>    
 
 They said they're free Saturday.    
 
@@ -774,7 +776,7 @@ You can have pizza, but your father
 
 How could she be so embarrassed of her own family?    
 
-We've got to help <fam>Lisa</fam> make a good impression.    
+We've got to help <fam><person>Lisa</person></fam> make a good impression.    
 
 Stop drinking out of that hose!    
 
@@ -785,18 +787,18 @@ in my own bedroom is embarrassing!
 <stage>SLURPING</stage>    
 
 - <stage>GRUNTING</stage>
-- <fam>Homer</fam>. <fam>Homer</fam>?    
+- <fam><person>Homer</person></fam>. <fam><person>Homer</person></fam>?    
 
-- <fam>Homer</fam>.
+- <fam><person>Homer</person></fam>.
 - Huh?    
 
-<fam>Homer</fam>. I'm giving you a list    
+<fam><person>Homer</person></fam>. I'm giving you a list    
 
 of four things to say at dinner tonight.    
 
 Four things. That's it.    
 
-HOMER: One, two, three...    
+<person>HOMER</person>: One, two, three...    
 
 <stage>GASPS</stage> You're right.    
 
@@ -827,7 +829,7 @@ You've made me recall wonderful moments
 
 I haven't thought of in years.    
 
-It's amazing how <fam>Homer</fam> draws people out.    
+It's amazing how <fam><person>Homer</person></fam> draws people out.    
 
 I completely angr...    
 
@@ -894,14 +896,14 @@ You don't run your own business.
 
 I'm starting a new farce.    
 
-Wow, honesty really k*ll a party.    
+Wow, honesty really k*ll a <location>party</location>.    
 
 What do you say we all go kick it in my new room?    
 
 - When did you get a new room?
 - While everyone was focused    
 
-on <fam>Lisa</fam>, I did a little remodel.    
+on <fam><person>Lisa</person></fam>, I did a little remodel.    
 
 I didn't pull permits, but it's up to code.    
 
@@ -933,7 +935,7 @@ I love you, Mom!
 
 I love you, Sam.    
 
-I love you, <fam>Bart</fam>.    
+I love you, <fam><person>Bart</person></fam>.    
 
 And I love you,    
 
@@ -941,7 +943,7 @@ room.
 
 <music>♪    
 
-Disco Stu, always pitchin' woo.    </music>
+<person>Disco Stu</person>, always pitchin' woo.    </music>
 
 Ferocious, Drederick.    
 

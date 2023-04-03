@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Treehouse of Horror XIX</epTitle><szn>20</szn>x<epNum>04</epNum></ep><date>11/05/08</date> <runtime>21:59</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Treehouse of Horror XIX</epTitle><szn>20</szn>x<epNum>04</epNum></ep>
+<date>11/05/08</date> <runtime>21:59</runtime></metadata>
 
 <stage>HUMMING</stage>
 
@@ -42,11 +44,11 @@ Hey, I only meant one of those votes for McCain!
 
 Must tell President McCain.
 
-This doesn't happen in America. Maybe Ohio, but not in America!
+This doesn't happen in <location>America</location>. Maybe Ohio, but not in <location>America</location>!
 
-<stage>HOMER SCREAMING</stage>
+<stage><person>HOMER</person> SCREAMING</stage>
 
-Okay. All I need is a Christmas gift for <fam>Lisa</fam>.
+Okay. All I need is a Christmas gift for <fam><person>Lisa</person></fam>.
 
 I don't have time to read all that.
 
@@ -54,9 +56,9 @@ I don't have time to read all that.
 
 Hmm.
 
-Montreal Expos jersey, Somber String, jacks, no ball, and a Slunky.
+<location>Montreal</location> Expos jersey, Somber String, jacks, no ball, and a Slunky.
 
-Oh, I wouldn't give these to my worst enemy, which happens to be <fam>Lisa</fam>.
+Oh, I wouldn't give these to my worst enemy, which happens to be <fam><person>Lisa</person></fam>.
 
 Girls don't like trucks. Come back when you're something else.
 
@@ -90,11 +92,11 @@ Yeah. Here's your stocking stuffer.
 
 <stage>BURPS</stage>
 
-Wow! A Malibu Stacy Convertible! Oh, <fam>Bart</fam>! An actual present.
+Wow! A <location>Malibu</location> Stacy Convertible! Oh, <fam><person>Bart</person></fam>! An actual present.
 
-That's right, <fam>Maggie</fam>. It's a car.
+That's right, <fam><person>Maggie</person></fam>. It's a car.
 
-Malibu Stacy: Let's go to the...
+<location>Malibu</location> Stacy: Let's go to the...
 
 <stage>CHOKING</stage>
 
@@ -132,7 +134,7 @@ Pinkrobot: Hup, two... SEX TOY: Nice planet.
 
 <stage>HUMMING</stage>
 
-<stage>HOMER SCREAMING</stage>
+<stage><person>HOMER</person> SCREAMING</stage>
 
 Posibot engaged.
 
@@ -140,13 +142,13 @@ Battle commencing in ten, nine, eight...
 
 Hey!
 
-Hey, <fam>Homer</fam>. How was your Christmas?
+Hey, <fam><person>Homer</person></fam>. How was your Christmas?
 
 It was okay. I got Seinfeld, Season Seven.
 
 Finally, a Boxing Day that lives up to its name!
 
-<fam>Lisa</fam>, what's happening?
+<fam><person>Lisa</person></fam>, what's happening?
 
 Well, if I had to guess, I'd say that two alien robot races who've been battling for centuries have chosen our planet as the site for their ultimate confrontation.
 
@@ -192,17 +194,17 @@ Okay, who's the idiot who taught them what foosball was?
 
 I thought they might enjoy it.
 
-Okay, <fam>Maggie</fam>. We'll be back in three hours.
+Okay, <fam><person>Maggie</person></fam>. We'll be back in three hours.
 
 Or longer, if something happens to us.
 
 Maybe we shouldn't do this. She doesn't know anyone here.
 
-Look, sweetie. There's a familiar face. Krusty!
+Look, sweetie. There's a familiar face. <person>Krusty</person>!
 
 <stage>GIGGLING</stage>
 
-Hey, hey, kids! Your old pal Krusty's gonna teach you five new words: Unlicensed use of my image.
+Hey, hey, kids! Your old pal <person>Krusty</person>'s gonna teach you five new words: Unlicensed use of my image.
 
 All right, boys. See those Krustys nobody paid me for?
 
@@ -210,7 +212,7 @@ Sandblast them!
 
 Entertain the troops? No way! What have they ever done for me?
 
-Krusty, you made my daughter cry.
+<person>Krusty</person>, you made my daughter cry.
 
 Hey, my intellectual property rights were being infringed.
 
@@ -248,7 +250,7 @@ And then we thought, "Who's good at k*ll celebrities?"
 
 Me!
 
-That's right! <fam>Homer</fam>, would you be willing to acquire some more accounts for us?
+That's right! <fam><person>Homer</person></fam>, would you be willing to acquire some more accounts for us?
 
 Well, you know, it is awfully hot today.
 
@@ -288,11 +290,11 @@ I hate... trans... action... fees.
 
 <stage>LAUGHING</stage>
 
-Hey, George Washington! See if you think this is funny!
+Hey, George <location>Washington</location>! See if you think this is funny!
 
 <stage>WEDDING MARCH PLAYING ON ORGAN</stage>
 
-Man: It's the Springfield Wedding Chapel's annual President's Day marriage-a-thon![/i]
+Man: It's the <location>Springfield</location> Wedding Chapel's annual President's Day marriage-a-thon![/i]
 
 That ad implies that Mr. Lincoln and I are betraying familiarities!
 
@@ -302,7 +304,8 @@ It's an outrage!
 
 Yes, an outrage.
 
-<stage>ALL GRUMBLING</stage><stage>HORSE NEIGHING</stage>
+<stage>ALL GRUMBLING</stage>
+<stage>HORSE NEIGHING</stage>
 
 So are we gonna sit here flapping our jaws or are we gonna do something about it?
 
@@ -318,7 +321,7 @@ All we are saying is let's eat some brains!
 
 <stage>SLOW MUSIC PLAYING</stage>
 
-Great party, <fam>Homer</fam>.
+Great <location>party</location>, <fam><person>Homer</person></fam>.
 
 m*rder Kate Winslet paid for that chocolate fountain.
 
@@ -366,13 +369,13 @@ Before you k*ll me, I gotta know, what is the one true religion?
 
 It's a mix of voodoo and Methodist.
 
-<stage>HOMER LAUGHS MOCKINGLY</stage>
+<stage><person>HOMER</person> LAUGHS MOCKINGLY</stage>
 
 Shouldn't have left the key under the mat, suckers!
 
 So what do you do for fun around here?
 
-Well, tonight we've got a poker tournament at the rec center.
+Well, tonight we've got a poker tournament at <location>the rec center</location>.
 
 Ooh! After you, Mr. Pennyface.
 
@@ -388,7 +391,7 @@ Mmm.
 
 Good grief.
 
-I like your witch costume, <fam>Lisa</fam>.
+I like your witch costume, <fam><person>Lisa</person></fam>.
 
 I'm not a witch. I'm a Wiccan.
 
@@ -400,9 +403,9 @@ What did you say, Mom?
 
 Nothing. I'm practicing my trombone.
 
-So what are you wearing to the Halloween party, Milhouse?
+So what are you wearing to the Halloween <location>party</location>, <person>Milhouse</person>?
 
-I'm not going to the party.
+I'm not going to the <location>party</location>.
 
 I'm going to the pumpkin patch to wait for the Grand Pumpkin.
 
@@ -412,11 +415,11 @@ What's the Grand Pumpkin?
 
 Every Halloween, the Grand Pumpkin visits all the pumpkin patches in the world and brings candy to kids who truly believe.
 
-Milhouse, for the last time, I made that up to mess with you!
+<person>Milhouse</person>, for the last time, I made that up to mess with you!
 
 The Grand Pumpkin isn't real!
 
-I appreciate you testing my faith, <fam>Bart</fam>.
+I appreciate you testing my faith, <fam><person>Bart</person></fam>.
 
 But it's not necessary. I believe in the Grand Pumpkin, almighty gourd, who was crustified over Pontius Pie-Plate and ascended into oven.
 
@@ -442,19 +445,19 @@ Punch, punch, punch, punch, wedgie!
 
 Your God is wrong.
 
-Let's get to the Halloween party.
+Let's get to the Halloween <location>party</location>.
 
 I want to hit the apple t*nk before all of the Granny Smiths are bobbed out.
 
 Lise, you coming?
 
-I think I'll stay with Milhouse.
+I think I'll stay with <person>Milhouse</person>.
 
 His glasses fog up when he cries.
 
 More Granny Smiths for me.
 
-<fam>Lisa</fam>! <fam>Lisa</fam>! Wake up! He's here!
+<fam><person>Lisa</person></fam>! <fam><person>Lisa</person></fam>! Wake up! He's here!
 
 What? The Grand Pumpkin is here?
 
@@ -476,9 +479,9 @@ Happy Halloween!
 
 The Grand Pumpkin! You are real!
 
-That's right, Milhouse. Your childlike belief has brought me to life.
+That's right, <person>Milhouse</person>. Your childlike belief has brought me to life.
 
-I knew you'd come! I even baked you a loaf of homemade pumpkin bread!
+I knew you'd come! I even baked you a <location>loaf</location> of homemade pumpkin bread!
 
 How delightful. Bread made especially for pumpkins.
 
@@ -540,7 +543,7 @@ All pumpkins are r*cist.
 
 The difference is I admit it!
 
-Nelson: I'd rather die than hate!
+<person>Nelson</person>: I'd rather die than hate!
 
 This is all my fault!
 
@@ -550,7 +553,7 @@ Belief, eh?
 
 Hmm.
 
-Say, Milhouse, have you by any chance ever heard of Tom Turkey?
+Say, <person>Milhouse</person>, have you by any chance ever heard of Tom Turkey?
 
 No. Who is he and what's his origin story?
 
@@ -578,7 +581,7 @@ I can't live on the outside! I can't!
 
 <stage>MOANING</stage>
 
-Milhouse, your childlike innocence saved us all!
+<person>Milhouse</person>, your childlike innocence saved us all!
 
 Tom, how can we repay you?
 
@@ -598,4 +601,5 @@ Looks like those kids found the true spirit of Halloween, or Thanksgiving, or wh
 
 And for those of you who feel like we've trampled on a beloved children's classic, I encourage you to write to the following address.
 
-Happy holidays, everyone!</txt></xml>
+Happy holidays, everyone!
+</txt></xml>

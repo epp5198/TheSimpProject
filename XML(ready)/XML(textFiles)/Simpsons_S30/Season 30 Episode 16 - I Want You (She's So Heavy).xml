@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>03/11/19</date> <runtime>12:16</runtime></metadata>
 
@@ -59,15 +61,15 @@ And just for the night, could you lose the tongue ring?
 
 Whatever.   
 
-<fam>Homer</fam>, is it too late to change babysitters?   
+<fam><person>Homer</person></fam>, is it too late to change babysitters?   
 
 Yes.   
 
 So I'll have to stay home.   
 
-I don't think we have to... <fam>Homer</fam>.   
+I don't think we have to... <fam><person>Homer</person></fam>.   
 
-Yes, <fam>Marge</fam>?!   
+Yes, <fam><person>Marge</person></fam>?!   
 
 We both have to go to Drug Awareness Night!   
 
@@ -111,7 +113,7 @@ Bam and zup. <stage>CHUCKLES</stage>
 
 This seminar's already paying for itself.   
 
-<fam>Homer</fam> Simpson, are you watching football through your pants pocket?   
+<fam><person>Homer</person></fam> Simpson, are you watching football through your pants pocket?   
 
 But do you know how much love is lost between these teams?   
 
@@ -146,17 +148,17 @@ Oh, that sounds magical.
 
 <stage>PHONE RINGING</stage> 
 
-Ooh, it's Lenny.   
+Ooh, it's <person>Lenny</person>.   
 
-<fam>Homer</fam>, I found my birth mom! 
+<fam><person>Homer</person></fam>, I found my birth mom! 
 
 Her name is Cheryl, and she wants nothing to do with... 
 
-<stage>MARGE GROANS</stage>   
+<stage><person>MARGE</person> GROANS</stage>   
 
 <stage>GASPS</stage> A wedding expo!   
 
-<fam>Marge</fam>, there is no way I'd ever be interested in...   
+<fam><person>Marge</person></fam>, there is no way I'd ever be interested in...   
 
 Is there a girl in that cake?   
 
@@ -164,7 +166,7 @@ No, just cake.
 
 Oh... that is so sexy.   
 
-After you, <fam>Marge</fam>.   
+After you, <fam><person>Marge</person></fam>.   
 
 Ooh, a wedding expo!   
 
@@ -241,7 +243,7 @@ Come on!
 
 <stage>SHAUNA GIGGLING</stage>    
 
-JIMBO: Let's see if we can both fit in <fam>Homer</fam>'s underwear.    
+<person>JIMBO</person>: Let's see if we can both fit in <fam><person>Homer</person></fam>'s underwear.    
 
 This is very sobering.    
 
@@ -249,7 +251,7 @@ Why did we think this would be cool?
 
 What are you kids doing out so late?    
 
-Babysitter party at our house.    
+Babysitter <location>party</location> at our house.    
 
 Why don't you come inside for a mug of cocoa?    
 
@@ -286,7 +288,7 @@ That hairy-legged ashtray?
 
 Give me the mic.    
 
-When I heard a guy was marrying Selma,    
+When I heard a guy was marrying <person>Selma</person>,    
 
 - I thought, That poor...
 - MALE VOICE: Genius. 
@@ -376,7 +378,7 @@ perfect night!
 
 Voulez-vous coucher avec... 
 
-- <stage>CRACKING, POPPING</stage>
+- <stage>CRACKING, <location>POPPING</location></stage>
 - <stage>SCREAMS</stage>    
 
 <stage>GRUNTING</stage>    
@@ -390,7 +392,7 @@ I guess we should stop listening now.
 
 No one's making you stay.    
 
-<fam>Marge</fam>, I'm afraid your days of walking are over.    
+<fam><person>Marge</person></fam>, I'm afraid your days of walking are over.    
 
 Oh, my God!    
 
@@ -454,7 +456,7 @@ What is your emergency?
 
 Every comedian I thought is funny is d*ad.    
 
-<music>♪ The Itchy and Scratchy Show! ♪    </music>
+<music>♪ The <person>Itchy</person> and <person>Scratchy</person> Show! ♪    </music>
 
 Hmm. "Possible side effects may include hallucinations..."    
 
@@ -468,7 +470,7 @@ Fine, I'll drink it separately.
 
 Boy, get me a beer.    
 
-- <stage>BART HUMMING</stage>
+- <stage><person>BART</person> HUMMING</stage>
 - <stage>GRUNTING</stage>    
 
 - Huh? What are you doing?
@@ -482,7 +484,7 @@ Why, you little...!
 
 <stage>CHUCKLES</stage>    
 
-<fam>Bart</fam>, honey, your father and I need you to be a little more grown-up.    
+<fam><person>Bart</person></fam>, honey, your father and I need you to be a little more grown-up.    
 
 Can you do that?    
 
@@ -518,21 +520,21 @@ Oh, why is it never hair growth?
 
 It's me, your hernia.    
 
-<fam>Homer</fam>, your doctor told you to listen to your body.    
+<fam><person>Homer</person></fam>, your doctor told you to listen to your body.    
 
 And I am telling you, just take it easy.    
 
 Are you sure?    
 
-I just promised <fam>Marge</fam>.    
+I just promised <fam><person>Marge</person></fam>.    
 
 Take it from your hernia.    
 
 <stage>GIGGLES</stage>    
 
-<stage>MARGE GRUNTING</stage> 
+<stage><person>MARGE</person> GRUNTING</stage> 
 
-<stage>NEW ZEALAND ACCENT</stage>: Oh, you've got this, <fam>Marge</fam>!    
+<stage>NEW ZEALAND ACCENT</stage>: Oh, you've got this, <fam><person>Marge</person></fam>!    
 
 Now, focus on your co-ah.    
 
@@ -546,7 +548,7 @@ Oh, the core.
 
 Right, that's what I said... co-ah.    
 
-Now, what sports are we gettin' you ready for, <fam>Marge</fam>?    
+Now, what sports are we gettin' you ready for, <fam><person>Marge</person></fam>?    
 
 Rollerblading? Uh, Muay Thai?    
 
@@ -554,7 +556,7 @@ No, nothing like that.
 
 I only have to be in good enough shape to take care of an immobile    -pound man.    
 
-Ah, so <fam>Homer</fam> isn't coming, eh?    
+Ah, so <fam><person>Homer</person></fam> isn't coming, eh?    
 
 You know, I could go to him at work.    
 
@@ -564,7 +566,7 @@ All right, well, we'll get you into something.
 
 Uh, mountain biking? Free bouldering?    
 
-I got it. <fam>Marge</fam>, we are going to get you kitesurfing!    
+I got it. <fam><person>Marge</person></fam>, we are going to get you kitesurfing!    
 
 Kitesurfing?    
 
@@ -574,7 +576,7 @@ I could do that with <fam>Homie</fam>.
 
 You know what?    
 
-I'm not letting <fam>Homer</fam> drag me down this time.    
+I'm not letting <fam><person>Homer</person></fam> drag me down this time.    
 
 Yes, I want to learn kitesurfing.    
 
@@ -592,19 +594,19 @@ And a spreader-bar, bindings, impact vest, chicken loop, donkey stick, squirrel 
 
 Yeah, ruining people's day at the beach.    
 
-We are worse than sand in a hot dog, eh, Lou?    
+We are worse than sand in a hot dog, eh, <person>Lou</person>?    
 
 You know there's a double m*rder downtown?    
 
 Well, now it's a triple, 'cause you just k*ll my day.    
 
-Keep the kite swooping, <fam>Marge</fam>.    
+Keep the kite swooping, <fam><person>Marge</person></fam>.    
 
 Follow the timing of my pecs.    
 
 Left, right, left, right, left, left, right...    
 
-Ah. Don't look me in the eyes, <fam>Marge</fam>.    
+Ah. Don't look me in the eyes, <fam><person>Marge</person></fam>.    
 
 My pecs are down here.    
 
@@ -624,15 +626,15 @@ Can I get you a baby chair?
 
 No? You're good?    
 
-<fam>Homer</fam>'s-a talking to nobody.    
+<fam><person>Homer</person></fam>'s-a talking to nobody.    
 
 The Cat Lady is eating with cats.    
 
-Ralph is in-a the lobster t*nk?    
+<person>Ralph</person> is in-a the lobster t*nk?    
 
 I'm expensive.    
 
-<fam>Homer</fam>, you're doing great.    
+<fam><person>Homer</person></fam>, you're doing great.    
 
 Look at those guys... eating half portions, trying to stay fit.    
 
@@ -662,7 +664,7 @@ Who are you?
 
 Cirrhosis. What's it to ya?    
 
-<fam>Homer</fam>, I'm going to the beach.    
+<fam><person>Homer</person></fam>, I'm going to the beach.    
 
 I packed lunch for two if you want to come.    
 
@@ -672,7 +674,7 @@ Sure. Let's get sunstroke, a hyperextended tendon, and wrap it up by getting dec
 
 Hard pass.    
 
-Sorry, <fam>Marge</fam>. Hard pass.    
+Sorry, <fam><person>Marge</person></fam>. Hard pass.    
 
 <stage>SIGHS</stage> It's been so long since you made a move on me.    
 
@@ -686,7 +688,7 @@ Um, how about if I drone you a kiss?
 
 <stage>HORN HONKS</stage>    
 
-Hurry up, <fam>Marge</fam>.    
+Hurry up, <fam><person>Marge</person></fam>.    
 
 We're gonna catch big air all morning, sleep all afternoon, then boil a sheep for breakfast.    
 
@@ -694,11 +696,11 @@ I'm still on New Zealand time.
 
 Been here    years but can't shake it.    
 
-Please, <fam>Homer</fam>, you're my husband.    
+Please, <fam><person>Homer</person></fam>, you're my husband.    
 
 Get up and live. 
 
-Sorry, <fam>Marge</fam>. I got to go with my gut.    
+Sorry, <fam><person>Marge</person></fam>. I got to go with my gut.    
 
 - <stage>YAWNS</stage>
 - <stage>BLOWS RASPBERRY</stage>    
@@ -709,7 +711,7 @@ The drone doesn't count.
 
 Hey. Can you watch the kids this afternoon?    
 
-Sorry, <fam>Marge</fam>.    
+Sorry, <fam><person>Marge</person></fam>.    
 
 Hernia.    
 
@@ -789,7 +791,7 @@ It's always the babies.
 
 Hey. Where are the turtles?    
 
-There are no turtles, <fam>Homer</fam>. It's a trick.    
+There are no turtles, <fam><person>Homer</person></fam>. It's a trick.    
 
 These kids are trying to help you, 'cause they love you.    
 
@@ -799,7 +801,7 @@ No turtles!
 
 I'm starting to think there were no turtles.    
 
-<stage>GASPS</stage> <fam>Marge</fam>.    
+<stage>GASPS</stage> <fam><person>Marge</person></fam>.    
 
 She looks so beautiful.    
 
@@ -807,23 +809,23 @@ I've been such a fool.
 
 And you forgot to get a parking pass. Heh.    
 
-Our work is done, Lou.    
+Our work is done, <person>Lou</person>.    
 
 <stage>SHUDDERS</stage>: Oh...    
 
 I'll never let myself go like that!    
 
-I'm-a comin', <fam>Marge</fam>!    
+I'm-a comin', <fam><person>Marge</person></fam>!    
 
 Ew! Gross!    
 
-<fam>Homer</fam>, you're making me mad.    
+<fam><person>Homer</person></fam>, you're making me mad.    
 
 And if there's one thing you don't want to aggravate, it's a hernia!    
 
-I'm <fam>Marge</fam>'s husband, <fam>Homer</fam>.    
+I'm <fam><person>Marge</person></fam>'s husband, <fam><person>Homer</person></fam>.    
 
-<fam>Homer</fam>! Good-o!    
+<fam><person>Homer</person></fam>! Good-o!    
 
 Would you like me to rehab you at work?    
 
@@ -850,7 +852,7 @@ When I got married, I took a vow:
 
 <stage>YELPS</stage>    
 
-<fam>Homer</fam>! Rooster your gimbal!    
+<fam><person>Homer</person></fam>! Rooster your gimbal!    
 
 Rooster your gimbal!    
 
@@ -884,7 +886,7 @@ Whoa...!
 
 Whoa...!    
 
-<stage>NEW ENGLAND ACCENT</stage>: Well, Mother, looks like we caught a couple more kiteboarders.    
+<stage><location>NEW ENGLAND</location> ACCENT</stage>: Well, Mother, looks like we caught a couple more kiteboarders.    
 
 - I'll get the big ladder.
 - I'll tell the hospital their power's gonna be down for a while.    
@@ -913,7 +915,7 @@ No such thing.
 Chief, I've got to make dinner for my kids. Could you please    
 
 - tell me what this is about?
-- Like most physical therapists in America, this man is actually a Russian spy.    
+- Like most physical therapists in <location>America</location>, this man is actually a Russian spy.    
 
 Nigel is a spy?    
 
@@ -923,13 +925,13 @@ Did you ever wonder why he was so interested in seeing your husband at work?
 
 I thought it was close to his house.    
 
-Didn't you ever ask yourself how a beach bum like him could afford a top-of-the-line  Saturn SUV with a full spare tire?    
+Didn't you ever ask yourself how a beach bum like him could afford a top-of-the-line  <location>Saturn</location> SUV with a full spare tire?    
 
 I guess I didn't want to know.    
 
 Just thank God, thank God your husband is entrapping him now.    
 
-<fam>Homer</fam>, I just need a few pictures of...  the co-ah.    
+<fam><person>Homer</person></fam>, I just need a few pictures of...  the co-ah.    
 
 - The what?
 - Goo-ah.    

@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>The Good, the Sad and the Drugly</epTitle><szn>20</szn>x<epNum>17</epNum></ep><date>04/23/09</date> <runtime>13:59</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>The Good, the Sad and the Drugly</epTitle><szn>20</szn>x<epNum>17</epNum></ep>
+<date>04/23/09</date> <runtime>13:59</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -8,7 +10,7 @@
 
 <stage>HORN BELLOWING</stage>
 
-<stage>LENNY SHRIEKS</stage>
+<stage><person>LENNY</person> SHRIEKS</stage>
 
 <stage>PLAYING DIFFERENT TUNE</stage>
 
@@ -48,11 +50,11 @@ I'll return these to the shop room. What's left of it.
 
 <stage>GRUNTING</stage>
 
-Skinner!
+<person>Skinner</person>!
 
 <stage>SHUSHING</stage> Don't tell him I'm here.
 
-I know you're there, Skinner.
+I know you're there, <person>Skinner</person>.
 
 I'd recognize those discolored Hush Puppies anywhere.
 
@@ -82,7 +84,7 @@ And if you don't identify him, you're looking at a week suspension!
 
 <stage>SCOFFING</stage> A nickel.
 
-Milhouse, you realize if you're suspended, you'll be missing Taco Wednesday?
+<person>Milhouse</person>, you realize if you're suspended, you'll be missing Taco Wednesday?
 
 <stage>GASPS</stage>
 
@@ -102,7 +104,7 @@ Suspended boy walking!
 
 Thanks for not selling me out, man.
 
-This really sucks, <fam>Bart</fam>.
+This really sucks, <fam><person>Bart</person></fam>.
 
 I'm grounded and spend all day listening to my dad yell at Mad Money w.
 
@@ -114,13 +116,13 @@ You said tech stocks were bulletproof!
 
 Look, I gotta go. But don't worry. I'll visit you every day. I promise.
 
-<fam>Bart</fam>, you're a true friend.
+<fam><person>Bart</person></fam>, you're a true friend.
 
 Bye.
 
-Well, I'm glad they suspended Milhouse. He's a bad influence on you.
+Well, I'm glad they suspended <person>Milhouse</person>. He's a bad influence on you.
 
-You know, I think Milhouse is El Barto.
+You know, I think <person>Milhouse</person> is El Barto.
 
 Hmm.
 
@@ -180,7 +182,7 @@ Take two. You might get lucky.
 
 Hey, Jenny.
 
-Hi, <fam>Bart</fam>.
+Hi, <fam><person>Bart</person></fam>.
 
 Boy, you make it look effortless. And that kid's giving you zero pump.
 
@@ -212,17 +214,17 @@ Willie, darling, come back to bed. Don't you love me?
 
 Don't compete with my job, Inga. You'll never win.
 
-And now Ralph Wiggum will read his essay on Springfield in 50 years.
+And now <person>Ralph</person> <person>Wiggum</person> will read his essay on <location>Springfield</location> in 50 years.
 
 <stage>CLEARING THROAT</stage>
 
 In 50 years, the vacuum cleaner will be quiet and not scary.
 
-Next we have <fam>Lisa</fam> Simpson.
+Next we have <fam><person>Lisa</person></fam> Simpson.
 
-Oh, Ralph, how I envy your optimism.
+Oh, <person>Ralph</person>, how I envy your optimism.
 
-There is no Springfield 50 years in the future!
+There is no <location>Springfield</location> 50 years in the future!
 
 With global warming trapping the CO2 inside our poisonous atmosphere, our super-heated oceans will rise, drowning our lowlands, leaving what's left of humanity baking in deserts that once fed the world!
 
@@ -234,7 +236,7 @@ And in the new Nineveh, darkness falls.
 
 <stage>THUD</stage>
 
-<fam>Lisa</fam>, your outburst was either a sign of deep emotional imbalance or a passionate response to a sobering truth.
+<fam><person>Lisa</person></fam>, your outburst was either a sign of deep emotional imbalance or a passionate response to a sobering truth.
 
 Luckily, the treatment for both is intensive therapy.
 
@@ -260,7 +262,7 @@ I spend a lot of time working with this mentally challenged guy.
 
 Why, here he is now.
 
-Looking good, <fam>Homer</fam>!
+Looking good, <fam><person>Homer</person></fam>!
 
 Boy.
 
@@ -292,7 +294,7 @@ Psych!
 
 That'll teach you to match wits with us, you stupid mother duck!
 
-<fam>Bart</fam>, can't you do something?
+<fam><person>Bart</person></fam>, can't you do something?
 
 Mmm-hmm!
 
@@ -314,9 +316,9 @@ Either the duck suffers or the kid does or none of you's getting nothing from Sh
 
 I'm Shauna.
 
-Oh, <fam>Bart</fam>, if those ducklings understood how magnificent you were, they'd stop biting your leg.
+Oh, <fam><person>Bart</person></fam>, if those ducklings understood how magnificent you were, they'd stop biting your leg.
 
-We believe <fam>Lisa</fam> is suffering from environment-related despair.
+We believe <fam><person>Lisa</person></fam> is suffering from environment-related despair.
 
 <stage>SOBBING</stage>
 
@@ -332,9 +334,10 @@ Let me show you how lgnorital works.
 
 It turns this to this! Huh?
 
-<stage>MURMURING</stage><fam>Lisa</fam>'s a little young to be taking happy pills.
+<stage>MURMURING</stage>
+<fam><person>Lisa</person></fam>'s a little young to be taking happy pills.
 
-<fam>Marge</fam>, we came to an appointment in the middle of the day.
+<fam><person>Marge</person></fam>, we came to an appointment in the middle of the day.
 
 That's the most a parent can do.
 
@@ -388,7 +391,7 @@ So this is setting the table.
 
 If I'd known how easy this was, I'd have just done it instead of throwing all those tantrums.
 
-Oh, <fam>Bart</fam>, I don't care that this is just an act.
+Oh, <fam><person>Bart</person></fam>, I don't care that this is just an act.
 
 You've finally become the boy every mother dreams of, a girl!
 
@@ -416,7 +419,7 @@ Jenny, it's amazing what you've done with my son.
 
 <stage>LAUGHS</stage>
 
-Well, I think <fam>Bart</fam> is an incredible combination of Habitat for Humanity and the Jonas Brothers, and nothing can ever change my opinion about him.
+Well, I think <fam><person>Bart</person></fam> is an incredible combination of Habitat for Humanity and the Jonas Brothers, and nothing can ever change my opinion about him.
 
 <stage>DOOR BELL RINGING</stage>
 
@@ -428,7 +431,7 @@ We don't have any money! Go away! May I de-corn your cob, my darling?
 
 <stage>DOOR BELL CONTINUES RINGING</stage>
 
-Why didn't you come to visit me, <fam>Bart</fam>?
+Why didn't you come to visit me, <fam><person>Bart</person></fam>?
 
 Well, yeah, I meant to. I've just been so busy.
 
@@ -438,7 +441,7 @@ My schedule's been all like...
 
 But what could be more important than your best friend?
 
-Who's this, <fam>Bart</fam>?
+Who's this, <fam><person>Bart</person></fam>?
 
 Oh.
 
@@ -448,11 +451,11 @@ Actually, I don't. My glasses are fogged.
 
 <stage>GASPS</stage>
 
-<fam>Bart</fam>, I learned some great new swear words from my uncle.
+<fam><person>Bart</person></fam>, I learned some great new swear words from my uncle.
 
 He has got a broken back, so he's in constant pain.
 
-<fam>Bart</fam>, would you be interested in swears?
+<fam><person>Bart</person></fam>, would you be interested in swears?
 
 512-ounce cup of Shrek Berry Blast.
 
@@ -460,17 +463,17 @@ What is at the bottom is this dumb Shrek trivia quiz, which if answered correctl
 
 <stage>GRUNTS</stage>
 
-<fam>Bart</fam>, in my concurrent adventure, I learned a really important lesson.
+<fam><person>Bart</person></fam>, in my concurrent adventure, I learned a really important lesson.
 
 You can't wallow in despair. Face things as they really are.
 
 You're right! I've gotta straighten this out.
 
-How much for these roses, Apu?
+How much for these roses, <person>Apu</person>?
 
 $10.
 
-Okay, I... What happened to my roses, Apu?
+Okay, I... What happened to my roses, <person>Apu</person>?
 
 You said you'd watch them while I shopped.
 
@@ -494,13 +497,13 @@ You deserve better. I'll never hurt you again.
 
 Can you forgive me?
 
-Oh, <fam>Bart</fam>, I was born forgiving you.
+Oh, <fam><person>Bart</person></fam>, I was born forgiving you.
 
 You've always been there for me, man. I'll never turn my back on you again.
 
 Punch him. Punch him! Punch him!
 
-Milhouse, what do you say to a makeup prank?
+<person>Milhouse</person>, what do you say to a makeup prank?
 
 <stage>SQUEAKING</stage>
 
@@ -514,10 +517,11 @@ Happy to oblige.
 
 Simpson!
 
-Skinner!
+<person>Skinner</person>!
 
 Cue music.
 
 <stage>THE BLUE DANUBEPLAYING</stage>
 
-And cue snow.</txt></xml>
+And cue snow.
+</txt></xml>

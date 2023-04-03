@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Gone <fam>Maggie</fam> Gone</epTitle><szn>20</szn>x<epNum>13</epNum></ep><date>03/19/09</date> <runtime>01:07</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Gone <fam><person>Maggie</person></fam> Gone</epTitle><szn>20</szn>x<epNum>13</epNum></ep>
+<date>03/19/09</date> <runtime>01:07</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -14,15 +16,15 @@
 
 We have totality, people.
 
-BART, HOMER AND LISA: Wow!
+<person>BART</person>, <person>HOMER</person> AND <person>LISA</person>: Wow!
 
 We'll be talking about this together for years.
 
-<fam>Bart</fam>: For years!
+<fam><person>Bart</person></fam>: For years!
 
-<fam>Lisa</fam>: For years!
+<fam><person>Lisa</person></fam>: For years!
 
-<fam>Homer</fam>: I finally feel like part of a family.
+<fam><person>Homer</person></fam>: I finally feel like part of a family.
 
 Oh! I can't miss out. Just one little peek.
 
@@ -32,15 +34,15 @@ It's beautiful.
 
 <stage>SCREAMING</stage>
 
-Now, <fam>Marge</fam>, your eyes must stay completely covered for two full weeks.
+Now, <fam><person>Marge</person></fam>, your eyes must stay completely covered for two full weeks.
 
-Don't worry, honey. I'll be your seeing-eye <fam>Homer</fam>.
+Don't worry, honey. I'll be your seeing-eye <fam><person>Homer</person></fam>.
 
 We're in some kind of doctor room. Bunch of stuff on the walls.
 
 It's kind of hard to describe. I'm gonna take my break now.
 
-Now, Simpsons, I must warn you, any stress could increase the blood pressure in <fam>Marge</fam>'s eyeballs, leading to what we call.
+Now, Simpsons, I must warn you, any stress could increase the blood pressure in <fam><person>Marge</person></fam>'s eyeballs, leading to what we call.
 
 Tex Avery Syndrome.
 
@@ -48,7 +50,7 @@ Tex Avery Syndrome.
 
 Wolves are taking all our women.
 
-<stage>BART HUMMING</stage>
+<stage><person>BART</person> HUMMING</stage>
 
 <stage>SNIFFS</stage>
 
@@ -70,7 +72,7 @@ Is there any other way to enter a kitchen?
 
 Aw... Rats in the kitchen, just like that delightful movie I taped in the theater.
 
-<stage>HOMER CHUCKLES</stage>
+<stage><person>HOMER</person> CHUCKLES</stage>
 
 Ooh!
 
@@ -96,11 +98,11 @@ What is it with kids and candy-colored poison, huh?
 
 <stage>CLERK CHUCKLES</stage>
 
-<stage><fam>MAGGIE</fam> FUSSING</stage>
+<stage><fam><person>MAGGIE</person></fam> FUSSING</stage>
 
-<stage>SANTA'S LITTLE HELPER GROWLING</stage>
+<stage><location>SANTA'S LITTLE HELPER</location> GROWLING</stage>
 
-No, you stupid dog! That's <fam>Maggie</fam>'s bunny!
+No, you stupid dog! That's <fam><person>Maggie</person></fam>'s bunny!
 
 Not in front of the poison man!
 
@@ -108,7 +110,7 @@ Whoever is biting me, stop it!
 
 <stage>TIRES SCREECHING</stage>
 
-<stage>HOMER GRUNTING IN FRUSTRATION</stage>
+<stage><person>HOMER</person> GRUNTING IN FRUSTRATION</stage>
 
 <stage>SCREAMS</stage>
 
@@ -128,11 +130,12 @@ Heart and Soul!
 
 <stage>PLAYING HEARTAND SOUL</stage>
 
-<stage>SINGING</stage> I fell in love with you Heart and soul<stage>TRIUMPHANT MUSIC PLAYS</stage>
+<stage>SINGING</stage> I fell in love with you Heart and soul
+<stage>TRIUMPHANT MUSIC PLAYS</stage>
 
 <stage>TRAIN WHISTLE BLOWS</stage>
 
-<fam>Homie</fam>, I haven't held <fam>Maggie</fam> all day. Can you hand her to me?
+<fam>Homie</fam>, I haven't held <fam><person>Maggie</person></fam> all day. Can you hand her to me?
 
 No problem, sweetie.
 
@@ -148,7 +151,7 @@ Hmm. You're not usually this greedy.
 
 <stage>IN DIFFERENT VOICE</stage> You cool it! I'm hungry!
 
-Cryptic message. Maybe this will lead me to the gem.
+Cryptic message. Maybe this will <location>lead</location> me to the gem.
 
 Hmm. What if I read every other word?
 
@@ -172,19 +175,19 @@ Well, did you get it?
 
 No. I'm not a smart nerd. I'm just a weak nerd.
 
-The biggest ring in Springfield comes from the bell in the Springfield bell tower!
+The biggest ring in <location>Springfield</location> comes from the bell in the <location>Springfield</location> bell tower!
 
 Oh.
 
 Oh!
 
-Good night, <fam>Bart</fam>.
+Good night, <fam><person>Bart</person></fam>.
 
-I'll be right in, <fam>Lisa</fam>!
+I'll be right in, <fam><person>Lisa</person></fam>!
 
 <stage>GRUNTS</stage>
 
-Good night, <fam>Lisa</fam>.
+Good night, <fam><person>Lisa</person></fam>.
 
 Good night.
 
@@ -196,9 +199,9 @@ Keep going and I'll scat.
 
 <stage>SCATTING</stage>
 
-<stage>LISA EXCLAIMS</stage>
+<stage><person>LISA</person> EXCLAIMS</stage>
 
-Principal Skinner? Comic Book Guy?
+Principal <person>Skinner</person>? <person>Comic Book Guy</person>?
 
 What are you doing here?
 
@@ -226,7 +229,7 @@ And used the timbers of their ship to construct a convent.
 
 The order flourished, never forgetting its sacred mission.
 
-But word about the gem got out, and a group of high-ranking Freemasons led by Benjamin Franklin, George Washington, and King George III staged a phony w*r of independence to cover their search for the gem.
+But word about the gem got out, and a group of high-ranking Freemasons led by Benjamin Franklin, George <location>Washington</location>, and King George III staged a phony w*r of independence to cover their search for the gem.
 
 <stage>EXCLAIMS</stage>
 
@@ -236,7 +239,7 @@ But word about the gem got out, and a group of high-ranking Freemasons led by Be
 
 <stage>BOTH LAUGHING</stage>
 
-Fleeing the v*olence, the nuns of St. Teresa 's left the colonies and settled here in Springfield.
+Fleeing the v*olence, the nuns of St. Teresa 's left the colonies and settled here in <location>Springfield</location>.
 
 Legend and Wikipedia have it that the gem will be revealed during the first full moon after a solar eclipse.
 
@@ -248,7 +251,7 @@ One question remains.
 
 Why did you come here?
 
-Because I cleverly deduced the answer to Springfield's biggest ring.
+Because I cleverly deduced the answer to <location>Springfield</location>'s biggest ring.
 
 <stage>EXCLAIMS IN FRENCH</stage>
 
@@ -260,7 +263,7 @@ The real bell was melted down in World w*r II to make Civil w*r chess sets, four
 
 Oh, my God!
 
-I know what the biggest ring in Springfield is!
+I know what the biggest ring in <location>Springfield</location> is!
 
 It's been right in front of us the whole time.
 
@@ -272,13 +275,13 @@ We'll walk or drive to the obvious solution.
 
 Oh, the word "ring"!
 
-<stage>LISA AND JEFF SNICKER</stage>
+<stage><person>LISA</person> AND JEFF SNICKER</stage>
 
 <stage>DOGS PANTING</stage>
 
 Well, well, if it isn't the Tardy Boys and Nancy Clueless.
 
-Mr. Burns? What are you doing here?
+Mr. <person>Burns</person>? What are you doing here?
 
 I've known about the gem for years.
 
@@ -298,7 +301,7 @@ Everything is writing to you young people.
 
 From this angle they're words.
 
-<stage>LISA READING</stage>
+<stage><person>LISA</person> READING</stage>
 
 Great crimes k*ll holy sage?
 
@@ -318,7 +321,7 @@ If you can hear me now, please come help me dig this giant grave.
 
 So the anagram spells...
 
-<stage>LISA READING</stage>
+<stage><person>LISA</person> READING</stage>
 
 So the gem is inside you?
 
@@ -330,7 +333,7 @@ Her greatest treasure would be a pure young girl.
 
 You are pure, aren't you?
 
-Does kissing Milhouse count?
+Does kissing <person>Milhouse</person> count?
 
 No.
 
@@ -344,7 +347,7 @@ How brilliant of God to remove my skepticism by making me his chosen one!
 
 According to legend, the gem must be brought to the convent by sunrise.
 
-We could make it if we took Mr. Burns' helicopter.
+We could make it if we took Mr. <person>Burns</person>' helicopter.
 
 Hmm. I don't really want you people inside. But you could dangle from the skids.
 
@@ -370,7 +373,7 @@ Hush, you foolish girl!
 
 The gem is over there.
 
-<fam>Maggie</fam>? No, no, no. The solution was, "Regally, the rock gem is <fam>Lisa</fam>."
+<fam><person>Maggie</person></fam>? No, no, no. The solution was, "Regally, the rock gem is <fam><person>Lisa</person></fam>."
 
 Oh, please. How many sentences start with the word "regally"?
 
@@ -378,13 +381,13 @@ This one.
 
 Oh, give me that!
 
-<fam>Lisa</fam>: "It's really <fam>Maggie</fam>, Sherlock."
+<fam><person>Lisa</person></fam>: "It's really <fam><person>Maggie</person></fam>, Sherlock."
 
 You know, I have to point out that this only makes sense, if I get the wrong answer first.
 
 I said hush!
 
-Now begins a new era of peace and prosperity for Springfield.
+Now begins a new era of peace and prosperity for <location>Springfield</location>.
 
 <stage>ALL GASP</stage>
 
@@ -400,7 +403,7 @@ Something tells me the Gem of St. Teresa has been returned to its throne.
 
 <stage>GASPS</stage>
 
-<fam>Maggie</fam>, it's true! You are the Gem Child!
+<fam><person>Maggie</person></fam>, it's true! You are the Gem Child!
 
 Four centuries of patient sacrifice has finally paid off.
 
@@ -408,15 +411,15 @@ All is peace and harmony.
 
 Give me my baby back!
 
-Mom, how did you know <fam>Maggie</fam> was here?
+Mom, how did you know <fam><person>Maggie</person></fam> was here?
 
 A mother knows!
 
-<stage>MARGE MURMURS WORRIEDLY</stage>
+<stage><person>MARGE</person> MURMURS WORRIEDLY</stage>
 
-<fam>Maggie</fam>, you're coming home with me.
+<fam><person>Maggie</person></fam>, you're coming home with me.
 
-Mom, wait! <fam>Maggie</fam> is the Gem Child! She's brought peace to our town and reports of less road rage in Shelbyville.
+Mom, wait! <fam><person>Maggie</person></fam> is the Gem Child! She's brought peace to our town and reports of less road rage in <location>Shelbyville</location>.
 
 She has to stay here.
 
@@ -430,11 +433,11 @@ I'm sorry.
 
 But I know God would never ask a mother to sacrifice her child for the good of the world again.
 
-<stage>MARGE MURMURS WORRIEDLY</stage>
+<stage><person>MARGE</person> MURMURS WORRIEDLY</stage>
 
 Maybe I'm just being selfish. I don't know.
 
-No, <fam>Marge</fam>. You're the most giving person I know.
+No, <fam><person>Marge</person></fam>. You're the most giving person I know.
 
 Besides, I gave them another Gem Child to sit on their precious throne.
 
@@ -444,4 +447,5 @@ Step aside, ladies. I'm bringing the peace.
 
 <stage>ALL SCREAMING</stage>
 
-<stage>CHUCKLES</stage> I am so staying up past my bedtime.</txt></xml>
+<stage>CHUCKLES</stage> I am so staying up past my bedtime.
+</txt></xml>

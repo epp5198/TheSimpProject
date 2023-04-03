@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>12/03/18</date> <runtime>09:24</runtime></metadata>
 
@@ -40,7 +42,7 @@ Sorry, no room. <stage>SNORES</stage>
 
 <music>♪   
 
-I am a broccoli, I help keep you lean.   </music>
+I am a broccoli, I help keep you <location>lean</location>.   </music>
 
 My head's on a stalk, and my color is...   
 
@@ -117,11 +119,11 @@ Just, uh, play with the siren.
 
   .   .   .   
 
-<fam>Homer</fam>, that's the weather.   
+<fam><person>Homer</person></fam>, that's the weather.   
 
-HOMER: <catchphrase>D'oh</catchphrase>!   
+<person>HOMER</person>: <catchphrase>D'oh</catchphrase>!   
 
-<fam>Homer</fam>, I want you to do something with <fam>Lisa</fam>.   
+<fam><person>Homer</person></fam>, I want you to do something with <fam><person>Lisa</person></fam>.   
 
 I am.   
 
@@ -141,7 +143,7 @@ Ooh, ooh, ooh! Protesting a whale.
 
 I'm reading To k*ll a Mockingbird. 
 
-Now just remember, it's set in the South a long time ago.   
+Now just remember, it's set in the <location>South</location> a long time ago.   
 
 The terrible racism you're reading about is now everywhere.   
 
@@ -171,7 +173,7 @@ We also have "Call of Booty," "Raggedy Anorexic,"
 
 "The Edge of   ," and, for boys, "Jack the Stripper."   
 
-HOMER: Oh, for crying out loud.   
+<person>HOMER</person>: Oh, for crying out loud.   
 
 Okay, that's it. I've heard enough and three past that.   
 
@@ -239,11 +241,11 @@ Oh, black and white? The TV's broken.
 Hey, we were watching that.    
 
 <stage>SOUTHERN ACCENT</stage>:
-Why, look, it's <fam>Bart</fam> Simpson in his short pants on the davenport.    
+Why, look, it's <fam><person>Bart</person></fam> Simpson in his short pants on the davenport.    
 
 Are you nuts?    
 
-<fam>Homer</fam> is my hero.    
+<fam><person>Homer</person></fam> is my hero.    
 
 Say it in American.    
 
@@ -263,7 +265,7 @@ And dig I will. <stage>CHUCKLES</stage>
 Well, I don't care if Dad's your hero.    
 
 You know whose hero I am?
-<fam>Maggie</fam>'s. Come here, girl.    
+<fam><person>Maggie</person></fam>'s. Come here, girl.    
 
 Okay, the dog's your hero, but I'm your human hero.    
 
@@ -284,7 +286,7 @@ Oh... someone put down my dukes.
 
 <music>♪    
 
-LISA: I'd always liked my dad,but this was something new and wonderful. </music>
+<person>LISA</person>: I'd always liked my dad,but this was something new and wonderful. </music>
 
 I admired him. 
 
@@ -329,11 +331,11 @@ Page   . The book you assigned us to read.
 
 I assigned you to read the Wikipedia article.    
 
-LISA: But my brother was not so happy. 
+<person>LISA</person>: But my brother was not so happy. 
 
 Mom, why can't we be like that?    
 
-<stage>LISA AND HOMER LAUGHING</stage>    
+<stage><person>LISA</person> AND <person>HOMER</person> LAUGHING</stage>    
 
 Well...    
 
@@ -373,7 +375,7 @@ Don't worry, we'll take these cameras and we'll make a Netflix documentary.
 
 They will buy anything!    
 
-<stage>MARGE HUMMING</stage> 
+<stage><person>MARGE</person> HUMMING</stage> 
 
 For dessert, I made blackberry pie.    
 
@@ -389,9 +391,9 @@ Maybe it was a king salmon.
 
 The point is, pies are good.    
 
-<fam>Homer</fam>, I think <fam>Bart</fam> could use a little attention.    
+<fam><person>Homer</person></fam>, I think <fam><person>Bart</person></fam> could use a little attention.    
 
-<stage>SIGHS</stage> Give attention to <fam>Lisa</fam>, give attention to <fam>Bart</fam>.    
+<stage>SIGHS</stage> Give attention to <fam><person>Lisa</person></fam>, give attention to <fam><person>Bart</person></fam>.    
 
 What am I, made of attention?    
 
@@ -440,7 +442,7 @@ You got    seconds.
 
 BOTH: I'm the oldest, and she won't admit it.    
 
-Milhouse, I'm about to act out.    
+<person>Milhouse</person>, I'm about to act out.    
 
 After we leave an envelope full of guilt.    
 
@@ -465,7 +467,7 @@ It's go time.
 
 Help. My friend's having an asthma att*ck.    
 
-Not yet, <fam>Bart</fam>. This is a real one.    
+Not yet, <fam><person>Bart</person></fam>. This is a real one.    
 
 - <stage>GRUNTS</stage>
 - Even better.    
@@ -480,7 +482,7 @@ Wow. I'm gonna meet a nurse.
 
 <stage>SHAUNA READING IN HEBREW</stage>    
 
-And now we're gonna party like it's     .    
+And now we're gonna <location>party</location> like it's     .    
 
 Wait, wait, wait.    
 
@@ -502,7 +504,7 @@ Amen.
 
 I don't drive a minivan.    
 
-Do I look like a suburban soccer mom from Phoenix?    
+Do I look like a suburban soccer mom from <location>Phoenix</location>?    
 
 Well, sometimes, when you're tired.    
 
@@ -548,7 +550,7 @@ Where's your boy?
 
 <stage>SOUTHERN ACCENT</stage>: What's your hurry, friend?    
 
-Now, <fam>Homer</fam>, don't you try to disarm us with your genteel mannerisms of a bygone era there.    
+Now, <fam><person>Homer</person></fam>, don't you try to disarm us with your genteel mannerisms of a bygone era there.    
 
 Why, I haven't a notion as to what you are importuning, good sir.    
 
@@ -568,11 +570,11 @@ You can't say hi to me?
 
 <stage>SOBBING</stage>    
 
-And how 'bout you, Chief Wiggum?    
+And how 'bout you, Chief <person>Wiggum</person>?    
 
-I go to school with your boy, Ralph.    
+I go to school with your boy, <person>Ralph</person>.    
 
-Give my regards to Ralph, would you, please?    
+Give my regards to <person>Ralph</person>, would you, please?    
 
 All right, let's go, people.
 They've defused us.    
@@ -581,7 +583,7 @@ Everyone get, uh, get one last mutter in.
 
 <stage>ALL MUTTERING</stage>    
 
-Oh, <fam>Lisa</fam>, sweetie, you saved me.    
+Oh, <fam><person>Lisa</person></fam>, sweetie, you saved me.    
 
 No, Dad, you saved us all with your calmness and bravery.    
 
@@ -592,18 +594,18 @@ Don't tell your mother about the mob that almost k*ll your brother.
 
 She's taken a liking to him.    
 
-MARGE: The what?    
+<person>MARGE</person>: The what?    
 
-You're hearing things in the shower again, <fam>Marge</fam>.    
+You're hearing things in the shower again, <fam><person>Marge</person></fam>.    
 
 Oh, okay.    
 
 - <stage>g*n</stage>
-- WIGGUM: Sorry.    
+- <person>WIGGUM</person>: Sorry.    
 
-Okay, <fam>Maggie</fam>, you give me your binky, and I'll give you this substitution bear doll.    
+Okay, <fam><person>Maggie</person></fam>, you give me your binky, and I'll give you this substitution bear doll.    
 
-You can't b*at addiction, <fam>Marge</fam>.    
+You can't b*at addiction, <fam><person>Marge</person></fam>.    
 
 I got addicted to Agatha Christie books.    
 
@@ -613,7 +615,7 @@ Turns out, he was the detective.
 
    books, and I never saw it coming.    
 
-- <stage>LISA GROANS</stage>
+- <stage><person>LISA</person> GROANS</stage>
 - <stage>GASPS</stage>    
 
 - What happened?
@@ -632,12 +634,12 @@ You got in a fight with your brother?
 
 I won a fight with my brother.    
 
-- Liar.
+- <location>Liar</location>.
 - Let's go again.    
 
 Stop her, Mom.    
 
-<stage>MARGE GROANS</stage>    
+<stage><person>MARGE</person> GROANS</stage>    
 
 To combat bed-wetting, doctors recommend shifting times for drinking, scheduling bathroom breaks, and being encouraging.
 I'll deny having said this, but the next time you wet your bed, have 'em spank you.    
@@ -651,13 +653,13 @@ You've got    seconds. Go.
 
 I'm worried that my daughter is ruining her family idolizing her father.    
 
-I see. Wow. <fam>Marge</fam>, it's totally normal for a little girl to be infatuated with her father.    
+I see. Wow. <fam><person>Marge</person></fam>, it's totally normal for a little girl to be infatuated with her father.    
 
 It's safe and comes from a good place, and when it ends, it's another thing she'll blame you for.    
 
 Yes, well, I'm afraid my husband isn't always a perfect influence.    
 
-<fam>Marge</fam>, I've got a legal matter to deal with.    
+<fam><person>Marge</person></fam>, I've got a legal matter to deal with.    
 
 I'll be outside.    
 
@@ -675,10 +677,10 @@ See you in three years.
 - <stage>TIMER DINGS</stage>
 - Now, good-bye.    
 
-- <fam>Homer</fam>?
+- <fam><person>Homer</person></fam>?
 - Huh? What?    
 
-<fam>Homer</fam>, it's sweet that <fam>Lisa</fam> idolizes you,    
+<fam><person>Homer</person></fam>, it's sweet that <fam><person>Lisa</person></fam> idolizes you,    
 
 but I think it's gone too far.    
 
@@ -699,7 +701,7 @@ You can't hide in there forever.
 - <stage>TOOTS</stage>
 - <stage>BARKING</stage>    
 
-Okay, I'll talk to <fam>Bart</fam>, you talk to <fam>Lisa</fam>.    
+Okay, I'll talk to <fam><person>Bart</person></fam>, you talk to <fam><person>Lisa</person></fam>.    
 
 We've got to put this family back in place.    
 
@@ -747,21 +749,21 @@ Aw.
 
 No problem.    
 
-<fam>Marge</fam>, get in here.    
+<fam><person>Marge</person></fam>, get in here.    
 
-Okay <fam>Bart</fam>, because we treasure you too, I'm gonna let you do one thing just for yourself.    
+Okay <fam><person>Bart</person></fam>, because we treasure you too, I'm gonna let you do one thing just for yourself.    
 
-Kick <fam>Homer</fam> in the butt?    
+Kick <fam><person>Homer</person></fam> in the butt?    
 
 Uh, why don't you give it some thought.    
 
-Kick <fam>Lisa</fam> in the butt. Have a birthday party every day?    
+Kick <fam><person>Lisa</person></fam> in the butt. Have a birthday <location>party</location> every day?    
 
 Never brush my teeth again.    
 
 Be homeschooled by the dog.    
 
-Drive a t*nk through Skinner's house.    
+Drive a t*nk through <person>Skinner</person>'s house.    
 
 Open a casino in the basement.    
 
@@ -778,7 +780,7 @@ Take a mulligan?
 
 Okay, I've decided.    
 
-I'll kick <fam>Homer</fam> in the butt.    
+I'll kick <fam><person>Homer</person></fam> in the butt.    
 
 You can kick it if you can find it.    
 

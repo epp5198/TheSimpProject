@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>02/28/19</date> <runtime>06:44</runtime></metadata>
 
@@ -46,7 +48,7 @@
 
  Can we keep him?
 
- - <stage>HOMER GRUNTS</stage>
+ - <stage><person>HOMER</person> GRUNTS</stage>
 
  - BOB: No.
 
@@ -64,7 +66,7 @@
 
  - Over.
 
- FLANDERS: America caught bounce fever.
+ <person>FLANDERS</person>: <location>America</location> caught bounce fever.
 
  Trampolines were just what people were looking for to forget the long quagmire that was g*n.
 
@@ -112,7 +114,7 @@
 
  If you don't like death, get out of children's toys.
 
- FLANDERS: I've got to stop him!
+ <person>FLANDERS</person>: I've got to stop him!
 
  401 402 - <stage>CAMERA CLICKING</stage>
 
@@ -120,7 +122,7 @@
 
  I knew he could bounce, but I had no idea he could count.
 
- YOUNG HOMER <stage>OVER RADIO</stage>: 412 413 Oh, the brake pedal won't go down!
+ YOUNG <person>HOMER</person> <stage>OVER RADIO</stage>: 412 413 Oh, the brake pedal won't go down!
 
  Why did I get these super shag floor mats?
 
@@ -148,7 +150,7 @@
 
  Why am I here?
 
- Uh, Ned Flanders, you have been a sinner, but you have taken the first step on the road to redemption, and if you accept the word of the Lord that's me I shall return you to Earth to carry forth my word of hope.
+ Uh, <person>Ned</person> <person>Flanders</person>, you have been a sinner, but you have taken the first step on the road to redemption, and if you accept the word of the Lord that's me I shall return you to <location>Earth</location> to carry forth my word of hope.
 
  And, uh, like that.
 
@@ -172,7 +174,7 @@
 
  - - <stage>ELECTRIC GUITAR RIFF PLAYS</stage>
 
- <stage>FLANDERS GROANS</stage>
+ <stage><person>FLANDERS</person> GROANS</stage>
 
  - Praise the Lord, I am reborn!
 
@@ -192,7 +194,7 @@
 
  Anyone need a vacuum?
 
- FLANDERS: God gave me a second chance, and as a sign of his mercy, he permanently scarred my beautiful, beautiful philtrum.
+ <person>FLANDERS</person>: God gave me a second chance, and as a sign of his mercy, he permanently scarred my beautiful, beautiful philtrum.
 
  KIDS: Whoa!
 
@@ -200,7 +202,7 @@
 
  It wasn't till God seriously deformed me that I fully understood his love.
 
- GOD: So, Ned Flanders gets into Heaven.
+ GOD: So, <person>Ned</person> <person>Flanders</person> gets into Heaven.
 
  It'll be interesting to see which wife he goes with.
 
@@ -254,11 +256,11 @@
 
  Her name was Genevieve.
 
- - - She lived in occupied France in the darkest days of World w*r Two.
+ - - She lived in occupied <location>France</location> in the darkest days of World w*r Two.
 
  And she no longer believed in God.
 
- He's in the afterlife, punishing heavily He's the boogie woogie Christian God of John 3:16 A root, a toot, just don't eat his fruit He was born in a barn He loved religion.
+ He's in the afterlife, punishing heavily He's the boogie woogie Christian God of John 3:16 A root, a toot, just don't eat his fruit He was born in a <location>barn</location> He loved religion.
 
  <stage>FRENCH ACCENT</stage>: How could a god allow this awful w*r to happen?
 
@@ -266,7 +268,7 @@
 
  Nobody ever talks about that.
 
- MARGE: Perhaps her mÃ©lancolie came from her marriage to the village's most notorious n*zi collaborator.
+ <person>MARGE</person>: Perhaps her mÃ©lancolie came from her marriage to the village's most notorious n*zi collaborator.
 
  Bonjour, bonjour, Commandant!
 
@@ -358,7 +360,7 @@
 
  - Do we get tips?
 
- - Not in Europe.
+ - Not in <location>Europe</location>.
 
  Damn it.
 
@@ -404,7 +406,7 @@
 
  Meaux speaking.
 
- BART <stage>FRENCH ACCENT</stage>: I'd like to speak to Monsieur Pants, - first name Pierre.
+ <person>BART</person> <stage>FRENCH ACCENT</stage>: I'd like to speak to Monsieur Pants, - first name Pierre.
 
  - Un moment.
 
@@ -424,7 +426,7 @@
 
  Ow!
 
- Now, precisely what part of France are you from?
+ Now, precisely what part of <location>France</location> are you from?
 
  Eh Normandy beach.
 
@@ -502,7 +504,7 @@
 
  I say no shirt, no shoes, no salvation.
 
- I say we have <fam>Lisa</fam> Simpson.
+ I say we have <fam><person>Lisa</person></fam> Simpson.
 
  Well, there is redemption, and there are good works.
 
@@ -528,9 +530,9 @@
 
  - Oh.
 
- LISA: The princess wondered, if nothing was denied her, - why was she not satisfied?
+ <person>LISA</person>: The princess wondered, if nothing was denied her, - why was she not satisfied?
 
- - <stage>KING HOMER SCREAMS</stage>
+ - <stage>KING <person>HOMER</person> SCREAMS</stage>
 
  Why couldn't she be happy like her brother with his stupid multiplayer games?
 
@@ -550,7 +552,7 @@
 
  - Flatulence?
 
- - <stage>MILHOUSE LAUGHS</stage>
+ - <stage><person>MILHOUSE</person> LAUGHS</stage>
 
  No.
 
@@ -584,9 +586,9 @@
 
  Oops.
 
- LISA: Disguised as a poor boy, Siddmartha sought out the most learned scholars in the kingdom.
+ <person>LISA</person>: Disguised as a poor boy, Siddmartha sought out the most learned scholars in the kingdom.
 
- But she soon learned Kathmandu U, like Budhanilkantha Tech, was just another party school.
+ But she soon learned Kathmandu U, like Budhanilkantha Tech, was just another <location>party</location> school.
 
  - - <stage>LAUGHTER, CHEERING</stage>
 
@@ -608,13 +610,13 @@
 
  I will sit under this Bodhi Tree because I am void of ideas.
 
- LISA: So, Siddmartha sat and sat and sat and sat, willing to wait forever and a day until she found enlightenment.
+ <person>LISA</person>: So, Siddmartha sat and sat and sat and sat, willing to wait forever and a day until she found enlightenment.
 
  Om Om Om - Namaste!
 
  - <stage>KIDS CHEERING</stage>
 
- Even though she strayed from our faith, I'm proud of <fam>Lisa</fam>.
+ Even though she strayed from our faith, I'm proud of <fam><person>Lisa</person></fam>.
 
  That Buddhist kid's a really good person.
 
@@ -634,7 +636,7 @@
 
  How did I get here?
 
- Well, you see, you were Smithers' plus one.
+ Well, you see, you were <person>Smithers</person>' plus one.
 
  I demand to get in on my own merits.
 

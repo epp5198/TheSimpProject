@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Eeny Teeny Maya Moe</epTitle><szn>20</szn>x<epNum>16</epNum></ep><date>04/09/09</date> <runtime>06:47</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Eeny Teeny Maya <person>Moe</person></epTitle><szn>20</szn>x<epNum>16</epNum></ep>
+<date>04/09/09</date> <runtime>06:47</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -24,7 +26,7 @@ Announcer 2: Uh-oh! Someone could lose a tooth!
 
 <stage>GURGLING</stage>
 
-This is no time to pat the bunny, <fam>Maggie</fam>.
+This is no time to pat the bunny, <fam><person>Maggie</person></fam>.
 
 Daddy's watching a very important.
 
@@ -46,7 +48,7 @@ I will when it's not sports season! I just want to know how the game ends!
 
 And this game is over! Unbelievable! You'll never see anything like that again!
 
-So that will do it, from Wayne Buckhorn, Jean-Pierre Petomane, and me, Don Jacque LaLonde, here at Utica 's k*ll-Kwik Rat Poison Arena!
+So that will do it, from Wayne Buckhorn, Jean-Pierre Petomane, and me, Don Jacque LaLonde, here at Utica 's k*ll-<location>Kwik</location> Rat Poison Arena!
 
 What's the score?
 
@@ -68,7 +70,7 @@ Oh! I will never know the score!
 
 You want to know the score? I'll tell you the score!
 
-<fam>Marge</fam>. This is a definite high point for our marriage.
+<fam><person>Marge</person></fam>. This is a definite high point for our marriage.
 
 Here's the score, mister.
 
@@ -78,7 +80,7 @@ Your daughter barely knows who you are!
 
 That's ridiculous.
 
-Who's your daddy, <fam>Maggie</fam>? Who's your daddy?
+Who's your daddy, <fam><person>Maggie</person></fam>? Who's your daddy?
 
 He is pretty good with her.
 
@@ -88,13 +90,13 @@ Oh!
 
 <stage>HUMMING</stage>
 
-Look, <fam>Marge</fam>! It's just what you want, me spending the day with Mugsy.
+Look, <fam><person>Marge</person></fam>! It's just what you want, me spending the day with Mugsy.
 
-<fam>Maggie</fam>!
+<fam><person>Maggie</person></fam>!
 
-<fam>Marge</fam>, you're not naggy. You just set the bar impossibly high.
+<fam><person>Marge</person></fam>, you're not naggy. You just set the bar impossibly high.
 
-Can you at least bring a sweater for <fam>Maggie</fam>?
+Can you at least bring a sweater for <fam><person>Maggie</person></fam>?
 
 Impossibly high.
 
@@ -108,13 +110,13 @@ Hmm.
 
 <stage>SCOFFS</stage> Not even heated up. Typical dog.
 
-This is it, <fam>Maggie</fam>.
+This is it, <fam><person>Maggie</person></fam>.
 
 The place where Daddy goes every morning.
 
 Now, you learn your numbers from these billiard balls while Daddy gets happier and happier and then sadder and sadder.
 
-Moe, what are you doing?
+<person>Moe</person>, what are you doing?
 
 I'm spiffing up the place.
 
@@ -124,19 +126,19 @@ Huh. I got a window here.
 
 Ooh!
 
-Hey, <fam>Maggie</fam> could play out there while I watch her from in here.
+Hey, <fam><person>Maggie</person></fam> could play out there while I watch her from in here.
 
-What do you say, <fam>Maggie</fam>?
+What do you say, <fam><person>Maggie</person></fam>?
 
 Ah! Her first enabling.
 
-<fam>Homer</fam>: Hi, <fam>Maggie</fam>!
+<fam><person>Homer</person></fam>: Hi, <fam><person>Maggie</person></fam>!
 
-Carl: Up here, beautiful!
+<person>Carl</person>: Up here, beautiful!
 
-Lenny: Yo, Mag!
+<person>Lenny</person>: Yo, Mag!
 
-It's me, Uncle Barney!
+It's me, Uncle <person>Barney</person>!
 
 Remember? I taught you your ABCs.
 
@@ -148,11 +150,11 @@ So, I suppose you guys are still wondering why I'm cleaning the bar?
 
 <stage>EXCLAIMS</stage>
 
-Hey, <fam>Maggie</fam>! <fam>Maggie</fam>, <fam>Maggie</fam>, <fam>Maggie</fam>!
+Hey, <fam><person>Maggie</person></fam>! <fam><person>Maggie</person></fam>, <fam><person>Maggie</person></fam>, <fam><person>Maggie</person></fam>!
 
-Hello, <fam>Maggie</fam>! Hello, <fam>Maggie</fam>!
+Hello, <fam><person>Maggie</person></fam>! Hello, <fam><person>Maggie</person></fam>!
 
-Hey, <fam>Maggie</fam>! <fam>Maggie</fam>, look at my face.
+Hey, <fam><person>Maggie</person></fam>! <fam><person>Maggie</person></fam>, look at my face.
 
 <stage>CLEARING THROAT</stage>
 
@@ -174,7 +176,7 @@ I finally found an intelligent, sophisticated woman who hadn't heard any of my k
 
 "Orange who?"
 
-All right, Moe. Give it a punch line, nice and easy.
+All right, <person>Moe</person>. Give it a punch line, nice and easy.
 
 Orange you glad I didn't say banana?
 
@@ -198,7 +200,7 @@ We used to own a cat together! She had babies! Here's yours!
 
 <stage>SHOUTING</stage>
 
-Moe: I would do anything to chat with Maya, short of actually purchasing a computer.
+<person>Moe</person>: I would do anything to chat with Maya, short of actually purchasing a computer.
 
 We decided to take the next big step, exchanging photos.
 
@@ -234,11 +236,11 @@ She's coming to meet me here, tonight.
 
 <stage>RINGING</stage>
 
-Moe's rat-free tavern.
+<person>Moe</person>'s rat-free tavern.
 
-Heya, <fam>Marge</fam>. Yeah, yeah, <fam>Homer</fam>'s here.
+Heya, <fam><person>Marge</person></fam>. Yeah, yeah, <fam><person>Homer</person></fam>'s here.
 
-You want <fam>Homer</fam>? I'm sorry, I thought you meant Himmler.
+You want <fam><person>Homer</person></fam>? I'm sorry, I thought you meant Himmler.
 
 Heinrich Himmler.
 
@@ -250,13 +252,13 @@ Well, they're both here. And neither one is your husband.
 
 This press conference is over.
 
-Oh, <fam>Maggie</fam> made some new friends.
+Oh, <fam><person>Maggie</person></fam> made some new friends.
 
 Aw... Burrowing your head into your daddy.
 
 8:00.
 
-You calling my girl a liar?
+You calling my girl a <location>liar</location>?
 
 <stage>CAR SCREECHING TO A STOP</stage>
 
@@ -266,7 +268,7 @@ Okay.
 
 I've been stood up.
 
-Moe, I'm down here.
+<person>Moe</person>, I'm down here.
 
 Oh! You're a little person. I'm... No, I'm sorry. I didn't mean that.
 
@@ -336,7 +338,7 @@ And we know that's not gonna happen.
 
 Hmm...
 
-Wait a second, <fam>Marge</fam>.
+Wait a second, <fam><person>Marge</person></fam>.
 
 10 jokes ago and you just kept going.
 
@@ -352,7 +354,7 @@ And I'm sorry. How long do you people remember things?
 
 Get out.
 
-<stage>MOE SOBBING</stage>
+<stage><person>MOE</person> SOBBING</stage>
 
 Guys, after all the years I've given you advice, now I need a little advice from you.
 
@@ -380,7 +382,7 @@ You gotta make me shorter, Doc.
 
 What do you mean?
 
-I mean, take out bones, guts, whatever you gotta do to make me a micro-Moe.
+I mean, take out bones, guts, whatever you gotta do to make me a micro-<person>Moe</person>.
 
 What you're asking is completely unethical.
 
@@ -406,13 +408,13 @@ Mmm. Mmm-hmm.
 
 Maya is gonna love the new me.
 
-Moe, why did you do this?
+<person>Moe</person>, why did you do this?
 
 Well, I ain't done nothing yet, but I'm considering it.
 
 Because I want to share your world forever.
 
-Moe, if you have to be like me to love me, then you're not seeing the real me.
+<person>Moe</person>, if you have to be like me to love me, then you're not seeing the real me.
 
 I see you, Maya. I see you every time I look at the moon.
 
@@ -426,7 +428,7 @@ So cut me down to size, Doc.
 
 And could you wrap up the bones so my dog can have fun with them?
 
-But, Moe, I don't want someone who sees me as short.
+But, <person>Moe</person>, I don't want someone who sees me as short.
 
 I want someone who just sees me as beautiful.
 
@@ -442,7 +444,7 @@ Okay, no more delays. I've got to watch this.
 
 <stage>GASPS</stage>
 
-I'll save you, <fam>Maggie</fam>!
+I'll save you, <fam><person>Maggie</person></fam>!
 
 <stage>GROANING</stage>
 
@@ -458,7 +460,7 @@ Sweetie, you saved me.
 
 Well, I promise that wherever you go in this world, I will always be there for you.
 
-<fam>Maggie</fam>, I love you from the tip of your toes to the bow on your hair with the red blinking light.
+<fam><person>Maggie</person></fam>, I love you from the tip of your toes to the bow on your hair with the red blinking light.
 
 God bless your mother for making you with me.
 
@@ -466,7 +468,7 @@ God bless your mother for making you with me.
 
 What you watching, honey?
 
-<fam>Homer</fam> Simpson, you are a strong finisher.
+<fam><person>Homer</person></fam> Simpson, you are a strong finisher.
 
 And I'm good at beginnings.
 
@@ -474,13 +476,13 @@ And I'm good at beginnings.
 
 <stage>HUMMING HAPPILY</stage>
 
-What's the matter, <fam>Homer</fam>?
+What's the matter, <fam><person>Homer</person></fam>?
 
 Not a thing in the world.
 
 Yeah, I wish I could say the same.
 
-Moe, this is a great thing for you.
+<person>Moe</person>, this is a great thing for you.
 
 You went from sitting on the sidelines to getting in the game.
 
@@ -492,6 +494,7 @@ That'll make you smile.
 
 <stage>SIGHING</stage>
 
-Hey, <fam>Homer</fam> was right.
+Hey, <fam><person>Homer</person></fam> was right.
 
-Who'd have thought such a little woman could make me feel so big?</txt></xml>
+Who'd have thought such a little woman could make me feel so big?
+</txt></xml>

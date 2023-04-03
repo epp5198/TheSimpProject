@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Sex, Pies and Idiot Scrapes</epTitle><szn>20</szn>x<epNum>01</epNum></ep><date>10/02/08</date> <runtime>19:13</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Sex, Pies and Idiot Scrapes</epTitle><szn>20</szn>x<epNum>01</epNum></ep>
+<date>10/02/08</date> <runtime>19:13</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -14,7 +16,7 @@
 
 <stage>ALL SHRIEK</stage>
 
-<fam>Bart</fam>: Woo-hoo!
+<fam><person>Bart</person></fam>: Woo-hoo!
 
 St. Patrick's Day. I love how they made the river green.
 
@@ -24,7 +26,7 @@ Actually, my nuclear plant did that. And now that you know, your life is in dang
 
 Greetings, fellow lrishmen and lady lrishmen.
 
-I, Joseph Fitzgerald O'Malley Fitzpatrick O'Donnell "The Edge" Quimby, welcome you to Springfield's first booze-free St. Patrick's Day!
+I, Joseph Fitzgerald O'Malley Fitzpatrick O'Donnell "The Edge" Quimby, welcome you to <location>Springfield</location>'s first booze-free St. Patrick's Day!
 
 <stage>ALL BOOING</stage>
 
@@ -72,7 +74,7 @@ Actually, those Prots and Cathies have hated each other for centuries.
 
 <stage>BOTH SPEAKING IRISH-ACCENTED GIBBERISH</stage>
 
-Stop it, both of you! You have a common land, a literature, and the sweetest songs on earth!
+Stop it, both of you! You have a common land, a literature, and the sweetest songs on <location>earth</location>!
 
 <stage>SINGING</stage> Too-ra-Ioo-ra-Ioo-ral.
 
@@ -86,7 +88,7 @@ Too-ra-Ioo-ra-li.
 
 Too-ra-Ioo-ra-Ioo-ral.
 
-That's an lrish lullaby
+That's an lrish <location>lullaby</location>
 
 <stage>ALL CRYING</stage>
 
@@ -118,13 +120,13 @@ Thank you so much, Mr...
 
 Patrick Farrelly at your service.
 
-<fam>Marge</fam> Simpson. Well, Mr. Farrelly, the least I could do is offer you a cupcake.
+<fam><person>Marge</person></fam> Simpson. Well, Mr. Farrelly, the least I could do is offer you a cupcake.
 
 Mmm.
 
 Light, moist, and such a marvelous shape retention.
 
-<fam>Marge</fam>, I own a small bakery. Will you bake for me?
+<fam><person>Marge</person></fam>, I own a small bakery. Will you bake for me?
 
 Me? A professional baker's employee?
 
@@ -146,17 +148,17 @@ You won't regret it.
 
 I already don't.
 
-<fam>Homer</fam>! I've got great news!
+<fam><person>Homer</person></fam>! I've got great news!
 
 I'll use my one phone call to find out all about it!
 
 Mulk request change of venue.
 
-Green monster cannot get fair trial in downtown Springfield.
+Green monster cannot get fair trial in downtown <location>Springfield</location>.
 
 Granted.
 
-<fam>Homer</fam> Simpson? You're a repeat offender.
+<fam><person>Homer</person></fam> Simpson? You're a repeat offender.
 
 Three-peat.
 
@@ -210,7 +212,7 @@ Now to scatter my cheese cubes and the rats will come.
 
 Condos! Affordable condos! Bail jumpers welcome!
 
-"Bail jumpers welcome." That's refreshing, after the cold shoulder we got at the Town Homes at Sterling Point.
+"Bail jumpers welcome." That's refreshing, after the cold shoulder we got at <location>the Town Homes</location> at <location>Sterling Point</location>.
 
 Let's not get too excited till we find out if it's in a good school district.
 
@@ -238,7 +240,7 @@ Huh?
 
 b*llet-proof glass.
 
-Flanders?
+<person>Flanders</person>?
 
 Yep. I'm just replacing the front window of my store, which was broken in the riot.
 
@@ -250,11 +252,11 @@ Well, son, if you take responsibility for your actions, this could be the start 
 
 Maybe you're right. Maybe I should just...
 
-<stage>SNAKE GASPING</stage>
+<stage><person>SNAKE</person> GASPING</stage>
 
 This case is in the bag!
 
-<fam>Homer</fam>, you could've k*ll him!
+<fam><person>Homer</person></fam>, you could've k*ll him!
 
 I sure could've. Thanks to you.
 
@@ -262,15 +264,15 @@ Now I can clearly see potential customers walk right past my store.
 
 Enjoy your shopping elsewhere.
 
-Hey, Ned. I brought you something.
+Hey, <person>Ned</person>. I brought you something.
 
-<stage>HOMER CHUCKLES</stage>
+<stage><person>HOMER</person> CHUCKLES</stage>
 
 What the...
 
 It's your share of the money for bringing in that bail jumper.
 
-Ned, I never thought I'd say this, but we make a great team.
+<person>Ned</person>, I never thought I'd say this, but we make a great team.
 
 Us? A team? As the salad said to the soup, I'm all mixed up.
 
@@ -282,7 +284,7 @@ Together, we're nothing.
 
 But together, we're the perfect bounty hunter.
 
-Well, I could use money. But you have to promise me something, <fam>Homer</fam>.
+Well, I could use money. But you have to promise me something, <fam><person>Homer</person></fam>.
 
 Sure. What is it?
 
@@ -298,7 +300,7 @@ Simpson, we're gonna put you away for a long, long time.
 
 Make it life and you've got a deal.
 
-<fam>Marge</fam>: Don't feel too bad, <fam>Homie</fam>. You'll be free tomorrow.
+<fam><person>Marge</person></fam>: Don't feel too bad, <fam>Homie</fam>. You'll be free tomorrow.
 
 And I used all my new baking k*ll to make a special cake to remind you of me.
 
@@ -306,4 +308,5 @@ And I used all my new baking k*ll to make a special cake to remind you of me.
 
 Baby!
 
-Thanks, <fam>Marge</fam>.</txt></xml>
+Thanks, <fam><person>Marge</person></fam>.
+</txt></xml>

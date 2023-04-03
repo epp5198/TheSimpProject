@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Mypods and Boomsticks</epTitle><szn>20</szn>x<epNum>07</epNum></ep><date>12/04/08</date> <runtime>03:39</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Mypods and Boomsticks</epTitle><szn>20</szn>x<epNum>07</epNum></ep>
+<date>12/04/08</date> <runtime>03:39</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -60,7 +62,7 @@ I see you're admiring our MyCube.
 
 I'll never get a Mapple anything.
 
-Krusty: I hate this MyPod!
+<person>Krusty</person>: I hate this MyPod!
 
 I can't watch movies on a screen this small!
 
@@ -76,7 +78,7 @@ Maybe somebody at Old Navy will get me started.
 
 Here, kid. You take it.
 
-Thank you, Krusty.
+Thank you, <person>Krusty</person>.
 
 Don't thank me.
 
@@ -106,7 +108,7 @@ I'm speaking to you from Mapple headquarters deep below the sea with an announce
 
 And that announcement is...
 
-<fam>Bart</fam>: <stage>ON MIC</stage> You're all losers!
+<fam><person>Bart</person></fam>: <stage>ON MIC</stage> You're all losers!
 
 Huh?
 
@@ -128,7 +130,7 @@ Traitor! Your heart is blacker than your turtleneck!
 
 Who dares question the boss we fired 10 years ago and then brought back?
 
-It was my brother, <fam>Bart</fam>!
+It was my brother, <fam><person>Bart</person></fam>!
 
 Flay him with your earbuds! Flay him, I say!
 
@@ -152,7 +154,7 @@ Hello. Would you like some lamb?
 
 Whoa! All these years I've been petting lambs when I should've been shoving them in my mouth!
 
-I'm <fam>Bart</fam>.
+I'm <fam><person>Bart</person></fam>.
 
 I'm Bashir.
 
@@ -172,11 +174,11 @@ Hey, I never refuse food from strangers.
 
 Okay. You're new to our school, so here's the deal.
 
-We call Skinner, Skin Rash.
+We call <person>Skinner</person>, Skin Rash.
 
 Mr. Wiener is Mr. Whiner.
 
-And Groundskeeper Willie, Grounds Creeper Stupid.
+And <person>Groundskeeper Willie</person>, Grounds Creeper Stupid.
 
 That's not clever.
 
@@ -198,7 +200,7 @@ My religion says I can never eat pork.
 
 A different religion? Do not tell anyone that, because if the bullies around here find out that you're different...
 
-Jimbo: Who's different?
+<person>Jimbo</person>: Who's different?
 
 What's your name, sweat stain?
 
@@ -228,19 +230,19 @@ Ow!
 
 Look, guys. Everyone's different.
 
-Jimbo, you're Christian. Dolph, you're Jewish.
+<person>Jimbo</person>, you're Christian. <person>Dolph</person>, you're Jewish.
 
-And Kearney, your family's in that cult Moe started.
+And <person>Kearney</person>, your family's in that cult <person>Moe</person> started.
 
 I had to join. My mom's doing the savior.
 
-I mean, the one true Moe.
+I mean, the one true <person>Moe</person>.
 
-You're the one true Moe.
+You're the one true <person>Moe</person>.
 
 <stage>BOTH LAUGHING</stage>
 
-Help me, oh, mighty Moe!
+Help me, oh, mighty <person>Moe</person>!
 
 I can't.
 
@@ -250,9 +252,9 @@ I'm not really a God. I was just acting crazy to get out of jury duty.
 
 Thirty-eight waist I might believe.
 
-Hey, Carl. Got any idea what direction Mecca's in?
+Hey, <person>Carl</person>. Got any idea what direction Mecca's in?
 
-Why don't you ask <fam>Homer</fam>?
+Why don't you ask <fam><person>Homer</person></fam>?
 
 1,200?
 
@@ -302,9 +304,9 @@ That's Allah.
 
 We'll look it up in the Corona.
 
-So, now that we're alone, death to America, right?
+So, now that we're alone, death to <location>America</location>, right?
 
-<fam>Homer</fam>, why are you really here?
+<fam><person>Homer</person></fam>, why are you really here?
 
 Look at that!
 
@@ -318,7 +320,7 @@ I'm in.
 
 They're gonna blow it up!
 
-<fam>Homer</fam>, I don't hear almond grinding.
+<fam><person>Homer</person></fam>, I don't hear almond grinding.
 
 Just listen! I'm grinding them now.
 
@@ -350,7 +352,7 @@ Run for your...
 
 Stay where you are.
 
-<fam>Bart</fam>!
+<fam><person>Bart</person></fam>!
 
 Boy, don't blow up this mall.
 
@@ -358,7 +360,7 @@ It has the cookie store that gives free samples!
 
 I can't believe your dad gets paid to blow stuff up.
 
-Actually, <fam>Bart</fam>, my job is about math and engineering.
+Actually, <fam><person>Bart</person></fam>, my job is about math and engineering.
 
 Every calculation is to make sure the expl*si*n is safe.
 
@@ -380,17 +382,17 @@ The Duff brewery is on that island.
 
 I'll save you!
 
-<stage>HOMER CHUCKLING</stage>
+<stage><person>HOMER</person> CHUCKLING</stage>
 
 That banner has really paid for itself over the years!
 
 We accept your apology.
 
-<fam>Lisa</fam>, add another name to our Christmas card list.
+<fam><person>Lisa</person></fam>, add another name to our Christmas card list.
 
 <stage>WHISPERING</stage> Next to our Jewish friends.
 
-Where is <fam>Lisa</fam>?
+Where is <fam><person>Lisa</person></fam>?
 
 She said something about the bottom of the ocean and "be back in a month."
 
@@ -406,9 +408,9 @@ Mr. Mobs, there's a surface dweller here to see you.
 
 MyTunes user Jazzgal62.
 
-<fam>Lisa</fam> Simpson. Send her in.
+<fam><person>Lisa</person></fam> Simpson. Send her in.
 
-<fam>Lisa</fam>! It's insanely great to see you.
+<fam><person>Lisa</person></fam>! It's insanely great to see you.
 
 Mr. Mobs, I sort of downloaded too many songs onto my MyPod, and I don't have the money to pay for them.
 
@@ -422,7 +424,7 @@ Can't you open your Mapple menu and click on the "compassion bar"?
 
 Oh, please?
 
-<fam>Lisa</fam>, how would you like to work for Mapple?
+<fam><person>Lisa</person></fam>, how would you like to work for Mapple?
 
 Would I ever!
 
@@ -434,4 +436,5 @@ Think differently.
 
 <stage>SIGHS</stage>
 
-Think differently.</txt></xml>
+Think differently.
+</txt></xml>

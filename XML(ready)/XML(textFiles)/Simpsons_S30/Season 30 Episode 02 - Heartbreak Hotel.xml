@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>02/28/19</date> <runtime>06:45</runtime></metadata>
 
@@ -26,9 +28,9 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  The Place Show.
 
- LISA: The final challenge is the Lily Pad Leap.
+ <person>LISA</person>: The final challenge is the Lily Pad <location>Leap</location>.
 
- They haven't done the LP Leap since season 22, "Beauty versus Sexy. " Kayla, don't step on the stem.
+ They haven't done the LP <location>Leap</location> since season 22, "Beauty versus Sexy. " Kayla, don't step on the stem.
 
  You'll flip the pad.
 
@@ -68,7 +70,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  You even made us play the terrible home game.
 
- <stage>MARGE GROANS</stage>
+ <stage><person>MARGE</person> GROANS</stage>
 
  - Come on, Mom.
 
@@ -80,7 +82,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  - <stage>WHISPERING</stage>: Come on, try out.
 
- - <stage>HOMER SNORING</stage>
+ - <stage><person>HOMER</person> SNORING</stage>
 
  - Try out.
 
@@ -220,9 +222,9 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  You're fired.
 
- I think we just found our Boston Rob.
+ I think we just found our <location>Boston</location> Rob.
 
- Or your Springfield Clancy.
+ Or your <location>Springfield</location> Clancy.
 
  Huh?
 
@@ -236,7 +238,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  " What's this?
 
- "Congratulations, <fam>Marge</fam> and <fam>Homer</fam> Simpson.
+ "Congratulations, <fam><person>Marge</person></fam> and <fam><person>Homer</person></fam> Simpson.
 
  You have been selected to compete on" The Amazing Place!
 
@@ -270,7 +272,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  That's what ate Handsome Tom's face.
 
- Just call me Handsome <fam>Homer</fam>.
+ Just call me Handsome <fam><person>Homer</person></fam>.
 
  - Bye, Mom!
 
@@ -282,7 +284,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  You're about to embark on a test of mental toughness, physical strength and interviews where you have to pretend that you're in the middle of a challenge when it's already over.
 
- But first, let's kick things off with a romantic beachside luau at Lover's Lagoon.
+ But first, let's kick things off with a romantic beachside <location>luau</location> at <location>Lover's Lagoon</location>.
 
  <stage>OOHING</stage>
 
@@ -312,7 +314,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  <stage>CONCH BLOWING</stage>
 
- I'm sorry, <fam>Homer</fam> and <fam>Marge</fam>, you've been 
+ I'm sorry, <fam><person>Homer</person></fam> and <fam><person>Marge</person></fam>, you've been 
 
  - Don't say it.
 
@@ -340,7 +342,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  No, you're going there.
 
- MARGE AND HOMER: Huh?
+ <person>MARGE</person> AND <person>HOMER</person>: Huh?
 
  A hotel?
 
@@ -380,7 +382,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  Kids, kids, how are you?
 
- <fam>Lisa</fam> said I can't use the bubble bath, but you said you bought it for everybody.
+ <fam><person>Lisa</person></fam> said I can't use the bubble bath, but you said you bought it for everybody.
 
  Forget the bubble bath.
 
@@ -408,7 +410,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  "Your mother and I are excited to be part of the Amazing Place family.
 
- All further inquiries should be submitted in writing to Don DiBusco Productions, Burbank, California.
+ All further inquiries should be submitted in writing to Don DiBusco Productions, Burbank, <location>California</location>.
 
  " What the hell are you talking about?
 
@@ -474,7 +476,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  Darling, take my hand, and you'll see it's so much more.
 
- Well, since you blew the challenge And we're not allowed to tell We're getting all expenses paid at Airport Hotel The pillow's so foamy, baby Order food on the phone-y We'll eat Toblerone-y, so don't cry For breakfast they have bagels Cream cheese but no lox A mini pack of cereal, make a bowl out of the box The pool's so chlorine-y, baby The towel's so teeny No lifeguard to be seen-y, we could die No job, no kids, no Flanders Choice of bar soap or bath gel Small ketchup's friends With tiny mustard Airport Hotel Now that I've shown you, baby, they'll leave us alone Yeah, baby, toilet's got a phone, yeah Don't know why.
+ Well, since you blew the challenge And we're not allowed to tell We're getting all expenses paid at <location>Airport Hotel</location> The pillow's so foamy, baby Order food on the phone-y We'll eat Toblerone-y, so don't cry For breakfast they have bagels Cream cheese but no lox A mini pack of cereal, make a bowl out of the box The pool's so chlorine-y, baby The towel's so teeny No lifeguard to be seen-y, we could die No job, no kids, no <person>Flanders</person> Choice of bar soap or bath gel Small ketchup's friends With tiny mustard <location>Airport Hotel</location> Now that I've shown you, baby, they'll leave us alone Yeah, baby, toilet's got a phone, yeah Don't know why.
 
  <stage>BOTH MOANG</stage>
 
@@ -492,7 +494,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  You can go for a nice, cool swim after you finish digging my pool.
 
- I'm telling Patty and Selma what you're doing.
+ I'm telling <person>Patty</person> and <person>Selma</person> what you're doing.
 
  What?
 
@@ -536,17 +538,17 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
 
 
- HOMER <stage>CHUCKLING</stage>
+ <person>HOMER</person> <stage>CHUCKLING</stage>
 
 : Hey, that's me looking for that thing.
 
  Okay.
 
- <fam>Marge</fam>'s vitamins, <fam>Marge</fam>'s pajamas, <fam>Marge</fam>'s giant chocolate bar.
+ <fam><person>Marge</person></fam>'s vitamins, <fam><person>Marge</person></fam>'s pajamas, <fam><person>Marge</person></fam>'s giant chocolate bar.
 
  I didn't pack a giant chocolate bar.
 
- What <fam>Marge</fam> doesn't know is that her husband just ate her Suitcase Stowaway.
+ What <fam><person>Marge</person></fam> doesn't know is that her husband just ate her Suitcase Stowaway.
 
  This ultimate "didgeri-don't" will send them packing.
 
@@ -560,9 +562,9 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  I know you're gonna need some space, so I'll sleep on the couch.
 
- - <stage>MARGE GROANS</stage>
+ - <stage><person>MARGE</person> GROANS</stage>
 
- - <stage>HOMER MOANS SADLY</stage>
+ - <stage><person>HOMER</person> MOANS SADLY</stage>
 
  <stage>BOTH GROANS</stage>
 
@@ -654,7 +656,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  Ha, ha, ha, ha!
 
- Just ignore <fam>Homer</fam>, old sourpuss.
+ Just ignore <fam><person>Homer</person></fam>, old sourpuss.
 
  That's me.
 
@@ -662,7 +664,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  Yes, dear.
 
- <stage>HOMER GROANS QUIETLY</stage>
+ <stage><person>HOMER</person> GROANS QUIETLY</stage>
 
  I love your room.
 
@@ -682,7 +684,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  - Encourage me.
 
- <stage>MARGE GRUNTING</stage>
+ <stage><person>MARGE</person> GRUNTING</stage>
 
  Inside, outside, inside, outside, in, out, in, out, in, out, in, out.
 
@@ -708,7 +710,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  - Yes, we do!
 
- Oh, yeah, <fam>Bart</fam>.
+ Oh, yeah, <fam><person>Bart</person></fam>.
 
  <stage>BIRDS CHIRPING</stage>
 
@@ -734,7 +736,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  - <stage>ALL GASP</stage>
 
- That's got to sting, <fam>Homer</fam>.
+ That's got to sting, <fam><person>Homer</person></fam>.
 
  I'm just glad my friends and family are never going to see me humiliated like this.
 
@@ -750,7 +752,7 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  Your Mango Tango starts now.
 
- And <fam>Marge</fam> draws first fruit.
+ And <fam><person>Marge</person></fam> draws first fruit.
 
  I'll make the mango-ritas.
 
@@ -774,11 +776,11 @@ MAN <stage>OVER TV</stage>: One month ago, 12 couples arrived on this tropical i
 
  We won.
 
- Without <fam>Homer</fam>.
+ Without <fam><person>Homer</person></fam>.
 
  <stage>LAUGHS</stage>
 
- <fam>Marge</fam> and Nick, I want to congratulate you on winning The Amazing Place.
+ <fam><person>Marge</person></fam> and Nick, I want to congratulate you on winning The Amazing Place.
 
  - NICK: Yay!
 

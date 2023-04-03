@@ -1,16 +1,18 @@
 <xml><txt>
 
 
-<metadata><ep><epTitle><catchphrase>D'oh</catchphrase> Canada</epTitle><szn>30</szn>x<epNum>21</epNum></ep>
-
-
-
-
+<metadata><ep><epTitle><catchphrase>D'oh</catchphrase> <location>Canada</location></epTitle><szn>30</szn>x<epNum>21</epNum></ep>
 
 
 
 
-
+
+
+
+
+
+
+
 
 <date>05/01/19</date> <runtime>05:59</runtime></metadata>
 
@@ -52,14 +54,14 @@ Oh!
 
 <stage>ALL EXHALE</stage>   
 
-BOTH: Will you take us to Mount Splashmore?   
+BOTH: Will you take us to <location>Mount Splashmore</location>?   
 
-- <stage>HOMER GROANING</stage>
-- Will you take us to Mount Splashmore?   
+- <stage><person>HOMER</person> GROANING</stage>
+- Will you take us to <location>Mount Splashmore</location>?   
 
-Will you take us to Mount Splashmore?   
+Will you take us to <location>Mount Splashmore</location>?   
 
-Will you take us to Mount Splashmore?   
+Will you take us to <location>Mount Splashmore</location>?   
 
 You're here, you're just in a long line.   
 
@@ -94,7 +96,7 @@ Hmm, you have a point.
 
 Will you please explain where you're taking us, and don't just say "points."   
 
-Okay. Over a lifetime of credit card debt, and paying for credit card debt with worse credit card debt, this family has two million hotel rewards loyalty... points, which we can only use at the nearest Second Best Western Motel.   
+Okay. Over a lifetime of credit card debt, and paying for credit card debt with worse credit card debt, this family has two million hotel rewards loyalty... points, which we can only use at the nearest Second Best Western <location>Motel</location>.   
 
 Oh, Dad, the points expire at midnight.   
 
@@ -103,7 +105,7 @@ No worries.
 If I average    miles an hour for    straight hours,   
 
 - we'll make it.
-- I love you, <fam>Homer</fam>.   
+- I love you, <fam><person>Homer</person></fam>.   
 
 - Step on it, Dad!
 - <stage>PHONE VIBRATING</stage>   
@@ -140,13 +142,13 @@ Circuit City overrun by wild dogs.
 
 <stage>BARKING, GROWLING</stage>   
 
-BART AND HOMER: Booyah!   
+<person>BART</person> AND <person>HOMER</person>: Booyah!   
 
 How can you booyah this country's decline?   
 
 Cheer up, honey.   
 
-We're headed to the one place that can never decline, because it was never that great: Upstate New York.   
+We're headed to the one place that can never decline, because it was never that great: Upstate <location>New York</location>.   
 
 <music>♪ ♪   </music>
 
@@ -156,7 +158,7 @@ We're headed to the one place that can never decline, because it was never that 
 
 <music>♪ There is no fancy part of it ♪   </music>
 
-<music>♪ Upstate New York ♪   </music>
+<music>♪ Upstate <location>New York</location> ♪   </music>
 
 <music>♪ They're fond of their booze ♪   </music>
 
@@ -164,7 +166,7 @@ We're headed to the one place that can never decline, because it was never that 
 
 <music>♪ I'm gonna clog my heart in it ♪   </music>
 
-<music>♪ Upstate New York ♪   </music>
+<music>♪ Upstate <location>New York</location> ♪   </music>
 
 <music>♪ I want to sleep in, in a city ♪   </music>
 
@@ -182,7 +184,7 @@ We're headed to the one place that can never decline, because it was never that 
 
 <music>♪ And go on disability ♪   </music>
 
-<music>♪ In Upstate New York ♪   </music>
+<music>♪ In Upstate <location>New York</location> ♪   </music>
 
 <music>♪ Can't make it anywhere ♪   </music>
 
@@ -190,7 +192,7 @@ We're headed to the one place that can never decline, because it was never that 
 
 <music>♪ I love you so ♪   </music>
 
-<music>♪ Upstate New York. ♪   </music>
+<music>♪ Upstate <location>New York</location>. ♪   </music>
 
 Benedict Arnold fought here, baby.   
 
@@ -204,9 +206,9 @@ Those tourist binoculars are never that strong.
 
 <stage>COIN CLATTERS</stage>   
 
-LISA: Now, that's worth a quarter.   
+<person>LISA</person>: Now, that's worth a quarter.   
 
-BART: So magnificent.   
+<person>BART</person>: So magnificent.   
 
 Hey, <fam>Lis</fam>, want to bounce?    
 
@@ -226,7 +228,7 @@ While the kids are bouncing around, why don't we do a little bouncing, too?
 
 <stage>LAUGHS</stage>    
 
-That's even more romantic than what you said at Fort Dix.    
+That's even more romantic than what you said at <location>Fort Dix</location>.    
 
 <stage>BOTH MOANING</stage>    
 
@@ -264,7 +266,7 @@ Oh... handsome, horsey.
 Am I in heaven?    
 
 Even better, eh?
-You're in beautiful Canada... is what I'd say if Canadians weren't too modest to brag.    
+You're in beautiful <location>Canada</location>... is what I'd say if Canadians weren't too modest to brag.    
 
 But we are.    
 
@@ -287,14 +289,14 @@ Your daughter's fine, but I recommend a five-day stay.
 
 Of course, of course. We'll take out a third mortgage.    
 
-Sir, you're in Canada now, where your health care is free. 
+Sir, you're in <location>Canada</location> now, where your health care is free. 
 
 Free health care.
-Why can't America do that?    
+Why can't <location>America</location> do that?    
 
 She's delirious, Doc.    
 
-America can't pay for health care and give corporations the tax breaks they so desperately need.    
+<location>America</location> can't pay for health care and give corporations the tax breaks they so desperately need.    
 
 I'm not delirious.    
 
@@ -306,9 +308,9 @@ Ooh, hang on. Did you just say you don't feel safe in your home country?
 
 Why should she feel safe?    
 
-In America, the great El Barto roams the streets.    
+In <location>America</location>, the great El Barto roams the streets.    
 
-So, let me get this straight: you're afraid of America.    
+So, let me get this straight: you're afraid of <location>America</location>.    
 
 Is that right, young lady?    
 
@@ -330,7 +332,7 @@ Our president really is a god...
 
 <stage>MOANS</stage>    
 
-<fam>Lisa</fam>, as you're clearly a victim of political persecution who fears for her life, I must keep you in Canada    
+<fam><person>Lisa</person></fam>, as you're clearly a victim of political persecution who fears for her life, I must keep you in <location>Canada</location>    
 
 where you'll be safe and assigned your own hockey team.    
 
@@ -353,7 +355,7 @@ She's in the asylum pipeline now.
 
 You can't separate us from our child.    
 
-That's America's thing.    
+That's <location>America</location>'s thing.    
 
 Well, then you leave us no choice.    
 
@@ -361,7 +363,7 @@ We have to deport you, Canadian-style.
 
 Great. Come on. Bring it in, bring it in.    
 
-<fam>Lisa</fam>, are they taking care of you? Are you eating okay?    
+<fam><person>Lisa</person></fam>, are they taking care of you? Are you eating okay?    
 
 <stage>CANADIAN ACCENT</stage>: Look, I'm fine, eh. 
 
@@ -377,7 +379,7 @@ Enough with the accent.
 
 <stage>REGULAR ACCENT</stage>: Okay. 
 
-<fam>Lisa</fam>, where should we go for dinner tonight? 
+<fam><person>Lisa</person></fam>, where should we go for dinner tonight? 
 
 Harvey's or Swiss Chalet? 
 
@@ -391,17 +393,17 @@ Mmm, restaurant chains I never heard of.
 
 <stage>MOANS</stage>    
 
-<fam>Homer</fam>, you take <fam>Bart</fam> back to Springfield.    
+<fam><person>Homer</person></fam>, you take <fam><person>Bart</person></fam> back to <location>Springfield</location>.    
 
 I am going for my daughter.    
 
-Local smarty-pants <fam>Lisa</fam> Simpson has been abducted by America's Ned Flanders to the north, Canada.    
+Local smarty-pants <fam><person>Lisa</person></fam> Simpson has been abducted by <location>America</location>'s <person>Ned</person> <person>Flanders</person> to the north, <location>Canada</location>.    
 
-Here in Springfield, reactions to <fam>Lisa</fam>'s loss have been loud and uninformed.    
+Here in <location>Springfield</location>, reactions to <fam><person>Lisa</person></fam>'s loss have been loud and uninformed.    
 
-<fam>Lisa</fam> was the moral center of this town.    
+<fam><person>Lisa</person></fam> was the moral center of this town.    
 
-Now it's Barney, who knows nothing.    
+Now it's <person>Barney</person>, who knows nothing.    
 
 Except it is the purpose of government to see that not only the legitimate interests of the few are protected, but that the rights of the many are conserved.    
 
@@ -423,7 +425,7 @@ We've been working on the same song for    years.
 
 The science textbooks acknowledge climate change.    
 
-Class, let's give an enthusiastic but quiet hello to <fam>Lisa</fam> Simpson.    
+Class, let's give an enthusiastic but quiet hello to <fam><person>Lisa</person></fam> Simpson.    
 
 STUDENTS: Hello.    
 
@@ -439,7 +441,7 @@ Is there any way I can send a note? Or maybe I could...
 Hmm!    
 
 - Mr. Trudeau?
-- Yes, <fam>Lisa</fam>? 
+- Yes, <fam><person>Lisa</person></fam>? 
 
 Oh.    
 
@@ -465,7 +467,7 @@ So, listen, if I could just ask you one question about the SNC-Lavalin scandal?
 
 <stage>SUSPENSEFUL ESPIONAGE MUSIC PLAYING</stage> 
 
-MRS. SCARBOROUGH: Now, <fam>Lisa</fam>, we'll be doing a class play based on a great Canadian novel.    
+MRS. SCARBOROUGH: Now, <fam><person>Lisa</person></fam>, we'll be doing a class play based on a great Canadian novel.    
 
 The Apprenticeship of Duddy Kravitz by Mordecai Richler?    
 
@@ -508,7 +510,7 @@ Can I hide in the trunk?
 
 Okay, but don't tell anyone we're going up for beer.    
 
-MARGE AND DRIVERS: We all know.    
+<person>MARGE</person> AND DRIVERS: We all know.    
 
 <stage>FEEBLE GROAN</stage>    
 
@@ -545,7 +547,7 @@ Please don't make me leave.
 
 Your home is with us, not them.    
 
-You must have known I wasn't happy in Springfield.    
+You must have known I wasn't happy in <location>Springfield</location>.    
 
 All I did was play the blues.    
 
@@ -566,7 +568,7 @@ You're coming home with me.
 
 I'm really gonna miss this place.    
 
-If it makes you feel any better, Canada exploits its environment, too.    
+If it makes you feel any better, <location>Canada</location> exploits its environment, too.    
 
 - Wha...?
 - This country does it all.    
@@ -604,9 +606,9 @@ Thank you.
 
 <music>♪ Forever. ♪    </music>
 
-MARGE: Sir, we'd appreciate it if you gave us safe passage back to America.    
+<person>MARGE</person>: Sir, we'd appreciate it if you gave us safe passage back to <location>America</location>.    
 
-Sorry, but as it now says on the Statue of Liberty,    
+Sorry, but as it now says on <location>the Statue of Liberty</location>,    
 
 "No re-entry without hand stamp."    
 
@@ -615,9 +617,9 @@ Sorry, but as it now says on the Statue of Liberty,
 
 Our top story tonight: Estranged Brew.    
 
-<fam>Marge</fam> Simpson and her daughter have now been banned from the United States, just like asbestos.    
+<fam><person>Marge</person></fam> Simpson and her daughter have now been banned from <location>the United States</location>, just like asbestos.    
 
-And this just in: asbestos is back into America's hospitals and schools.    
+And this just in: asbestos is back into <location>America</location>'s hospitals and schools.    
 
 Let me just say this asbestos will be reinstalled with the greatest of care.    
 
@@ -635,13 +637,13 @@ Hmm, at least it looks like
 
 you're getting along okay without us.    
 
-You know, since <fam>Lisa</fam> and I are stuck here, maybe you should move up here with us.    
+You know, since <fam><person>Lisa</person></fam> and I are stuck here, maybe you should move up here with us.    
 
 Great idea, great idea.    
 
-What the heck? Bring <fam>Bart</fam>.    
+What the heck? Bring <fam><person>Bart</person></fam>.    
 
-No way. I can't move to Canada.    
+No way. I can't move to <location>Canada</location>.    
 
 I revere this country.    
 
@@ -653,7 +655,7 @@ Maybe we could find a way to sneak out. I snuck in.
 
 You do what you want; I'm not leaving.    
 
-Okay. You win, <fam>Lisa</fam>.    
+Okay. You win, <fam><person>Lisa</person></fam>.    
 
 Looks like we're gonna be here together.    
 
@@ -662,7 +664,7 @@ But there's one thing I need you to do.
 Take one last look at the country you left behind and focus on anything good about it.    
 
 You're right.
-America's like a great boyfriend that maybe got a little fat and lost a little hair.    
+<location>America</location>'s like a great boyfriend that maybe got a little fat and lost a little hair.    
 
 What does that have to do with anything? Just go.    
 
@@ -682,7 +684,7 @@ Okay, now I'm gonna focus on the good things that you've got.
 
 Aretha Franklin, Eleanor Roosevelt, Seabiscuit, the computer that won on Jeopardy! 
 
-WATSON: What is "We miss you, <fam>Lisa</fam>"? 
+WATSON: What is "We miss you, <fam><person>Lisa</person></fam>"? 
 
 <stage>GASPS</stage> Judy Blume.    
 
@@ -692,15 +694,15 @@ I know, I read my royalty reports.
 
 Having awkward new feelings for your country...    
 
-it's normal, <fam>Lisa</fam>.    
+it's normal, <fam><person>Lisa</person></fam>.    
 
 <stage>WHISPERING</stage>: And you're one of my favorite readers.    
 
-Welcome home, <fam>Lisa</fam>.    
+Welcome home, <fam><person>Lisa</person></fam>.    
 
 Well, I haven't decided yet.    
 
-Hello, <fam>Lisa</fam>.    
+Hello, <fam><person>Lisa</person></fam>.    
 
 - Louis Armstrong.
 - Yeah. And I'm mighty tired of having to keep appearing in your fantasies.    
@@ -709,7 +711,7 @@ Get your ass back over here.
 
 Yes, sir, Satchmo.    
 
-America ain't perfect, but it's my job to make it better.    
+<location>America</location> ain't perfect, but it's my job to make it better.    
 
 See you soon.    
 
@@ -749,7 +751,7 @@ I feel so relieved to have finally made up my mind.
 Ooh. We must ditch our excess cargo.    
 
 - You two.
-- <stage>MARGE AND LISA GASP</stage>    
+- <stage><person>MARGE</person> AND <person>LISA</person> GASP</stage>    
 
 You're abandoning us in the middle of a frozen river?    
 
@@ -772,7 +774,7 @@ Guess who's here to save the day.
 
 Why did you get a truck so big?    
 
-It's the smallest one Detroit makes.    
+It's the smallest one <location>Detroit</location> makes.    
 
 <stage>ICE RUMBLING</stage>    
 
@@ -780,9 +782,9 @@ How will we get in?
 
 I know one place where there's always plenty of room.    
 
-<stage>"AMERICA THE BEAUTIFUL" PLAYING</stage> 
+<stage>"<location>AMERICA</location> THE BEAUTIFUL" PLAYING</stage> 
 
-I missed you, Krusty Burger where there's only one thing I can eat.    
+I missed you, <person>Krusty</person> Burger where there's only one thing I can eat.    
 
 I missed you, pony I had for a week.    
 
@@ -794,7 +796,7 @@ I missed you, nuclear ash that looks like snow.
 
 I missed you, mixed martial arts megachurch.    
 
-I missed you, Ralph.    
+I missed you, <person>Ralph</person>.    
 
 You were gone?    
 
@@ -809,7 +811,7 @@ No, we're gonna watch an episode
 
 For my show and tell,    
 
-I brought something from my trip to Canada.    
+I brought something from my trip to <location>Canada</location>.    
 
 <stage>HORSE WHINNIES</stage>    
 
@@ -818,14 +820,14 @@ What did you do this week, sir?
 Well, a Japanese tourist took pictures of me, I fed my horse an apple, and I found a very interesting man hiding in Medicine Hat.    
 
 - Papa.
-- Hey, Nelson, good news.    
+- Hey, <person>Nelson</person>, good news.    
 
 You've got a brother in Fort McMurray.    
 
 - What's his name?
 - How would I know?    
 
-<stage>"O, CANADA" PLAYING</stage>
+<stage>"O, <location>CANADA</location>" PLAYING</stage>
 
 
 </txt></xml>

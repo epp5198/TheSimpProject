@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Lost Verizon</epTitle><szn>20</szn>x<epNum>02</epNum></ep><date>10/09/08</date> <runtime>01:23</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Lost Verizon</epTitle><szn>20</szn>x<epNum>02</epNum></ep>
+<date>10/09/08</date> <runtime>01:23</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -20,7 +22,7 @@
 
 <stage>BRAKES SCREECHING</stage>
 
-<fam>Bart</fam>: Ay, <catchphrase>caramba</catchphrase>!
+<fam><person>Bart</person></fam>: Ay, <catchphrase>caramba</catchphrase>!
 
 <stage>ENGINE SPUTTERING</stage>
 
@@ -54,11 +56,11 @@ Am I seeing this right?
 
 I am! Time to spread the word!
 
-Hey, Milhouse.
+Hey, <person>Milhouse</person>.
 
 Talk to me.
 
-Skinner's doing what?
+<person>Skinner</person>'s doing what?
 
 <stage>CELL PHONE RINGING</stage>
 
@@ -76,7 +78,7 @@ I'm on my way!
 
 I'll clean you up good, giant beer can!
 
-<stage>BARNEY YELLING</stage>
+<stage><person>BARNEY</person> YELLING</stage>
 
 <stage>SEYMOUR SCREAMING</stage>
 
@@ -86,7 +88,7 @@ Where's Simpson?
 
 I couldn't get a hold of him.
 
-No cell phone. But if I know <fam>Bart</fam>, he's busy doing something awesome!
+No cell phone. But if I know <fam><person>Bart</person></fam>, he's busy doing something awesome!
 
 I don't know why I agreed to this.
 
@@ -102,9 +104,9 @@ Hey, spaz. While you were here spazzing yourself, you totally missed out.
 
 Missed out? I didn't miss out. What did I miss out on?
 
-<stage>BART GASPING</stage>
+<stage><person>BART</person> GASPING</stage>
 
-<stage>BART EXCLAIMS IN DISGUST</stage>
+<stage><person>BART</person> EXCLAIMS IN DISGUST</stage>
 
 <stage>MOANS</stage>
 
@@ -114,9 +116,9 @@ Here's an imaginary cell phone.
 
 What? Do you think I'm crazy?
 
-<stage>BART GRUNTS</stage>
+<stage><person>BART</person> GRUNTS</stage>
 
-Mom, even Milhouse has a cell phone! Your son is lamer than Milhouse!
+Mom, even <person>Milhouse</person> has a cell phone! Your son is lamer than <person>Milhouse</person>!
 
 What does that say about you?
 
@@ -144,7 +146,7 @@ Is this your ball?
 
 Why, yes, it is!
 
-<stage>DR. HIBBERT LAUGHING</stage>
+<stage><person>DR. HIBBERT</person> LAUGHING</stage>
 
 Here you go.
 
@@ -188,9 +190,9 @@ Wow! I'm just 20 balls away from a cell phone!
 
 Willie: So it's you!
 
-You're the one that's been poaching on my territory!
+You're the one that's been poaching on my <location>territory</location>!
 
-Groundskeeper Willie?
+<person>Groundskeeper Willie</person>?
 
 Weekends and summers, I'm Greenskeeper Willie.
 
@@ -208,17 +210,17 @@ I'm never gonna get a cell phone.
 
 <stage>SIGHS</stage> Great. We gotta wait for Denis Leary.
 
-Hey, Leary, if you want to have a "tee" party, go back to Boston!
+Hey, Leary, if you want to have a "tee" <location>party</location>, go back to <location>Boston</location>!
 
 <stage>BOTH LAUGHING</stage>
 
-Boston.
+<location>Boston</location>.
 
 Come on, Ice Age, take the sh*t!
 
 Ice Age[/i] was the name of the film.
 
-I played Diego, the vicious saber tooth tiger who, guess what, has a heart.
+I played <location>Diego</location>, the vicious saber tooth tiger who, guess what, has a heart.
 
 Now shut up or I'll have you all kicked out of show business.
 
@@ -236,7 +238,7 @@ Cool. You can even watch commercials on it!
 
 <stage>DIALING ON CELL PHONE</stage>
 
-Hey, Milhouse. Guess where I'm calling from?
+Hey, <person>Milhouse</person>. Guess where I'm calling from?
 
 Well, I know you don't have a cell phone.
 
@@ -276,15 +278,15 @@ I wouldn't have it any other way.
 
 Of course I'll do it for minimum. Great.
 
-I'll see you next Monday in Tunisia.
+I'll see you next Monday in <location>Tunisia</location>.
 
 This phone belongs to Denis Leary!
 
-Denis Leary? Boston comedian turned movie star turned basic cable notable?
+Denis Leary? <location>Boston</location> comedian turned movie star turned basic cable notable?
 
 That's right! Let's call his business manager and tell him to spend all his money on Yankees hats and Derek Jeter jerseys.
 
-I don't know, <fam>Bart</fam>. What if Denis Leary gets mad?
+I don't know, <fam><person>Bart</person></fam>. What if Denis Leary gets mad?
 
 Nah. He's cool. He's gonna think this is hilarious.
 
@@ -298,11 +300,11 @@ I don't even remember agreeing to be in this movie.
 
 Well, you did. Bring in the poop.
 
-Milhouse, I hold in this hand Denis Leary's cell phone.
+<person>Milhouse</person>, I hold in this hand Denis Leary's cell phone.
 
 And in this hand, the phone numbers of bars around the world.
 
-Let's start with Hawaii.
+Let's start with <location>Hawaii</location>.
 
 <stage>PHONE RINGING</stage>
 
@@ -340,7 +342,7 @@ Wait a minute. If I ever get a hold of you, I will thank you for showing me the 
 
 <stage>BOTH LAUGHING</stage>
 
-<stage>SIGHS</stage> The sun never sets on the Bartish Empire.
+<stage>SIGHS</stage> The sun never sets on <location>the Bartish Empire</location>.
 
 <stage>CELL PHONE RINGING</stage>
 
@@ -360,7 +362,7 @@ You are so d*ad!
 
 That laughter sounds like the result of misbehavior.
 
-<fam>Bart</fam>, how did you get a cell phone?
+<fam><person>Bart</person></fam>, how did you get a cell phone?
 
 Same way you got me. By accident on a golf course.
 
@@ -368,17 +370,18 @@ Whose phone is this?
 
 You'll never get it out of me!
 
-Okay. Milhouse?
+Okay. <person>Milhouse</person>?
 
 It's Denis Leary's!
 
-I'm sorry, <fam>Bart</fam>. I'm desperate for any signs of adult approval.
+I'm sorry, <fam><person>Bart</person></fam>. I'm desperate for any signs of adult approval.
 
 You did the right thing.
 
-<stage>SIGHS</stage><stage>CELL PHONE RINGING</stage>
+<stage>SIGHS</stage>
+<stage>CELL PHONE RINGING</stage>
 
-<fam>Bart</fam> Simpson's stolen cell phone. Can I help you?
+<fam><person>Bart</person></fam> Simpson's stolen cell phone. Can I help you?
 
 Damn straight, you can. I'm Denis Leary. And your kid is out of control.
 
@@ -410,7 +413,7 @@ I should be a lot of things, lady.
 
 My tarts!
 
-<stage>SIGHS</stage> Okay, here goes. <fam>Bart</fam>, I have something for you.
+<stage>SIGHS</stage> Okay, here goes. <fam><person>Bart</person></fam>, I have something for you.
 
 Huh?
 
@@ -432,7 +435,7 @@ Like a bigmouth bass.
 
 <stage>BOTH LAUGHING</stage>
 
-Okay. <fam>Bart</fam> went to the comic book store.
+Okay. <fam><person>Bart</person></fam> went to the comic book store.
 
 Time to head home.
 
@@ -444,15 +447,15 @@ Hey! He went into a construction site!
 
 <stage>GASPS</stage> That's a hard-hat zone!
 
-<stage>MILHOUSE LAUGHING</stage>
+<stage><person>MILHOUSE</person> LAUGHING</stage>
 
 You sure this is safe?
 
 Sure. I got my seatbelt on.
 
-<fam>Marge</fam>: <fam>Bartholomew</fam> J. Simpson!
+<fam><person>Marge</person></fam>: <fam>Bartholomew</fam> J. Simpson!
 
-Milhouse: Whoa!
+<person>Milhouse</person>: Whoa!
 
 What are you doing at this construction site?
 
@@ -460,7 +463,7 @@ Trying to do something constructive?
 
 <stage>GRUNTS</stage>
 
-I'll just take Milhouse home.
+I'll just take <person>Milhouse</person> home.
 
 <stage>WA TCH YOUR STEPPLAYING</stage>
 
@@ -484,7 +487,7 @@ Ooh, watch your step[/i]
 
 <stage>SCREAMS</stage>
 
-Hey, <fam>Bart</fam> just keeps spinning around and around and around.
+Hey, <fam><person>Bart</person></fam> just keeps spinning around and around and around.
 
 What's his angle?
 
@@ -504,9 +507,9 @@ Dad, do laundry.
 
 Tracking software?
 
-<stage>LISA GASPS</stage>
+<stage><person>LISA</person> GASPS</stage>
 
-You're spying on <fam>Bart</fam>.
+You're spying on <fam><person>Bart</person></fam>.
 
 Honey, keeping track of someone because you love them is not wrong.
 
@@ -522,11 +525,11 @@ Keep talking, creepo.
 
 Every word buys you another year in the slammer.
 
-<fam>Bart</fam>, there's something I need to tell you. Mom and Dad...
+<fam><person>Bart</person></fam>, there's something I need to tell you. Mom and Dad...
 
 <stage>SHUSHING</stage> I'm listening to financing terms for double-glazed windows.
 
-Awesome. Another call. You got <fam>Bart</fam>.
+Awesome. Another call. You got <fam><person>Bart</person></fam>.
 
 It's me, you idiot. Mom and Dad are spying on you.
 
@@ -540,7 +543,7 @@ Hold that thought. I'm getting a text.
 
 Viagra at five dollars a pill?
 
-<stage>LAUGHS</stage> Whatever it is, it's going in Skinner's coffee.
+<stage>LAUGHS</stage> Whatever it is, it's going in <person>Skinner</person>'s coffee.
 
 What is in this coffee?
 
@@ -550,7 +553,7 @@ Track this, Mom and Dad.
 
 <stage>CHUCKLES</stage>
 
-<fam>Marge</fam>: Look at <fam>Bart</fam> go!
+<fam><person>Marge</person></fam>: Look at <fam><person>Bart</person></fam> go!
 
 He must be running away!
 
@@ -558,15 +561,15 @@ He won't get far.
 
 Not on that crappy breakfast I made for him.
 
-<fam>Marge</fam>: Oh, my God. He's out of frame!
+<fam><person>Marge</person></fam>: Oh, my God. He's out of frame!
 
 Zoom out! Zoom out!
 
-<stage>MARGE EXCLAIMS</stage>
+<stage><person>MARGE</person> EXCLAIMS</stage>
 
-He's circling the Shelbyville Bird Sanctuary.
+He's circling <location>the Shelbyville Bird Sanctuary</location>.
 
-<stage>HOMER LAUGHING</stage>
+<stage><person>HOMER</person> LAUGHING</stage>
 
 Our little boy has lost his mind. Let's get him.
 
@@ -596,8 +599,9 @@ Never leave again!
 
 <stage>EXCLAIMS HAPPILY</stage>
 
-<stage>MARGE GRUNTING</stage>
+<stage><person>MARGE</person> GRUNTING</stage>
 
-Where's <fam>Maggie</fam>?
+Where's <fam><person>Maggie</person></fam>?
 
-She's...</txt></xml>
+She's...
+</txt></xml>

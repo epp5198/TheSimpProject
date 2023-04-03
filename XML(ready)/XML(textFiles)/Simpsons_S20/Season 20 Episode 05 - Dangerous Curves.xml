@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Dangerous Curves</epTitle><szn>20</szn>x<epNum>05</epNum></ep><date>11/13/08</date> <runtime>11:32</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Dangerous Curves</epTitle><szn>20</szn>x<epNum>05</epNum></ep>
+<date>11/13/08</date> <runtime>11:32</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -62,7 +64,7 @@ Were we ever that stupid?
 
 Of course we were.
 
-<fam>Marge</fam>, I thought of a new thing. It's called biking out.
+<fam><person>Marge</person></fam>, I thought of a new thing. It's called biking out.
 
 It's a combination of biking and making out.
 
@@ -76,15 +78,15 @@ Howdy-do, strangers?
 
 Hop on in before you become a couple runneth over.
 
-Ned, are you sure? They're covered with mud.
+<person>Ned</person>, are you sure? They're covered with mud.
 
 And in that mud, I'm planting the seed of friendship.
 
-Name's Ned Flanders.
+Name's <person>Ned</person> <person>Flanders</person>.
 
 As the elephant said to the peanut vendor, toss those in my trunk.
 
-<fam>Marge</fam>, I love this guy.
+<fam><person>Marge</person></fam>, I love this guy.
 
 Put her there, muddy buddy.
 
@@ -108,7 +110,7 @@ She'll nag you. She'll try to change you.
 
 You'll be fighting the same basic fight for years and years and years...
 
-Ned, don't you think you're exaggerating just a bit?
+<person>Ned</person>, don't you think you're exaggerating just a bit?
 
 I think I'd like to finish my sentence. And years.
 
@@ -120,9 +122,9 @@ Since 2:00 this afternoon. Welcome to our honeymoon.
 
 <stage>BOTH EXCLAIM</stage>
 
-<fam>Marge</fam> Bouvier, will you not marry me?
+<fam><person>Marge</person></fam> Bouvier, will you not marry me?
 
-<fam>Homer</fam> Simpson, I would be delighted not to marry you.
+<fam><person>Homer</person></fam> Simpson, I would be delighted not to marry you.
 
 Then I now pronounce us just dating.
 
@@ -134,7 +136,7 @@ Knock it off!
 
 How dare you expose my children to your tender feelings?
 
-<fam>Bart</fam>, don't you dare take your eyes off that Gameboy!
+<fam><person>Bart</person></fam>, don't you dare take your eyes off that Gameboy!
 
 Yes, sir.
 
@@ -144,7 +146,7 @@ I'm cuckoo for k*ll stuff!
 
 Video games, the reason this generation of Americans is the best ever.
 
-I can't believe <fam>Homer</fam> ruined another family picnic.
+I can't believe <fam><person>Homer</person></fam> ruined another family picnic.
 
 Hey! Everybody pees in the pool.
 
@@ -160,17 +162,17 @@ You sneeze like a girl.
 
 Your neck looks like a sideways ass.
 
-<fam>Homer</fam>: That's it!
+<fam><person>Homer</person></fam>: That's it!
 
 Eat gravel, hags!
 
-<fam>Homer</fam>, that was rude and shortsighted. Patty and Selma have the map.
+<fam><person>Homer</person></fam>, that was rude and shortsighted. <person>Patty</person> and <person>Selma</person> have the map.
 
-I have the situation under control. The compass needle is pointing east.
+I have the situation under control. The compass needle is pointing <location>east</location>.
 
 That's the fuel gauge.
 
-<fam>Homer</fam>: Uh-oh.
+<fam><person>Homer</person></fam>: Uh-oh.
 
 How many times do I have to say I'm sorry?
 
@@ -178,7 +180,7 @@ You haven't said you're sorry.
 
 I know. I was hoping the number might be zero.
 
-<stage>MARGE GRUNTING</stage>
+<stage><person>MARGE</person> GRUNTING</stage>
 
 <stage>DOORBELL CHIMES</stage>
 
@@ -192,9 +194,9 @@ And feel free to stay. We just put out the cheese.
 
 We have cubes of yellow, cubes of orange and cubes of orange and yellow.
 
-A really fun party full of colored cheeses and awesome stuff to do?
+A really fun <location>party</location> full of colored cheeses and awesome stuff to do?
 
-Doesn't seem like your kind of thing, <fam>Marge</fam>.
+Doesn't seem like your kind of thing, <fam><person>Marge</person></fam>.
 
 We'll stay for one hand roll or two nigiri. Then we have to get back to the kids.
 
@@ -232,7 +234,7 @@ Well, a horoscope would never lie to a pretty girl like you.
 
 You are adorable. Are you alone?
 
-No. I'm talking to you at this great party.
+No. I'm talking to you at this great <location>party</location>.
 
 Well, then would you like to limbo?
 
@@ -268,7 +270,7 @@ These fish died for nothing!
 
 <stage>ALL LAUGHING</stage>
 
-<fam>Homer</fam> Simpson, I wish I'd never met you.
+<fam><person>Homer</person></fam> Simpson, I wish I'd never met you.
 
 Thanks for the lift.
 
@@ -282,7 +284,7 @@ Kids, this place has very special memories for your mother and me.
 
 Well, leaving right now will become a special memory for me.
 
-<stage>LISA LAUGHING</stage>
+<stage><person>LISA</person> LAUGHING</stage>
 
 <stage>SINGSONG</stage> They have a pedal car.
 
@@ -296,17 +298,17 @@ Well, leaving right now will become a special memory for me.
 
 <stage>SINGSONG</stage> I'll steal it back when you're sleeping.
 
-Well, when the sun goes down, it means God's gone to China to watch over those good folks.
+Well, when the sun goes down, it means God's gone to <location>China </location>to watch over those good folks.
 
 Time for some shuteye.
 
-Why, Flanders, you rogue.
+Why, <person>Flanders</person>, you rogue.
 
-All <fam>Marge</fam> and I need are a queen-size bed and a king-size "Do Not Disturb" sign.
+All <fam><person>Marge</person></fam> and I need are a queen-size bed and a king-size "Do Not Disturb" sign.
 
 <stage>PURRING</stage>
 
-Sorry, <fam>Homer</fam>.
+Sorry, <fam><person>Homer</person></fam>.
 
 I'm afraid it's separate accommodations for you notly-weds.
 
@@ -318,7 +320,7 @@ He's not talking. He's yelling.
 
 <stage>SIGHS</stage>
 
-Goodnight, <fam>Marge</fam>.
+Goodnight, <fam><person>Marge</person></fam>.
 
 <stage>HUMMING</stage>
 
@@ -326,7 +328,7 @@ Sweet dreams, my new best friend.
 
 45 minutes.
 
-<fam>Marge</fam>?
+<fam><person>Marge</person></fam>?
 
 You don't need her, baby.
 
@@ -338,11 +340,11 @@ Pineapple and pepperoni.
 
 This is all going so fast.
 
-We should be getting back to the party.
+We should be getting back to the <location>party</location>.
 
-Marjorie, that party was beneath a woman of your elegance and sophistication.
+Marjorie, that <location>party</location> was beneath a woman of your elegance and sophistication.
 
-You... Oh, look, a budget motel.
+You... Oh, look, a budget <location>motel</location>.
 
 I see the word "Vacancy" is lit and the word "No" is not.
 
@@ -354,15 +356,15 @@ First we make love, then we decide if it was a good idea.
 
 That's the European way.
 
-I came here once with <fam>Marge</fam>. Are you <fam>Marge</fam>, Sylvia?
+I came here once with <fam><person>Marge</person></fam>. Are you <fam><person>Marge</person></fam>, Sylvia?
 
-<fam>Homer</fam>, I can be whoever you want me to be.
+<fam><person>Homer</person></fam>, I can be whoever you want me to be.
 
-I want you to be <fam>Marge</fam>.
+I want you to be <fam><person>Marge</person></fam>.
 
-<fam>Marge</fam>?
+<fam><person>Marge</person></fam>?
 
-<fam>Homer</fam>: <fam>Marge</fam>, is that you?
+<fam><person>Homer</person></fam>: <fam><person>Marge</person></fam>, is that you?
 
 <stage>GASPS</stage> My husband!
 
@@ -370,7 +372,7 @@ Why do married women always have husbands?
 
 <stage>GRUNTS</stage>
 
-<fam>Marge</fam>, what are you doing here?
+<fam><person>Marge</person></fam>, what are you doing here?
 
 The same thing you're doing here.
 
@@ -398,7 +400,7 @@ Listen, you're a classy lady and a great sushi fighter, but you're going in the 
 
 <fam>Homie</fam>?
 
-Coming, <fam>Marge</fam>.
+Coming, <fam><person>Marge</person></fam>.
 
 Good evening. I am Alberto.
 
@@ -426,11 +428,11 @@ And we'll stay up forever!
 
 Well, that takes care of those three. Want to go for a lakeside snuggle?
 
-<fam>Homer</fam> Simpson, you devil.
+<fam><person>Homer</person></fam> Simpson, you devil.
 
 Well, that takes care of those three. Want to go play some Lakeside Boggle?
 
-<fam>Homer</fam> Simpson, you devil.
+<fam><person>Homer</person></fam> Simpson, you devil.
 
 But I think we should unpack first.
 
@@ -444,15 +446,15 @@ Ruthie, this dump is where your mother and I met.
 
 It was a tale of betrayal, redemption and a lovely continental breakfast.
 
-<fam>Homer</fam>, those are our wedding bungees!
+<fam><person>Homer</person></fam>, those are our wedding bungees!
 
 Marjorie?
 
-<fam>Homer</fam>?
+<fam><person>Homer</person></fam>?
 
 It's so good to see you. We owe you two a debt of thanks.
 
-<fam>Homer</fam>, if I hadn't come to this motel with you, I never would have met Alberto.
+<fam><person>Homer</person></fam>, if I hadn't come to this <location>motel</location> with you, I never would have met Alberto.
 
 <stage>GASPS</stage>
 
@@ -492,11 +494,11 @@ Excuse me, boys. My brother is lost and kind of a jerk.
 
 If he'd brought a map of the grounds as I suggested, then we...
 
-<fam>Lisa</fam>, do you know why I spend every day after school in detention?
+<fam><person>Lisa</person></fam>, do you know why I spend every day after school in detention?
 
 So I don't have to come home to you!
 
-Oh, <fam>Bart</fam>. Don't say things you can't take back.
+Oh, <fam><person>Bart</person></fam>. Don't say things you can't take back.
 
 It's out there. Deal with it.
 
@@ -504,11 +506,11 @@ Oh, great. Now you woke the baby.
 
 I told you we should've left her with your mother!
 
-My God, <fam>Bart</fam>. What happened to us?
+My God, <fam><person>Bart</person></fam>. What happened to us?
 
 We grew up.
 
-So I'm sure you missed <fam>Marge</fam> last night.
+So I'm sure you missed <fam><person>Marge</person></fam> last night.
 
 Yeah. I missed her like five times.
 
@@ -518,7 +520,7 @@ Forever? That would be awesome.
 
 Okay, here she comes.
 
-Why don't you take <fam>Marge</fam> for a walk, open your heart and see what pours out?
+Why don't you take <fam><person>Marge</person></fam> for a walk, open your heart and see what pours out?
 
 I suppose you and Maude will be coming along, as well?
 
@@ -530,10 +532,11 @@ Be prepared to terminate inappropriate contact.
 
 Ready with the ice water.
 
-Ned: Lock onto his wiener.
+<person>Ned</person>: Lock onto his wiener.
 
 We have wiener lock.
 
 13.
 
-<stage>WHOOPS</stage> Adult situations!</txt></xml>
+<stage>WHOOPS</stage> Adult situations!
+</txt></xml>

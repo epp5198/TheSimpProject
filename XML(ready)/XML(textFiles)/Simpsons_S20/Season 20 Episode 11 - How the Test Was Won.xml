@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>How the Test Was Won</epTitle><szn>20</szn>x<epNum>11</epNum></ep><date>03/05/09</date> <runtime>03:22</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>How the Test Was Won</epTitle><szn>20</szn>x<epNum>11</epNum></ep>
+<date>03/05/09</date> <runtime>03:22</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -8,11 +10,11 @@
 
 <stage>SCHOOL BELL RINGING</stage>
 
-<stage>BARNEY BELCHES</stage>
+<stage><person>BARNEY</person> BELCHES</stage>
 
 <stage>HORN BELLOWING</stage>
 
-<stage>LENNY SHRIEKS</stage>
+<stage><person>LENNY</person> SHRIEKS</stage>
 
 <stage>PLAYING DIFFERENT TUNE</stage>
 
@@ -42,7 +44,7 @@ What are you doing?
 
 It's the first day of school!
 
-<stage>HOMER LAUGHING</stage>
+<stage><person>HOMER</person> LAUGHING</stage>
 
 You're the government's problem now!
 
@@ -134,7 +136,7 @@ Dacacca, adada, badacad.
 
 Biggest city in Montana!
 
-Helena?
+<location>Helena</location>?
 
 Wrong!
 
@@ -146,7 +148,7 @@ Several answers.
 
 Several? That's more than a few and almost a bunch!
 
-<fam>Bart</fam>, because of your superior intellect...
+<fam><person>Bart</person></fam>, because of your superior intellect...
 
 No, but wait! I aced the math part, right? Because I...
 
@@ -154,13 +156,13 @@ Run along now.
 
 <stage>GRUMBLING</stage>
 
-<fam>Bart</fam>, you and the other perfect-scoring superstars are exempt from taking the actual test today.
+<fam><person>Bart</person></fam>, you and the other perfect-scoring superstars are exempt from taking the actual test today.
 
 No test?
 
 Don't be too disappointed.
 
-We are throwing you a pizza party at a bowling alley.
+We are throwing you a pizza <location>party</location> at a bowling alley.
 
 Well, it's about time.
 
@@ -168,9 +170,9 @@ Come. Your helicopter awaits.
 
 <stage>BAND PLAYING GONNA FLY NOW</stage>
 
-Check it out! <fam>Bart</fam>'s a superstar, too!
+Check it out! <fam><person>Bart</person></fam>'s a superstar, too!
 
-<fam>Bart</fam>'s here!
+<fam><person>Bart</person></fam>'s here!
 
 Awesome!
 
@@ -198,9 +200,9 @@ Sir?
 
 So long, superstars.
 
-I can't believe it. Superintendent Chalmers betrayed me after all the wrapping paper I bought from his daughter.
+I can't believe it. <person>Superintendent Chalmers</person> betrayed me after all the wrapping paper I bought from his daughter.
 
-Pizza party! Pizza party!
+Pizza <location>party</location>! Pizza <location>party</location>!
 
 Helicopter! Helicopter!
 
@@ -210,9 +212,9 @@ What's the matter, superstar?
 
 Feeling sorry for the normals?
 
-Don't you get it? There is no pizza party! This isn't a helicopter!
+Don't you get it? There is no pizza <location>party</location>! This isn't a helicopter!
 
-No pizza party?
+No pizza <location>party</location>?
 
 Not a helicopter? Huh?
 
@@ -240,7 +242,7 @@ ID, please?
 
 Must be in the glove box.
 
-<stage>HOMER CHUCKLES</stage>
+<stage><person>HOMER</person> CHUCKLES</stage>
 
 Huh?
 
@@ -272,7 +274,8 @@ Okay, until then, I have to avoid any serious injuries or accidents on my proper
 
 No, you don't!
 
-<stage>EXCLAIMS WITH SATISFACTION</stage>Now I know some of you may suffer from test anxiety.
+<stage>EXCLAIMS WITH SATISFACTION</stage>
+Now I know some of you may suffer from test anxiety.
 
 3:00 p.m. We must avoid all accidents and injuries or we're all going to the poorhouse.
 
@@ -292,13 +295,13 @@ Right now, while you're here, you can help host my book club.
 
 Book club? That's the most stupid, boring thing ever! Thank you!
 
-<stage>HOMER HUMMING CHEERFULLY</stage>
+<stage><person>HOMER</person> HUMMING CHEERFULLY</stage>
 
-Now I would never say a bad word about Cletus and Brandine, but I hear he's been feeding slop to another woman's pig.
+Now I would never say a bad word about <person>Cletus</person> and <person>Brandine</person>, but I hear he's been feeding slop to another woman's pig.
 
 <stage>EXCLAIMING</stage>
 
-<stage>HOMER GASPS</stage>
+<stage><person>HOMER</person> GASPS</stage>
 
 <stage>SHRIEKS</stage>
 
@@ -314,13 +317,13 @@ Yeah.
 
 I mean, no!
 
-<fam>Lisa</fam>: Maybe I should just move on to question two.
+<fam><person>Lisa</person></fam>: Maybe I should just move on to question two.
 
 Question two, using what you learned in question one...
 
-<stage>LISA SCREAMING</stage>
+<stage><person>LISA</person> SCREAMING</stage>
 
-<fam>Lisa</fam>, like Captain Kirk, I'm not supposed to interfere.
+<fam><person>Lisa</person></fam>, like Captain Kirk, I'm not supposed to interfere.
 
 But like T.J. Hooker, I say what is on my mind.
 
@@ -338,7 +341,7 @@ No, demand he tell you the answer! And if he won't, he is no God of yours!
 
 What's your plan now, skin rash?
 
-My name isn't skin rash. It's Principal Skinner.
+My name isn't skin rash. It's Principal <person>Skinner</person>.
 
 And you will address me as such.
 
@@ -346,7 +349,7 @@ Sure thing, Such.
 
 I'll deal with your insubordinate wordplay later.
 
-My first duty is to get you boys to safety. And that's... Where's Ralph?
+My first duty is to get you boys to safety. And that's... Where's <person>Ralph</person>?
 
 <stage>FOGHORN BLOWING</stage>
 
@@ -358,7 +361,7 @@ Okay. I just have to keep these tipsy witches safe for 10 more seconds!
 
 Van Johnson was never half the man Van Heflin was.
 
-<stage>AGNES GRUNTING</stage>
+<stage><location>AGNES</location> GRUNTING</stage>
 
 Knife!
 
@@ -366,7 +369,7 @@ Knife!
 
 <stage>CRYING OUT IN SLOW MOTION</stage>
 
-<stage>HOMER GRUNTS</stage>
+<stage><person>HOMER</person> GRUNTS</stage>
 
 <stage>SCREAMS</stage>
 
@@ -380,9 +383,9 @@ Knife!
 
 <stage>THUDS</stage>
 
-Mr. Burns: Apaches!
+Mr. <person>Burns</person>: Apaches!
 
-Mr. Burns!
+Mr. <person>Burns</person>!
 
 Why do terrible things always happen to wonderful people at 3:01 p. M?
 
@@ -390,7 +393,7 @@ Which, for the record, is the correct time.
 
 <stage>MUFFLED</stage> So, plans for the weekend?
 
-<fam>Marge</fam>, are you mad I forgot to send in the payment?
+<fam><person>Marge</person></fam>, are you mad I forgot to send in the payment?
 
 No, sweetie. At this point in a marriage, a wife should know what her husband can do and what he can't.
 
@@ -402,7 +405,7 @@ Baby, I hope you got snuggle insurance because I'm about to file a claim!
 
 <stage>RAT SQUEAKING</stage>
 
-<fam>Bart</fam>, do you have your slingshot?
+<fam><person>Bart</person></fam>, do you have your slingshot?
 
 No, sir.
 
@@ -420,7 +423,7 @@ Shut up! A child is in danger under my aegis.
 
 Ha-ha?
 
-Run, Ralph! Run!
+Run, <person>Ralph</person>! Run!
 
 Okay!
 
@@ -428,7 +431,7 @@ Time to do what I've never done as principal. Something!
 
 <stage>PANTING</stage>
 
-Skinner's spazzing out!
+<person>Skinner</person>'s spazzing out!
 
 I'm not spazzing out.
 
@@ -452,15 +455,15 @@ Education rules!
 
 <stage>CHEERING</stage>
 
-"But I reckon I got to light out for the Territory ahead of the rest, "because Aunt Sally she's going to adopt me and sivilize me, "and I can't stand it. I been there before."
+"But I reckon I got to light out for the <location>Territory</location> ahead of the rest, "because Aunt Sally she's going to adopt me and sivilize me, "and I can't stand it. I been there before."
 
 That book was awesome!
 
 All: Uh-huh.
 
-Next stop, Springfield Elementary!
+Next stop, <location>Springfield Elementary</location>!
 
-Skinner! Otto! Bullies! The "<catchphrase>cowabunga</catchphrase>" kid!
+<person>Skinner</person>! Otto! Bullies! The "<catchphrase>cowabunga</catchphrase>" kid!
 
 And the wee nitwit! It's so good to see you all!
 
@@ -484,7 +487,7 @@ This test is a joke!
 
 Huh?
 
-Skinner?
+<person>Skinner</person>?
 
 Today I received an education in how children really learn.
 
@@ -534,4 +537,5 @@ C'mon before we crack.
 
 Lose your blues.
 
-Everybody, cut footloose[/i]</txt></xml>
+Everybody, cut footloose[/i]
+</txt></xml>

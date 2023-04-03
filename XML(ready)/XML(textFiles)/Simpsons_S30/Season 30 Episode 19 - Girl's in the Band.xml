@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>04/01/19</date> <runtime>07:25</runtime></metadata>
 
@@ -130,7 +132,7 @@ You have hidden talent bubbling inside you, and this baton will pop it right out
 
 Sherri, more fortissimo. Terri, more pianissimo.   
 
-Milhouse, don't forget to tune your...   
+<person>Milhouse</person>, don't forget to tune your...   
 
 What the heck are you playing?   
 
@@ -164,7 +166,7 @@ Oh, my gosh, it's bearable.
 
 Sir? Did it move you?   
 
-Skinner, didn't I ask for a buffer chair between you and me at all of these events?   
+<person>Skinner</person>, didn't I ask for a buffer chair between you and me at all of these events?   
 
 Uh-uh. Buffer.   
 
@@ -189,7 +191,7 @@ That was good... middle school good.
 Tonight, I witnessed a once-in-a-semester talent that I must add to my organization.    
 
 - Dewey...
-- Uh-huh. have to keep talking, or can I meet <fam>Lisa</fam> Simpson?    
+- Uh-huh. have to keep talking, or can I meet <fam><person>Lisa</person></fam> Simpson?    
 
 But-but-but she's a child.    
 
@@ -199,7 +201,7 @@ Surely, you didn't think I wanted you?
 
 <stage>SIGHS</stage> No, no, of course not.    
 
-<fam>Lisa</fam>'s right over there.    
+<fam><person>Lisa</person></fam>'s right over there.    
 
 Red dress, intelligent expression.    
 
@@ -235,7 +237,7 @@ We can do it!
 
 I'll practice in the car.    
 
-   miles in the car with <fam>Lisa</fam> practicing.    
+   miles in the car with <fam><person>Lisa</person></fam> practicing.    
 
 I've got a symphony for you.    
 
@@ -246,13 +248,13 @@ I've got a symphony for you.
 
 <music>♪ Sucks to be you, sucks to be you. ♪    </music>
 
-<stage>MARGE GRUMBLES</stage>    
+<stage><person>MARGE</person> GRUMBLES</stage>    
 
 We can't afford a babysitter every day.    
 
-<fam>Bart</fam> will have to come along.    
+<fam><person>Bart</person></fam> will have to come along.    
 
-And <fam>Maggie</fam>, too.    
+And <fam><person>Maggie</person></fam>, too.    
 
 Well, I got to ask.    
 
@@ -273,9 +275,9 @@ Remember the show Breaking Bad?
 
 About a dad who was desperate for money?    
 
-<fam>Homer</fam>, no.    
+<fam><person>Homer</person></fam>, no.    
 
-<fam>Marge</fam>, yes, I can do it.    
+<fam><person>Marge</person></fam>, yes, I can do it.    
 
 I can sell my box set.    
 
@@ -295,7 +297,7 @@ Well, that's so protective.
 
 It's also a quote from Breaking Bad. 
 
-<stage>MARGE GROANS</stage>    
+<stage><person>MARGE</person> GROANS</stage>    
 
 You are really far behind.    
 
@@ -311,7 +313,7 @@ unto the Samaritan woman...
 
 Good, good. When the Spanish station overpowers the Christian one, we're getting close to the city.    
 
-BART: Why do I have to be here?    
+<person>BART</person>: Why do I have to be here?    
 
 I specifically didn't get good at anything to avoid drives like this.    
 
@@ -333,7 +335,7 @@ Too small for a tuba.
 - Too big for a flute.
 - Well, maybe it's her lunch.    
 
-- Hi. I'm <fam>Lisa</fam> Simpson.
+- Hi. I'm <fam><person>Lisa</person></fam> Simpson.
 - Shh.    
 
 He might hear you. <stage>COUGHS</stage>    
@@ -349,7 +351,7 @@ Wow, even the violas are tense.
 
 <stage>PLAYING AN INTENSE NOTE</stage>    
 
-Everyone, say hello to <fam>Lisa</fam> Simpson.    
+Everyone, say hello to <fam><person>Lisa</person></fam> Simpson.    
 
 She's an actual musician, so she will be a strange and wonderful creature to the rest of you.    
 
@@ -379,30 +381,30 @@ And if only you had played either one of them!
 
 No, no, no. It's my fault.    
 
-I've been too soft on you, <fam>Lisa</fam>.    
+I've been too soft on you, <fam><person>Lisa</person></fam>.    
 
 I've been letting you coast for almost two minutes.    
 
-That ends now. <fam>Lisa</fam> alone, theme from Moonlighting, second movement, andante!    
+That ends now. <fam><person>Lisa</person></fam> alone, theme from Moonlighting, second movement, andante!    
 
 <stage>PLAYING MOONLIGHTING THEME</stage>    
 
 Ow. Ow. Ow.    
 
 - Ow. Ow.
-- <fam>Bart</fam>.    
+- <fam><person>Bart</person></fam>.    
 
-- <fam>Bart</fam>.
+- <fam><person>Bart</person></fam>.
 - Just k*ll time.    
 
 Ow. Ow. Ow.    
 
 Ow. Ow.    
 
-- <stage>LISA PANTING</stage>
-- <fam>Lisa</fam>.    
+- <stage><person>LISA</person> PANTING</stage>
+- <fam><person>Lisa</person></fam>.    
 
-<fam>Lisa</fam>, sweetie, are you okay?    
+<fam><person>Lisa</person></fam>, sweetie, are you okay?    
 
 He yelled at me, humiliated me in front of everyone.    
 
@@ -464,9 +466,9 @@ Never get high on your own supply.
 
 <stage>ORCHESTRA QUIETLY PLAYING</stage>    
 
-Uh, Mom, I think <fam>Maggie</fam> wants to go home.    
+Uh, Mom, I think <fam><person>Maggie</person></fam> wants to go home.    
 
-<fam>Maggie</fam>, is that what you want?    
+<fam><person>Maggie</person></fam>, is that what you want?    
 
 Let's go home! Let's go home!    
 
@@ -474,12 +476,12 @@ I'm sorry, is this annoying you?
 
 Ma'am, day care is happy to watch your son.    
 
-<fam>Bart</fam> Simpson, well-behaved child.    
+<fam><person>Bart</person></fam> Simpson, well-behaved child.    
 
 Please don't Google me.    
 
 - In you go!
-- <stage>BART YELPS</stage>    
+- <stage><person>BART</person> YELPS</stage>    
 
 <stage>DOOR LOCKS</stage>    
 
@@ -522,9 +524,9 @@ Excuse me, what's a chair chall...
 
 Great, our first volunteer, out for blood.    
 
-<fam>Lisa</fam> versus Brian, winner gets first chair.    
+<fam><person>Lisa</person></fam> versus Brian, winner gets first chair.    
 
-- <fam>Lisa</fam>, how could you?
+- <fam><person>Lisa</person></fam>, how could you?
 - No, I didn't mean to.    
 
 Go, go, go, or I'll call you both Ubers back to Loser Town.    
@@ -537,7 +539,7 @@ I've heard enough.
 
 Brian, that was perfect... for second chair.    
 
-<fam>Lisa</fam>, you have his spot.    
+<fam><person>Lisa</person></fam>, you have his spot.    
 
 - I had a good run.
 - No, you didn't.    
@@ -553,9 +555,9 @@ And even if I was, I'd have been pushing a plow.
 
 You think everyone gets to hang out with Mozart?    
 
-<stage>LISA MOANS</stage>    
+<stage><person>LISA</person> MOANS</stage>    
 
-LISA: Whoo-hoo! First chair. 
+<person>LISA</person>: Whoo-hoo! First chair. 
 
 <stage>SAXOPHONE PLAYING</stage>    
 
@@ -581,7 +583,7 @@ Just put the rest on my Father's Day card.
 
 Mwah. I'll see you at breakfast.    
 
-<stage>MARGE CRIES</stage>    
+<stage><person>MARGE</person> CRIES</stage>    
 
 
 
@@ -601,7 +603,7 @@ That's what keeps the grim reaper at bay.
 
 I saw quite a bit of the grim reaper back in the w*r. 
 
-Back then, we called him The Ticket Out of Germany. 
+Back then, we called him The Ticket Out of <location>Germany</location>. 
 
 But the seating was cramped and the food was lousy. 
 
@@ -611,7 +613,7 @@ MAN <stage>ON RADIO</stage>: ¿Accidentes? No problema.
 
 Teléfono ocho-ocho-ocho ocho-ocho... 
 
-<fam>Maggie</fam>, what are you doing?    
+<fam><person>Maggie</person></fam>, what are you doing?    
 
 I'll help her, Mom.    
 
@@ -633,7 +635,7 @@ I think it's turning my skin yellow.
 
 <fam>Homie</fam>, are we sacrificing our family's happiness for the sake of one member?    
 
-When <fam>Lisa</fam>'s making millions of dollars playing for the Utah Jazz, it'll be worth it.    
+When <fam><person>Lisa</person></fam>'s making millions of dollars playing for the Utah Jazz, it'll be worth it.    
 
 The Jazz is a basketball team.    
 
@@ -791,9 +793,9 @@ Well, this is it.
 
 If she makes it, it's five more years at least of driving.    
 
-I gave <fam>Maggie</fam> a Sketch 'n' Etch to calm her down.    
+I gave <fam><person>Maggie</person></fam> a Sketch 'n' Etch to calm her down.    
 
-HOMER: Oh, my God, she has talent, too. 
+<person>HOMER</person>: Oh, my God, she has talent, too. 
 
 - What are you looking at?
 - Uh, nothing.    
@@ -802,7 +804,7 @@ Make something else.
 
 <music>♪ ♪    </music>
 
-LISA: I'm doing it. I'm gonna make it. 
+<person>LISA</person>: I'm doing it. I'm gonna make it. 
 
 Oh, but if I keep being this good, 
 
@@ -828,7 +830,7 @@ Yeah. You should see me as a father.
 
 So, guess this is the last time we're doing this drive.    
 
-<fam>Lisa</fam>, are you okay?    
+<fam><person>Lisa</person></fam>, are you okay?    
 
 Sure. Fine. Never been better.    
 
@@ -853,14 +855,14 @@ You wouldn't fit, fatso.
 
 Oh, wouldn't I?    
 
-- <stage>HOMER GRUNTING</stage>
-- <stage>MARGE GASPS</stage>    
+- <stage><person>HOMER</person> GRUNTING</stage>
+- <stage><person>MARGE</person> GASPS</stage>    
 
 <stage>BOTH LAUGH</stage>    
 
 <stage>LAUGHS</stage>    
 
-<fam>Maggie</fam>, are we good?    
+<fam><person>Maggie</person></fam>, are we good?    
 
 Oh, wow.    
 

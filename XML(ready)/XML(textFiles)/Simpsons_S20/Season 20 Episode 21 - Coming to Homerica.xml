@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Coming to Homerica</epTitle><szn>20</szn>x<epNum>21</epNum></ep><date>05/21/09</date> <runtime>21:48</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Coming to Homerica</epTitle><szn>20</szn>x<epNum>21</epNum></ep>
+<date>05/21/09</date> <runtime>21:48</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -30,9 +32,9 @@ Hey!
 
 <stage>CHUCKLES</stage>
 
-You've fallen right into my trap, just like you did in Africa.
+You've fallen right into my trap, just like you did in <location>Africa</location>.
 
-Krusty, there you are. We've got business to discuss.
+<person>Krusty</person>, there you are. We've got business to discuss.
 
 First off, we got big problems with your talking home pregnancy tests.
 
@@ -46,9 +48,9 @@ Okay. Repackage them as coffee stirrers and sell them in the Philippines.
 
 Genius. Now, another issue.
 
-Studies show your Krusty Burger is the unhealthiest fast food item in the world.
+Studies show your <person>Krusty</person> Burger is the unhealthiest fast food item in the world.
 
-Worse than a Double Krusty Burger?
+Worse than a Double <person>Krusty</person> Burger?
 
 Somehow, yes.
 
@@ -94,7 +96,7 @@ People care about their health for some reason.
 
 We know times have changed.
 
-We at Krusty Burger want to take advantage of that.
+We at <person>Krusty</person> Burger want to take advantage of that.
 
 Introducing the Mother Nature Burger!
 
@@ -106,7 +108,7 @@ Mmm.
 
 Tastes like a healthy future!
 
-We're going to Krusty Burger!
+We're going to <person>Krusty</person> Burger!
 
 Finally, a hamburger for the Hindus.
 
@@ -114,7 +116,7 @@ By the tusks of great Ganesh, now no one can tell I am not American.
 
 <stage>VOCALIZING</stage>
 
-Look at me! I'm saving the Earth!
+Look at me! I'm saving the <location>Earth</location>!
 
 Where's my Nobel Prize?
 
@@ -148,7 +150,7 @@ Seymour: Attention, students.
 
 Due to the recent queasiness, both the Presidential Ab Crunch Challenge and the Sloppy Joe-a-thon have been canceled.
 
-Skinner, if I die, I want you to take over...
+<person>Skinner</person>, if I die, I want you to take over...
 
 Really? ...the search committee for a new superintendent.
 
@@ -176,7 +178,7 @@ So you know your way around a blender. Okay.
 
 So if the dog's in the house, don't let <fam>Grampa</fam> in, and vice versa.
 
-Our neighbor Ned Flanders drops by unexpectedly...
+Our neighbor <person>Ned</person> <person>Flanders</person> drops by unexpectedly...
 
 That I do. ...but he doesn't stay long.
 
@@ -198,7 +200,7 @@ It's just chocolate chip pancakes and syrup for you.
 
 Inga, I'll be happy to eat whatever you make.
 
-<fam>Maggie</fam>, now you have a nanny.
+<fam><person>Maggie</person></fam>, now you have a nanny.
 
 Just like the ones Joe Piscopo and Ethan Hawke left their wives for.
 
@@ -218,7 +220,7 @@ A little lingonberry oil under the tongue will clear it right up.
 
 That's amazing! Now I feel bad about calling your references.
 
-So Selma, how did you meet?
+So <person>Selma</person>, how did you meet?
 
 I hired Thor Bjorn here to k*ll some moles in my garden, and, well, one thing led to another.
 
@@ -226,11 +228,11 @@ Ja. She has the same beautiful face as my Great-Uncle Magnus when he lay in the 
 
 Gee, this Ogdenville influx has been great for everybody.
 
-Yeah. Talk about taking jobs Springfield men don't want.
+Yeah. Talk about taking jobs <location>Springfield</location> men don't want.
 
 <stage>LAUGHING</stage>
 
-Hey, <fam>Homer</fam>. Your blubber would light our lamps for a year.
+Hey, <fam><person>Homer</person></fam>. Your blubber would light our lamps for a year.
 
 I zinged the oaf good?
 
@@ -268,13 +270,13 @@ Sven, can you stop by tomorrow? It's clogged again.
 
 <stage>AGREEING IN NORWEGIAN</stage>
 
-Come on, <fam>Bart</fam>. We'll take care of you at home.
+Come on, <fam><person>Bart</person></fam>. We'll take care of you at home.
 
 <stage>SNEEZING STRANGELY</stage>
 
 Oh, great. I caught their cold.
 
-Okay, <fam>Bart</fam>. Now bite down on the rubber dog bone and...
+Okay, <fam><person>Bart</person></fam>. Now bite down on the rubber dog bone and...
 
 <stage>GRUNTING</stage>
 
@@ -298,23 +300,24 @@ Yes. I'd like both right now.
 
 Hey, this is all right.
 
-<stage>HUMMING HAPPILY</stage>Look at them barleyjacks celebrating another one of their stupid holidays.
+<stage>HUMMING HAPPILY</stage>
+Look at them barleyjacks celebrating another one of their stupid holidays.
 
 Hey, I ain't got no problem with them. They pay in cash, they keep it clean, and their mythology is rich and enchanting.
 
 Yeah. The redhead one said today's the day Woden gave the herring the greatest gift of all. Its fishy taste.
 
-Hey, Moe, what is that hoity-toity beer they're drinking?
+Hey, <person>Moe</person>, what is that hoity-toity beer they're drinking?
 
 Oh, I don't sell beer no more. I only serve Aquavit, the Norwegian caraway-scented liqueur.
 
 Wait a minute! You're selling barleyjack booze?
 
-How could you, Moe?
+How could you, <person>Moe</person>?
 
 Hey, it's all about the King Haralds.
 
-<stage>MOE CHUCKLES GREEDILY</stage>
+<stage><person>MOE</person> CHUCKLES GREEDILY</stage>
 
 Well, since it's all you got, give me a mug of that Aquavit.
 
@@ -324,7 +327,7 @@ That stuff'll open up a can of "Oh, my goodness" on you.
 
 I think I can handle it.
 
-<stage>SLURRING</stage> Hey! Where did that <fam>Homer</fam> guy go?
+<stage>SLURRING</stage> Hey! Where did that <fam><person>Homer</person></fam> guy go?
 
 <stage>MUFFLED</stage> More Aquavit, please.
 
@@ -352,7 +355,7 @@ Yeah.
 
 <stage>GAVEL BANGING</stage>
 
-I propose that no Ogdenvillian be allowed within the city limits of Springfield.
+I propose that no Ogdenvillian be allowed within the city limits of <location>Springfield</location>.
 
 I share your xylophobia.
 
@@ -364,7 +367,7 @@ I am afraid of xylophones.
 
 It's the music you hear when skeletons are dancing.
 
-Very well. Springfield will ban immigrants and xylophones.
+Very well. <location>Springfield</location> will ban immigrants and xylophones.
 
 All in favor say "aye."
 
@@ -380,11 +383,11 @@ Notes, don't fail me now!
 
 There's one, Chief.
 
-Well, he's too far, Lou. That's not fair.
+Well, he's too far, <person>Lou</person>. That's not fair.
 
 Hey, there's another!
 
-He's on a bike, Lou.
+He's on a bike, <person>Lou</person>.
 
 So?
 
@@ -402,17 +405,17 @@ I don't... Oh, yeah.
 
 Oh. Oh. Oh. Oh...
 
-No, he's too fast. It's hopeless, Lou.
+No, he's too fast. It's hopeless, <person>Lou</person>.
 
 We can't handle this. We need help patrolling the border.
 
-I mean, Springfield only has three cops.
+I mean, <location>Springfield</location> only has three cops.
 
-Yeah, and Eddie's laid up because of his gout.
+Yeah, and <person>Eddie</person>'s laid up because of his gout.
 
 <stage>MOANS</stage>
 
-Yep. Eddie loves his lobster and port wine. But it comes with a price.
+Yep. <person>Eddie</person> loves his lobster and port wine. But it comes with a price.
 
 Excuse me. Do you have to pay to get in, or...
 
@@ -428,9 +431,9 @@ And all we're paying them is b*ll*ts and beer.
 
 I almost made a big mistake!
 
-Men, our negative energy has been harnessed to help keep Springfield's border secure from Ogdenvillians.
+Men, our negative energy has been harnessed to help keep <location>Springfield</location>'s border secure from Ogdenvillians.
 
-But first, our group needs a name that evokes America's proud history of citizens rising up to defend our way of life.
+But first, our group needs a name that evokes <location>America</location>'s proud history of citizens rising up to defend our way of life.
 
 The Klan?
 
@@ -454,7 +457,7 @@ Oh, this is gonna be good.
 
 Release the sandbags!
 
-Hey, why don't you let Carl and me try?
+Hey, why don't you let <person>Carl</person> and me try?
 
 Okay. You guys get in as I get off.
 
@@ -506,9 +509,9 @@ Yeah.
 
 <stage>SPEAKING NORWEGIAN</stage>
 
-<fam>Maggie</fam>'s first words are in Ogdenvillese!
+<fam><person>Maggie</person></fam>'s first words are in Ogdenvillese!
 
-Now do you see, <fam>Marge</fam>?
+Now do you see, <fam><person>Marge</person></fam>?
 
 Now do you see why we must build that fence?
 
@@ -582,4 +585,5 @@ All right, boys. Round them up.
 
 And throw them the swinging-est soiree they've ever seen!
 
-<stage>SCANDINAVIAN FOLK MUSIC PLAYING</stage></txt></xml>
+<stage>SCANDINAVIAN FOLK MUSIC PLAYING</stage>
+</txt></xml>

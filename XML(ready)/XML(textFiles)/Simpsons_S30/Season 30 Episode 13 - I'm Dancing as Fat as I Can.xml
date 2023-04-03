@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>02/11/19</date> <runtime>14:19</runtime></metadata>
 
@@ -21,9 +23,9 @@
 
 Y'ello.  
 
-Dad, I'm sleeping over at Milhouse's and I can't take it.  
+Dad, I'm sleeping over at <person>Milhouse</person>'s and I can't take it.  
 
-Come on, <fam>Bart</fam>, read me to sleep.  
+Come on, <fam><person>Bart</person></fam>, read me to sleep.  
 
 And do the voices.  
 
@@ -69,7 +71,7 @@ My Aunt Eunice is dying.
 
 I have to leave right away.   
 
-HOMER: Oh, poor <fam>Marge</fam>. 
+<person>HOMER</person>: Oh, poor <fam><person>Marge</person></fam>. 
 
 Wait. She said "I," not "we." 
 
@@ -97,13 +99,13 @@ Uh, but the children need me.
 
 Y'ello.   
 
-BART <stage>OVER PHONE</stage>: Dad, I am begging you.   
+<person>BART</person> <stage>OVER PHONE</stage>: Dad, I am begging you.   
 
 Who is this?   
 
-MARGE <stage>SIGHS</stage>: Okay. 
+<person>MARGE</person> <stage>SIGHS</stage>: Okay. 
 
-I made a loaf of peanut butter and jelly.   
+I made a <location>loaf</location> of peanut butter and jelly.   
 
 You just have to slice it into sandwiches every day.   
 
@@ -113,7 +115,7 @@ You just have to slice it into sandwiches every day.
 <stage>MOTOR WHIRRING</stage>   
 
 - Check.
-- I made a welcome wagon basket for our new neighbors from Eastern Europe.   
+- I made a welcome wagon basket for our new neighbors from <location>Eastern Europe</location>.   
 
 - Check.
 - Not Czech, Slovenian.   
@@ -121,7 +123,7 @@ You just have to slice it into sandwiches every day.
 - Check.
 - <stage>CAR HORN HONKING</stage>   
 
-One last thing... this is very important, <fam>Homer</fam>.   
+One last thing... this is very important, <fam><person>Homer</person></fam>.   
 
 The new season of Odder Stuff drops on Netflix tonight. 
 
@@ -134,7 +136,7 @@ What? Why not? I have to see if my fan theories are correct.
 <stage>LOUD WHISPER</stage>: I think it's set in the '  s.   
 
 - <stage>CAR HORN HONKS</stage>
-- <fam>Homer</fam>, the nine hours we binge watch that show together is our thing.   
+- <fam><person>Homer</person></fam>, the nine hours we binge watch that show together is our thing.   
 
 And we don't have a lot of things.   
 
@@ -159,7 +161,7 @@ Dearest, you were always our favorite aunt.
 
 Psst, over here.   
 
-When she's gone, I get the P's, Selma gets the S's.   
+When she's gone, I get the P's, <person>Selma</person> gets the S's.   
 
 You get to notify the utilities.   
 
@@ -227,7 +229,7 @@ Wait for me.
 
 <stage>WHIMPERING</stage>    
 
-MARGE: This show you can watch.    
+<person>MARGE</person>: This show you can watch.    
 
 Too depressing.    
 
@@ -253,7 +255,7 @@ My turn to talk about how much I liked it.
 
 Shouldn't doing something nice for your wife feel better than this?    
 
-<fam>Homer</fam>, will you read my Odder Stuff fan fiction?    
+<fam><person>Homer</person></fam>, will you read my Odder Stuff fan fiction?    
 
 I threw it over Stephen King's fence but i-it hit him on the head.    
 
@@ -305,9 +307,9 @@ You could hide a golden ticket in some candy like Willy Wonka.
 The only children allowed in my factory are the ones that work there.    
 
 - How 'bout we have a contest?
-- <stage>KRUSTY GROANS</stage>    
+- <stage><person>KRUSTY</person> GROANS</stage>    
 
-Some lucky kid gets to run around a Krusty store for five whole minutes and take all the toys they want.    
+Some lucky kid gets to run around a <person>Krusty</person> store for five whole minutes and take all the toys they want.    
 
 It inspires buying, it's easy to promote, and it's the third thing someone pitched.    
 
@@ -331,7 +333,7 @@ No. Only when we're together.    </music>
 
 It's our glue.    
 
-<fam>Homer</fam>, I'm Ted Sarandos.    
+<fam><person>Homer</person></fam>, I'm Ted Sarandos.    
 
 Chief Content Officer of Netflix.    
 
@@ -343,7 +345,7 @@ I'm not a dream. Let's just say I'm a manifestation of complex algorithms that k
 
 Well, I can't watch this because...    
 
-I know. I know. <fam>Marge</fam> told you not to.    
+I know. I know. <fam><person>Marge</person></fam> told you not to.    
 
 Do you know that she's been watching Scandinavian crime dramas with full nudity without you?    
 
@@ -371,7 +373,7 @@ That is impressive.
 
 I won't even mind watching it again with...    
 
-- MARGE: <fam>Homer</fam>?!
+- <person>MARGE</person>: <fam><person>Homer</person></fam>?!
 - Uh-oh.    
 
 The lady from my marriage.    
@@ -391,7 +393,7 @@ I finally learn how little I mean to you.
 
 <stage>CRYING</stage>: No.    
 
-<fam>Marge</fam>, I am sorry.    
+<fam><person>Marge</person></fam>, I am sorry.    
 
 Come on, it's a stupid TV show.    
 
@@ -418,13 +420,13 @@ Oh. Oh. It's so bitterly cold.
 
 <stage>GRUNTING</stage>    
 
-MARGE: I'm fine.    
+<person>MARGE</person>: I'm fine.    
 
-<stage>HOMER SIGHS</stage>    
+<stage><person>HOMER</person> SIGHS</stage>    
 
-KRUSTY <stage>OVER TV</stage>: To enter our contest, write down, in    words or less, why you love me more than God and America.    
+<person>KRUSTY</person> <stage>OVER TV</stage>: To enter our contest, write down, in    words or less, why you love me more than God and <location>America</location>.    
 
-The top three essayists will earn a chance to run roughshod through a Krusty store and not get tased by security. <stage>LAUGHS</stage>    
+The top three essayists will earn a chance to run roughshod through a <person>Krusty</person> store and not get tased by security. <stage>LAUGHS</stage>    
 
 Whoever fills the cart with the most toys gets to keep them, free.    
 
@@ -436,7 +438,7 @@ Employees and monkeys of this network are not eligible.
 
 <fam>Lis</fam>, will you write my essay for me?    
 
-What, you can't even come up with, "I love Krusty because I'm a class clown and he's a clown with class"?    
+What, you can't even come up with, "I love <person>Krusty</person> because I'm a class clown and he's a clown with class"?    
 
 Perfect. And the best thing is I'm stealing it from you.    
 
@@ -450,9 +452,9 @@ Wait, sorry, after you said "win," I started thinking about dirt bikes.
 
 <music>♪    
 
-You cheated on your wife, <fam>Homer</fam>.    </music>
+You cheated on your wife, <fam><person>Homer</person></fam>.    </music>
 
-I waited for Lenny before I watched.    
+I waited for <person>Lenny</person> before I watched.    
 
 <stage>GROWLING</stage>    
 
@@ -483,7 +485,7 @@ Who's Ted Sarandos?
 
 I was hoping you knew.    
 
-HOMER: Forgive me, Father, for I have sinned.    
+<person>HOMER</person>: Forgive me, Father, for I have sinned.    
 
 My son, what are your sins?    
 
@@ -502,7 +504,7 @@ Aw, what am I gonna do?
 
 I don't know what she wants!    
 
-<fam>Homer</fam>, sorry to blow my own horn...    
+<fam><person>Homer</person></fam>, sorry to blow my own horn...    
 
 <stage>HORN PLAYS FANFARE</stage>    
 
@@ -517,7 +519,7 @@ Dance shows! She loves 'em!
 Want to win her back?
 Learn to dance, my puppet.    
 
-Hmm. I have disappointed <fam>Marge</fam> with my dancing in the past.    
+Hmm. I have disappointed <fam><person>Marge</person></fam> with my dancing in the past.    
 
 <music>♪    
 
@@ -550,7 +552,7 @@ Julia will always believe in you.
 Julia will stay with you until you are a dancer.    
 
 - What's my name?
-- <fam>Homer</fam>.    
+- <fam><person>Homer</person></fam>.    
 
 - No. My name.
 - Julia.    
@@ -570,7 +572,7 @@ Now we begin.
 
 <stage>"THE BLUE DANUBE" PLAYING</stage>    
 
-<stage>HOMER PANTING</stage>    
+<stage><person>HOMER</person> PANTING</stage>    
 
 Zoey B, Zoey T, you work with these guys.    
 
@@ -608,7 +610,7 @@ I don't quit and neither do you.
 - <stage>ALARM BEEPS</stage>
 - <stage>GASPS</stage>    
 
-<fam>Homer</fam>, you're getting there.    
+<fam><person>Homer</person></fam>, you're getting there.    
 
 You're aware of when the music is playing.    
 
@@ -624,7 +626,7 @@ I'm bringing in my partner.
 
 Sweet Sal!    
 
-Watch me. With one hand, you can lead a woman.    
+Watch me. With one hand, you can <location>lead</location> a woman.    
 
 - I find that hard to...
 - You have to come forward    
@@ -648,15 +650,15 @@ Feet arched! Eyes merry!
 
 <music>♪    
 
-<stage>HOMER SHRIEKING</stage>    </music>
+<stage><person>HOMER</person> SHRIEKING</stage>    </music>
 
 <stage>SHRIEKING CONTINUES</stage> 
 
 <stage>PHONE RINGS</stage>    
 
-Moe's Tavern. Moe speaking.    
+<person>Moe</person>'s Tavern. <person>Moe</person> speaking.    
 
-<fam>Homer</fam>? Nah, sorry, Midge.    
+<fam><person>Homer</person></fam>? Nah, sorry, Midge.    
 
 I ain't seen him in weeks.    
 
@@ -664,9 +666,9 @@ What do you mean?
 
 He told me he's been there every night.    
 
-Oh, oh, <fam>Homer</fam> Simpson. 
+Oh, oh, <fam><person>Homer</person></fam> Simpson. 
 
-Oh, no, I thought you were talking about, uh, <fam>Homer</fam> the blind poet who wrote the Iliad and the Odyssey there, yeah.    
+Oh, no, I thought you were talking about, uh, <fam><person>Homer</person></fam> the blind poet who wrote the Iliad and the <location>Odyssey</location> there, yeah.    
 
 'Cause he ain't been around    
 
@@ -675,7 +677,7 @@ Oh, no, I thought you were talking about, uh, <fam>Homer</fam> the blind poet wh
 
 <music>♪    
 
-Another night at Moe's?    </music>
+Another night at <person>Moe</person>'s?    </music>
 
 Yeah. I'm b*at.    
 
@@ -683,9 +685,9 @@ The couch.
 
 <stage>TAP-DANCING</stage>    
 
-MARGE <stage>CALLS</stage>: Quiet!    
+<person>MARGE</person> <stage>CALLS</stage>: Quiet!    
 
-Okay, <fam>Homer</fam>, time to do a lift.    
+Okay, <fam><person>Homer</person></fam>, time to do a lift.    
 
 Are you sure? I'm pretty heavy.    
 
@@ -701,7 +703,7 @@ Oh. Oops.
 - Hey, hey!
 - <stage>MICROPHONE FEEDBACK</stage>    
 
-It's time for Krusty's Toy Trample!    
+It's time for <person>Krusty</person>'s Toy Trample!    
 
 We have three finalists.    
 
@@ -713,13 +715,13 @@ We rehearsed this with monkeys, and everything went great!
 
 <music>♪    
 
-BART: Now, to take out these two losers in two seconds. </music>
+<person>BART</person>: Now, to take out these two losers in two seconds. </music>
 
 d*ad Grandma, is that you?    
 
 On your marks, prepare to advance.    
 
-- <stage>BART EXHALES</stage>
+- <stage><person>BART</person> EXHALES</stage>
 - Commence!    
 
 <stage>UP-TEMPO MUSIC PLAYING</stage>    
@@ -735,9 +737,9 @@ On your marks, prepare to advance.
 
 Congratulations, kid!    </music>
 
-And you also won... a day with Krusty!    
+And you also won... a day with <person>Krusty</person>!    
 
-ANNOUNCER <stage>SPEED-TALKING</stage>: Day with Krusty will actually be day with Sideshow Mel.    
+ANNOUNCER <stage>SPEED-TALKING</stage>: Day with <person>Krusty</person> will actually be day with Sideshow Mel.    
 
 Don't we get anything?    
 
@@ -760,7 +762,7 @@ Well, then get him outta here!
 - <stage>PHONE RINGS</stage>
 - <stage>GROANS</stage>    
 
-HOMER <stage>OVER SPEAKER</stage>: <fam>Marge</fam>, it's me.    
+<person>HOMER</person> <stage>OVER SPEAKER</stage>: <fam><person>Marge</person></fam>, it's me.    
 
 I want to ask you one favor, and I won't bother you again.    
 
@@ -774,7 +776,7 @@ All will be made clear.
 
 <stage>DIAL TONE</stage>    
 
-<fam>Marge</fam>, go to him.    
+<fam><person>Marge</person></fam>, go to him.    
 
 If you don't, he'll head off to the w*r, and you'll never see him again.    
 
@@ -799,7 +801,7 @@ To dance.
 
 I don't know how.    
 
-<fam>Marge</fam>, all you have to do is one incredibly difficult thing: trust me.    
+<fam><person>Marge</person></fam>, all you have to do is one incredibly difficult thing: trust me.    
 
 <music>♪ I'm here ♪    </music>
 
@@ -815,7 +817,7 @@ Yeah.
 
 <music>♪ What's your name? ♪    </music>
 
-MARGE: Hmm.    
+<person>MARGE</person>: Hmm.    
 
 <music>♪ How do you do? ♪    </music>
 
@@ -837,7 +839,7 @@ It cures all the wounds.
 
 Aw.    
 
-<fam>Bart</fam>, are you seeing this?    
+<fam><person>Bart</person></fam>, are you seeing this?    
 
 I set a new record:   .    
 
@@ -855,7 +857,7 @@ Whoo! I have not felt this good since I signed Shonda Rhimes.
 
 <music>♪ I'm here ♪    </music>
 
-Okay, <fam>Homer</fam>, catch and lift.    
+Okay, <fam><person>Homer</person></fam>, catch and lift.    
 
 <music>♪ But let's dance ♪    </music>
 
@@ -870,13 +872,13 @@ Okay, <fam>Homer</fam>, catch and lift.
 
 <music>♪ What's the game? ♪    </music>
 
-FLANDERS: Hey!    
+<person>FLANDERS</person>: Hey!    
 
 Wait, how did you get a toy?    
 
-It was a thank-you from Ralph for writing his essay.    
+It was a thank-you from <person>Ralph</person> for writing his essay.    
 
-You wrote Ralph's essay, too?    
+You wrote <person>Ralph</person>'s essay, too?    
 
 It's called hedging your bets, boys.    
 

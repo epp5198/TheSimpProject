@@ -1,16 +1,18 @@
-<xml><txt><metadata><ep><epTitle>No Loan Again, Naturally</epTitle><szn>20</szn>x<epNum>12</epNum></ep><date>03/12/09</date> <runtime>06:34</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>No <location>Loan</location> Again, Naturally</epTitle><szn>20</szn>x<epNum>12</epNum></ep>
+<date>03/12/09</date> <runtime>06:34</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
-Ralph: I see stars!
+<person>Ralph</person>: I see stars!
 
 <stage>SCHOOL BELL RINGING</stage>
 
-<fam>Bart</fam>!
+<fam><person>Bart</person></fam>!
 
 <stage>HORN BELLOWING</stage>
 
-<stage>LENNY SHRIEKS</stage>
+<stage><person>LENNY</person> SHRIEKS</stage>
 
 <stage>PLAYING DIFFERENT TUNE</stage>
 
@@ -28,7 +30,7 @@ Ralph: I see stars!
 
 <stage>ALL EXCLAIMING</stage>
 
-<stage>HOMER SCREAMS</stage>
+<stage><person>HOMER</person> SCREAMS</stage>
 
 <stage>COUCH SNUFFLING</stage>
 
@@ -40,11 +42,11 @@ Boy, where are my zydeco records?
 
 There's twelve more boxes and they all sound the same.
 
-I know they do. But the Simpson Mardi Gras party has been a tradition since two days before you were born.
+I know they do. But the Simpson Mardi Gras <location>party</location> has been a tradition since two days before you were born.
 
 And we spare no expense!
 
-What about my birthday party?
+What about my birthday <location>party</location>?
 
 This counts as that.
 
@@ -54,27 +56,27 @@ Fine. But I wish you'd picked an easier theme than Super Jet Dinosaur Fun Monkey
 
 What does that even mean?
 
-<fam>Homie</fam>, every year this party gets a little bigger.
+<fam>Homie</fam>, every year this <location>party</location> gets a little bigger.
 
 I'm afraid it's growing out of hand.
 
-Hey, <fam>Homer</fam>, I have some distant relatives that I never see except for this party.
+Hey, <fam><person>Homer</person></fam>, I have some distant relatives that I never see except for this <location>party</location>.
 
-Can I bring them to the party?
+Can I bring them to the <location>party</location>?
 
 No problem.
 
-Just so you know, some of them act like they hate America.
+Just so you know, some of them act like they hate <location>America</location>.
 
 But what they really hate are Americans.
 
 <stage>GROANS</stage>
 
-<fam>Marge</fam>, lighten up. Even <fam>Grampa</fam>'s enjoying himself.
+<fam><person>Marge</person></fam>, lighten up. Even <fam>Grampa</fam>'s enjoying himself.
 
 <stage>BAND PLAYING LIVELY MUSIC</stage>
 
-I officially declare this private party in some guy's backyard open!
+I officially declare this private <location>party</location> in some guy's backyard open!
 
 <stage>ALL WHOOPING</stage>
 
@@ -92,13 +94,13 @@ I... Oh, right. We came together.
 
 <stage>PLAYING CHEERFUL MUSIC</stage>
 
-<fam>Homer</fam>: Hey! There you go!
+<fam><person>Homer</person></fam>: Hey! There you go!
 
 Eat my food! Drink of my drink!
 
 Put your coat on my daughter's bed, I command you!
 
-Your majesty, did you remember to invite Ned Flanders?
+Your majesty, did you remember to invite <person>Ned</person> <person>Flanders</person>?
 
 <stage>GROANS</stage>
 
@@ -106,7 +108,7 @@ As the worm said to the plate of spaghetti, I...
 
 Fine. I'll invite him. But he has to wear the outfit I choose.
 
-Hey, Flanders. Listen, we're having a party.
+Hey, <person>Flanders</person>. Listen, we're having a <location>party</location>.
 
 <stage>VOMITS</stage>
 
@@ -136,13 +138,13 @@ Hell, we fired our CEO and he barely got out with $50 million.
 
 That poor man. Is he okay?
 
-Well, as okay as you can be in the north of France.
+Well, as okay as you can be in the north of <location>France</location>.
 
 Now here's a free tip from me. Learn to make soup from rocks and grass.
 
 And what will I cook that soup on?
 
-Come on, <fam>Marge</fam>. You got the sun. You got hobo fires.
+Come on, <fam><person>Marge</person></fam>. You got the sun. You got hobo fires.
 
 I can't do all the work for you.
 
@@ -152,13 +154,13 @@ I can't do all the work for you.
 
 I worked so hard to make this house into a home, and now somebody else is just going to take it.
 
-<fam>Marge</fam>, I'm so sorry.
+<fam><person>Marge</person></fam>, I'm so sorry.
 
 Why are you here? You already own a home.
 
 Hey, our au pair has to live somewhere.
 
-This crap shack makes your guest room look like Winter Palace.
+This crap shack makes your guest room look like <location>Winter Palace</location>.
 
 I know. I know. But Bernice wants you out.
 
@@ -174,9 +176,9 @@ Did I what now?
 
 <stage>SOBS</stage>
 
-I know I shouldn't get too attached to a building, but that's where <fam>Lisa</fam> took her first step.
+I know I shouldn't get too attached to a building, but that's where <fam><person>Lisa</person></fam> took her first step.
 
-The kids' height, <fam>Homer</fam>'s weight.
+The kids' height, <fam><person>Homer</person></fam>'s weight.
 
 <stage>SOBBING</stage>
 
@@ -190,7 +192,7 @@ Goodbye.
 
 <catchphrase>D'oh</catchphrase>!
 
-For sale, 742 Evergreen Terrace, detached single-family dwelling. Now who will start me off?
+For sale, 742 <location>Evergreen Terrace</location>, detached single-family dwelling. Now who will start me off?
 
 Anybody ever get m*rder in this house?
 
@@ -222,7 +224,7 @@ Round ends together, please. Round end...
 
 What is this? Randomly-tossing-your-paddle day?
 
-Ned, you bought our house.
+<person>Ned</person>, you bought our house.
 
 Why?
 
@@ -230,7 +232,7 @@ So I can rent it back to you.
 
 Just pay what you can till you get back on your feet.
 
-Ned Flanders, I can't believe what you doodily-did for us.
+<person>Ned</person> <person>Flanders</person>, I can't believe what you doodily-did for us.
 
 Well, as the ocean said to the dirt, I appreciate the sediment.
 
@@ -240,29 +242,30 @@ And it was good!
 
 Come on, kids. Let's take our stuff back inside.
 
-<stage>HOMER STUTTERING</stage>
+<stage><person>HOMER</person> STUTTERING</stage>
 
 Better let me go first. I left a little surprise upstairs for the new owner.
 
 <stage>EXCLAIMING ANXIOUSLY</stage>
 
-<stage>SINGING</stage> For he's a fabulous Flanders.
+<stage>SINGING</stage> For he's a fabulous <person>Flanders</person>.
 
 Which nobody can deny.
 
 He saved our ass
 
-Okay, everyone, squeeze in!<stage>CAMERA CLICKS</stage>
+Okay, everyone, squeeze in!
+<stage>CAMERA CLICKS</stage>
 
-<fam>Bart</fam>: Evil triumphs again.
+<fam><person>Bart</person></fam>: Evil triumphs again.
 
-<stage>BART LAUGHS</stage>
+<stage><person>BART</person> LAUGHS</stage>
 
 Ow!
 
 <stage>LAUGHS</stage>
 
-<stage>MARGE HUMMING</stage>
+<stage><person>MARGE</person> HUMMING</stage>
 
 <fam>Homie</fam>, the faucet won't stop leaking.
 
@@ -270,19 +273,19 @@ No problem. Just let Sir Fix-A-Lot slay this chore.
 
 Next problem.
 
-Say, <fam>Homer</fam>, why don't you let me take a peek at that leak?
+Say, <fam><person>Homer</person></fam>, why don't you let me take a peek at that <location>leak</location>?
 
-Ned, please. You're our guest.
+<person>Ned</person>, please. You're our guest.
 
 Well, actually, as your landlord, repairs are my responsibility.
 
 I'll just get my tools.
 
-Try her now, <fam>Marge</fam>.
+Try her now, <fam><person>Marge</person></fam>.
 
 Hot comes out of hot.
 
-It's like I'm dreaming. Thank you, Ned.
+It's like I'm dreaming. Thank you, <person>Ned</person>.
 
 Well, I guess I'd better be...
 
@@ -314,13 +317,13 @@ So unless you have anything else for me...
 
 No, no. I'm just happy I can finally serve this cake.
 
-<stage>MARGE READING</stage>
+<stage><person>MARGE</person> READING</stage>
 
 <stage>TELEPHONE RINGS</stage>
 
 Hello?
 
-Ned, I think we have a gas leak!
+<person>Ned</person>, I think we have a gas <location>leak</location>!
 
 Well, sorry. I just had my glass of warm milk, which means I am closed for business.
 
@@ -328,7 +331,7 @@ He won't come over!
 
 He what?
 
-Flanders, landlords like you are the scum of the earth!
+<person>Flanders</person>, landlords like you are the scum of the <location>earth</location>!
 
 You lounge around in your Ed McMansions and we never see you unless the rent check's late!
 
@@ -340,15 +343,15 @@ The minute you become our landlord, you expect us to pay rent?
 
 You'd better just pray I don't find out where you live!
 
-<fam>Bart</fam>! Don't forget to turn the chicken.
+<fam><person>Bart</person></fam>! Don't forget to turn the chicken.
 
-People like Flanders make me sick.
+People like <person>Flanders</person> make me sick.
 
-If I was <fam>Marge</fam>'s landlord, I'd fix her pipes and I'd shower her with flowers and take her on a romantic getaway to the South Seas and I'd never return.
+If I was <fam><person>Marge</person></fam>'s landlord, I'd fix her pipes and I'd shower her with flowers and take her on a romantic getaway to <location>the South Seas</location> and I'd never return.
 
 Yeah, you'd treat her right.
 
-Well, here's how you get back at Flanders.
+Well, here's how you get back at <person>Flanders</person>.
 
 You go to the media and you get them to expose what a horrible person he really is.
 
@@ -358,19 +361,19 @@ Yeah, three times.
 
 The last one was nominated for a Peabody, whatever that is.
 
-This is Kent Brockman with a Channel 6 exclusive, '"The Evil Ned. '"
+This is Kent Brockman with a Channel 6 exclusive, '"The Evil <person>Ned</person>. '"
 
-742 Evergreen Terrace, a tiny slice of suburban heaven.
+742 <location>Evergreen Terrace</location>, a tiny slice of suburban heaven.
 
 But like dating an actress, what seemed like heaven soon turned to hell.
 
-<fam>Homer</fam>: <stage>DISTORTED</stage> We live in a house that is trying to k*ll us.
+<fam><person>Homer</person></fam>: <stage>DISTORTED</stage> We live in a house that is trying to k*ll us.
 
 Hey, Dad.
 
 I...
 
-Who is this "Dad" you speak of, <fam>Lisa</fam> Simpson?
+Who is this "Dad" you speak of, <fam><person>Lisa</person></fam> Simpson?
 
 You want a cookie, Dad?
 
@@ -382,17 +385,17 @@ Poltergeist in the closet.
 
 <stage>IMITATES GHOST</stage>
 
-I died when <fam>Homer</fam> sat on me.
+I died when <fam><person>Homer</person></fam> sat on me.
 
 <catchphrase>Why you little</catchphrase>...
 
 I'm the victim here!
 
-<stage>HOMER GRUNTING</stage>
+<stage><person>HOMER</person> GRUNTING</stage>
 
 So who is responsible for these outrages?
 
-The man whose side of the story we didn't even bother to get, Ned Flanders, the worst person who ever lived.
+The man whose side of the story we didn't even bother to get, <person>Ned</person> <person>Flanders</person>, the worst person who ever lived.
 
 <stage>DRAMA TIC MUSIC PLA YING</stage>
 
@@ -400,7 +403,7 @@ Let's see what else is on.
 
 Oh, this is good.
 
-<fam>Homer</fam> Simpson, I took pity on you, and what do I get in return?
+<fam><person>Homer</person></fam> Simpson, I took pity on you, and what do I get in return?
 
 A kick in the kadiddle hopper!
 
@@ -418,17 +421,17 @@ We won't do it!
 
 Your leaving is our Christmas!
 
-Flanders, you wouldn't throw us out on Christmas, would you?
+<person>Flanders</person>, you wouldn't throw us out on Christmas, would you?
 
 <stage>GRUNTS ANGRILY</stage>
 
-<stage>HOMER IMITATING GHOST</stage>
+<stage><person>HOMER</person> IMITATING GHOST</stage>
 
 What? Who is that?
 
 It is me, Jesus.
 
-I have come from my workshop in the North Pole to say, don't evict the Simpsons!
+I have come from my workshop in <location>the North Pole</location> to say, don't evict the Simpsons!
 
 Say, Jesus, what was the name of the son of Zachariah?
 
@@ -444,7 +447,7 @@ That's gross.
 
 We're gonna be homeless like Lucille Ball in the Stone Pillow!
 
-Don't worry, <fam>Marge</fam>.
+Don't worry, <fam><person>Marge</person></fam>.
 
 According to this chapter book, we have a secret w*apon.
 
@@ -472,7 +475,7 @@ Attendant: I've already moved on.
 
 <stage>GROANS</stage>
 
-Hey, Flanders. You can't evict us because a senior's living here now!
+Hey, <person>Flanders</person>. You can't evict us because a senior's living here now!
 
 <stage>LAUGHING</stage>
 
@@ -494,9 +497,9 @@ You know, it says here that <fam>Grampa</fam> has to remain in the house, but we
 
 How about a family outing?
 
-Family outing? I'll start. <fam>Lisa</fam>'s gay!
+Family outing? I'll start. <fam><person>Lisa</person></fam>'s gay!
 
-Right. 'Cause I wouldn't want to be gay like my heroes, Billie Jean King, Susan Sontag, Sappho of Lesbos and, I suspect, Peppermint Patty.
+Right. 'Cause I wouldn't want to be gay like my heroes, Billie Jean King, Susan Sontag, Sappho of Lesbos and, I suspect, Peppermint <person>Patty</person>.
 
 Well, I guess we could take a quick walk.
 
@@ -516,7 +519,7 @@ We know, Dad. We were there.
 
 <stage>CHUCKLES</stage> I know it seems that way because I'm such a vivid storyteller.
 
-Now here's another story called "<fam>Bart</fam>'s Mistake."
+Now here's another story called "<fam><person>Bart</person></fam>'s Mistake."
 
 We were walking home when...
 
@@ -526,7 +529,7 @@ How could this have happened?
 
 Because your father lives with me now.
 
-Flanders feeds me people food!
+<person>Flanders</person> feeds me people food!
 
 Well, I can't compete with that.
 
@@ -550,7 +553,7 @@ The clothes they gave us are the clothes we gave to charity last year.
 
 There's a lesson here. Life is fickle.
 
-You should appreciate every... Stop kicking, <fam>Bart</fam>!
+You should appreciate every... Stop kicking, <fam><person>Bart</person></fam>!
 
 But kicking is the only toy I have.
 
@@ -586,7 +589,7 @@ That's just a family who used to make my life interesting.
 
 I'll just add my initials there.
 
-<stage>SINGING</stage> For he's a fabulous Flanders
+<stage>SINGING</stage> For he's a fabulous <person>Flanders</person>
 
 There.
 
@@ -622,14 +625,15 @@ Well, hasn't this been a peach of a breach?
 
 We'll see you in court.
 
-Flanders, I promise I'll never abuse our friendship again.
+<person>Flanders</person>, I promise I'll never abuse our friendship again.
 
 It's okay if you backslide a little.
 
 Never!
 
-Hooray for <catchphrase>stupid Flanders</catchphrase>!
+Hooray for <catchphrase>stupid <person>Flanders</person></catchphrase>!
 
 The Simpsons are back!
 
-I really hate this neighborhood.</txt></xml>
+I really hate this neighborhood.
+</txt></xml>

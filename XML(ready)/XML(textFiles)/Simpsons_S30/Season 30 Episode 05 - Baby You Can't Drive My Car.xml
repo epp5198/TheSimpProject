@@ -39,17 +39,17 @@
 
  - <stage>GASPS</stage>
 
- The high-tech start-up company CarGo is moving to Springfield.
+ The high-tech start-up company CarGo is moving to <location>Springfield</location>.
 
  I'm proud to announce that we b*at out 50 other hopeless cities.
 
- Eat our rust, Toledo.
+ Eat our rust, <location>Toledo</location>.
 
  What does the city gain from this deal?
 
  Jobs, eight to 12 jobs.
 
- Okay, <fam>Marge</fam>, you see that?
+ Okay, <fam><person>Marge</person></fam>, you see that?
 
  It's a sign.
 
@@ -63,7 +63,7 @@
 
  Oh, TV never talks to just me.
 
- <fam>Homer</fam>, CarGo is on the forefront of autonomous vehicle technology.
+ <fam><person>Homer</person></fam>, CarGo is on the forefront of autonomous vehicle technology.
 
  We're looking for highly passive humans to road test our self-driving cars.
 
@@ -145,7 +145,7 @@
 
  Yeah, but 18-core doesn't play nice with the motherboard unless you overclock.
 
- So, <fam>Lisa</fam>, what does that mean?
+ So, <fam><person>Lisa</person></fam>, what does that mean?
 
  - I don't know.
 
@@ -161,7 +161,7 @@
 
  <stage>CHUCKLES</stage>: Kids, kids, you're both stupid in your own special ways.
 
- <fam>Bart</fam>'s much stupider than I am.
+ <fam><person>Bart</person></fam>'s much stupider than I am.
 
  Oh, good girl.
 
@@ -179,7 +179,7 @@
 
  That was so fun.
 
- Thank-thank you, <fam>Marge</fam>.
+ Thank-thank you, <fam><person>Marge</person></fam>.
 
  What?
 
@@ -241,7 +241,7 @@
 
  Mm.
 
- Smithers, what happened to our workers?
+ <person>Smithers</person>, what happened to our workers?
 
  Well, apparently, this new self-driving car company is poaching our employees.
 
@@ -253,7 +253,7 @@
 
  And transgender.
 
- All right, Smithers, what's say you and I go undercover and check out this company.
+ All right, <person>Smithers</person>, what's say you and I go undercover and check out this company.
 
  You're fluent in SQL, Python and JavaScript.
 
@@ -283,7 +283,7 @@
 
  <stage>SNIFFING</stage>
 
- Smithers, do you realize how brilliant this is?
+ <person>Smithers</person>, do you realize how brilliant this is?
 
  Instead of paying them more, they make the workplace pleasant, so the employees never want to leave.
 
@@ -323,7 +323,7 @@
 
  Let's test this out.
 
- Say, <fam>Marge</fam>, I could go for some doughnuts.
+ Say, <fam><person>Marge</person></fam>, I could go for some doughnuts.
 
  - <stage>TIRES SCREECH</stage>
 
@@ -373,7 +373,7 @@
 
  We have lawyers that were crossbred with wolves.
 
- Well, you prepare to hear from a guy pretending to be my lawyer, probably Moe.
+ Well, you prepare to hear from a guy pretending to be my lawyer, probably <person>Moe</person>.
 
  Now I'm gonna defiantly exit on this moving walkway.
 
@@ -381,9 +381,9 @@
 
  I should have gotten off.
 
- So, my client, uh, <fam>Homer</fam> Simpson, is suing youse.
+ So, my client, uh, <fam><person>Homer</person></fam> Simpson, is suing youse.
 
- I am not a pretend attorney, I am <fam>Homer</fam>'s liar lawyer.
+ I am not a pretend attorney, I am <fam><person>Homer</person></fam>'s <location>liar</location> lawyer.
 
  Good-bye.
 
@@ -401,7 +401,7 @@
 
  Look, they take our insurance.
 
- <fam>Marge</fam>, I can't believe they invaded the sanctity of my car.
+ <fam><person>Marge</person></fam>, I can't believe they invaded the sanctity of my car.
 
  I mean, what's next?
 
@@ -421,7 +421,7 @@
 
  Huh?
 
- <fam>Marge</fam>, I can't be the ethical one.
+ <fam><person>Marge</person></fam>, I can't be the ethical one.
 
  ALEXA: That's right, he can't.
 
@@ -433,7 +433,7 @@
 
  Mr.
 
- Burns?
+ <person>Burns</person>?
 
  What are you doing here?
 
@@ -441,7 +441,7 @@
 
  I was in one of those cursed robot cars saying I felt like a poisoned rat.
 
- And you wound up at Moe's.
+ And you wound up at <person>Moe</person>'s.
 
  Well, fancy that.
 
@@ -485,17 +485,17 @@
 
  They'll all stop d*ad, and the company will be ruined.
 
- - MARGE: No, you don't.
+ - <person>MARGE</person>: No, you don't.
 
- - <stage>HOMER GASPS</stage>
+ - <stage><person>HOMER</person> GASPS</stage>
 
- <fam>Homer</fam>, you want to destroy the best thing that ever happened to us?
+ <fam><person>Homer</person></fam>, you want to destroy the best thing that ever happened to us?
 
  Except for the three kids, of course.
 
  Obviously the three kids.
 
- <fam>Marge</fam>, listen to yourself.
+ <fam><person>Marge</person></fam>, listen to yourself.
 
  These cars are stealing our lives.
 
@@ -525,7 +525,7 @@
 
  Um, we call it the unisex voiditorium.
 
- MARGE: What am I doing here?
+ <person>MARGE</person>: What am I doing here?
 
  There.
 
@@ -539,7 +539,7 @@
 
  Allow me.
 
- <fam>Marge</fam>, you've come over to the side of good.
+ <fam><person>Marge</person></fam>, you've come over to the side of good.
 
  That's right, for the first time ever, I'm the lesser of two evils.
 
@@ -577,7 +577,7 @@
 
  - Look, Mr.
 
- Burns, you've see how <fam>Marge</fam> and I work great together.
+ <person>Burns</person>, you've see how <fam><person>Marge</person></fam> and I work great together.
 
  Would you consider hiring her at the power plant?
 
@@ -587,7 +587,7 @@
 
  I don't believe in the perils of personal attraction at the workplace.
 
- - Right, Smithers?
+ - Right, <person>Smithers</person>?
 
  - Ah Unfortunately for you and your family, Simpson, it just registered in my memory that you called me a crazy, wrinkly, short piece of garbage.
 

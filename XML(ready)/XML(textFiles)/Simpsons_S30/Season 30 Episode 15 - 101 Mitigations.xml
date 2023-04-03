@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>03/04/19</date> <runtime>16:38</runtime></metadata>
 
@@ -32,14 +34,14 @@ Refill!
 
 <music>♪ ♪   </music>
 
-HOMER: Kids, is there anything better than when a restaurant misprints a coupon?   
+<person>HOMER</person>: Kids, is there anything better than when a restaurant misprints a coupon?   
 
 - <stage>SNAPS FINGERS</stage>
 - And with the money we saved, your mom is getting a Swedish massage.   
 
 <stage>EXHALES</stage> All the tension's going   
 
-<stage>IN PATTY'S VOICE</stage>: out of my body.   
+<stage>IN <person>PATTY</person>'S VOICE</stage>: out of my body.   
 
 <stage>GUTTURAL MOANS</stage>   
 
@@ -151,7 +153,7 @@ Seafoam. This is what cars used to look like.
 And what the sea used to look like.   
 
 - <stage>TIRES SCREECH</stage>
-- LISA AND BART: Whee!   
+- <person>LISA</person> AND <person>BART</person>: Whee!   
 
 Whoa!   
 
@@ -159,7 +161,7 @@ Put this on the list of things we don't tell your mother.
 
 Including the fact there is a list.   
 
-LISA: Aw, it's over.   
+<person>LISA</person>: Aw, it's over.   
 
 Now, to teach you kids a life lesson.   
 
@@ -221,7 +223,7 @@ I suppose I could allow you to... oh, God!
 
 No!    
 
-My mint condition copy of Radioactive Man number one!    
+My mint condition copy of <person>Radioactive Man</person> number one!    
 
 <stage>GRUNTS</stage>    
 
@@ -244,7 +246,7 @@ Put your arms around me.
 Now, head on my shoulder.
 Yeah... aw, that's nice.    
 
-And don't lean the same way I do    
+And don't <location>lean</location> the same way I do    
 
 <stage>CHUCKLES</stage>: or we're both d*ad.    
 
@@ -305,13 +307,13 @@ This is my Starbucks.
 Two weeks.
 Two weeks to turn this around.    
 
-<fam>Lisa</fam>, can we get the state to change its sentencing guidelines in the next two weeks?    
+<fam><person>Lisa</person></fam>, can we get the state to change its sentencing guidelines in the next two weeks?    
 
 Ah, the legislative calendar is pretty full.    
 
 And they take off the second week for Easter.    
 
-Roman Easter! To the Byzantine world, it's nothing!    
+<location>Roman Easter</location>! To the Byzantine world, it's nothing!    
 
 I'm afraid we have to prepare for the possibility that you might go to prison.    
 
@@ -331,9 +333,9 @@ I've seen things and done things I ain't proud of.
 
 And I'm the chaplain.    
 
-I can't take this, <fam>Marge</fam>.    
+I can't take this, <fam><person>Marge</person></fam>.    
 
-Maybe I can make peace with Comic Book Guy.    
+Maybe I can make peace with <person>Comic Book Guy</person>.    
 
 Do you think so? He's an angry man.    
 
@@ -341,12 +343,12 @@ His favorite thing is Star Wars, and he hates Star Wars.
 
 I'll talk to him.    
 
-Careful, <fam>Marge</fam>.
+Careful, <fam><person>Marge</person></fam>.
 He's a lazy, overweight slob.    
 
 Don't fall in love with him.    
 
-Comic Book Guy, my husband is really sorry.    
+<person>Comic Book Guy</person>, my husband is really sorry.    
 
 Okay, he screwed up.
 But he doesn't belong in prison.    
@@ -383,11 +385,11 @@ Here you go. Five dollars' worth of Little Lulus.
 
 As for you, I am not budging.    
 
-Like the door of Superman's Fortress of Solitude when the Beatles tried to visit. Pure folly.    
+Like the door of <location>Superman's Fortress of Solitude</location> when the Beatles tried to visit. Pure folly.    
 
 That comic is noncanonical.    
 
-The only thing noncanonical in my store is Snoopy dressed as Sgt. Rock for an ill-timed Vietnam w*r ad.    
+The only thing noncanonical in my store is Snoopy dressed as Sgt. Rock for an ill-timed <location>Vietnam</location> w*r ad.    
 
 I see. Well, I'm sorry to have bothered you.    
 
@@ -399,7 +401,7 @@ Oh. That's what being nice gets you.
 
 Mom, Dad, I think I found the answer on the Internet!    
 
-<fam>Lisa</fam>, nothing good ever comes from YouTube.    
+<fam><person>Lisa</person></fam>, nothing good ever comes from YouTube.    
 
 Except ducks eating watermelon.    
 
@@ -409,7 +411,7 @@ People have had their jail terms reduced, or even gotten off death row by produc
 
 Finally, a way for rich people to bend the system their way.    
 
-Mr. Burns got off the hook once by using a video directed by Guillermo del Toro.    
+Mr. <person>Burns</person> got off the hook once by using a video directed by Guillermo del Toro.    
 
 Hello, I am, uh, film director Guillermo del Toro.    
 
@@ -431,7 +433,7 @@ Lesser known but equally horrifying.
 
 Monsters, yes. But they are capable of love. 
 
-Which brings us to Montgomery Burns. 
+Which brings us to Montgomery <person>Burns</person>. 
 
 Oh, hello.    
 
@@ -445,15 +447,15 @@ the bullies that hated him just because he was wealthy.
 
 And maybe he rubbed it in a little. 
 
-But no one knows the real Mr. Burns. 
+But no one knows the real Mr. <person>Burns</person>. 
 
-I love Señor Burns. 
+I love Señor <person>Burns</person>. 
 
 Who are you?    
 
 He combines the ancient evil of Cthulhu with the trim physique of Slender Man.    
 
-Señor Burns demonstrates that in all so-called monsters beats a heart. Thank you for listening.    
+Señor <person>Burns</person> demonstrates that in all so-called monsters beats a heart. Thank you for listening.    
 
 And thank you, Georgia Film Commission, for the   % discount.    
 
@@ -475,7 +477,7 @@ Excuse me.
 
 Ah... you told me you've never been to Missouri.    
 
-You're right, honey. Hollywood can solve anything.    
+You're right, honey. <location>Hollywood</location> can solve anything.    
 
 Except its own lack of creativity and diversity.    
 
@@ -505,22 +507,22 @@ So what is it you're looking for?
 
 Words or something? Uh, human words?    
 
-Okay, uh, <fam>Homer</fam> Simpson, uh, well, real family man.    
+Okay, uh, <fam><person>Homer</person></fam> Simpson, uh, well, real family man.    
 
 Yeah. Always brings his kids into the bar.    
 
 Not one of them aristocrats who gets all bent out of shape when there's a mouse in his beer.    
 
-Hey, Moe. I need you to file a serial number off a wheelchair.    
+Hey, <person>Moe</person>. I need you to file a serial number off a wheelchair.    
 
-HOMER: Cut!    
+<person>HOMER</person>: Cut!    
 
-Hmm... <fam>Homer</fam> Simpson?
+Hmm... <fam><person>Homer</person></fam> Simpson?
 How can I put this?    
 
 Ah, we've never had an employee get rehired so many times.    
 
-<fam>Homer</fam> Simpson has two children enrolled in our school.    
+<fam><person>Homer</person></fam> Simpson has two children enrolled in our school.    
 
 That's all I'm comfortable saying.    
 
@@ -528,17 +530,17 @@ All right, let's see what you got.
 
 I had to edit a little.    
 
-<fam>Homer</fam> Simpson. Family man. 
+<fam><person>Homer</person></fam> Simpson. Family man. 
 
 Happy. Aristocrat. 
 
 Too. Cool. Comfortable. 
 
-<fam>Homer</fam> is a... grace to the family. 
+<fam><person>Homer</person></fam> is a... grace to the family. 
 
 He is an ape... le father. 
 
-I warned <fam>Marge</fam>... marry him. 
+I warned <fam><person>Marge</person></fam>... marry him. 
 
 That's the best you can do? I'm screwed!    
 
@@ -568,7 +570,7 @@ There's a trick that always works with Kevin James.
 
 <music>♪ I think I'll color this man father... ♪    </music>
 
-MARGE: He's a guy who gets off at  :   
+<person>MARGE</person>: He's a guy who gets off at  :   
 
 and comes directly home to be with his kids. 
 
@@ -584,7 +586,7 @@ Helping with the Cub Scouts.
 
 Or just going to the movies. 
 
-This is <fam>Maggie</fam>, our baby.    
+This is <fam><person>Maggie</person></fam>, our baby.    
 
 And she understands what's going on.    
 
@@ -658,7 +660,7 @@ Dad, the computer says...
 
 That computer has brought me nothing but trouble and sports scores while I'm at church!    
 
-A store in Ogdenville just put up the same Radioactive Man comic that we destroyed in perfect condition.    
+A store in Ogdenville just put up the same <person>Radioactive Man</person> comic that we destroyed in perfect condition.    
 
 It's my last hope at freedom.    
 
@@ -684,7 +686,7 @@ And I wasted high school learning German.
 
 Was fur eine Schande! 
 
-Well, German is Earth's closest language to Klingon.    
+Well, German is <location>Earth</location>'s closest language to Klingon.    
 
 Come on in.    
 
@@ -762,7 +764,7 @@ Are you gonna give me anything else?
 
 Nope. One thing.    
 
-<fam>Homer</fam>, when you look at your precious totem there, how does it make you feel?    
+<fam><person>Homer</person></fam>, when you look at your precious totem there, how does it make you feel?    
 
 I never thought of it before.    
 
@@ -814,7 +816,7 @@ No. Not until you hold down Harrison Ford while I clip off his fingernails.
 - What's this?
 - Mitigation video.    
 
-When I first met <fam>Bart</fam>, I was just a nerdy kid with glasses. 
+When I first met <fam><person>Bart</person></fam>, I was just a nerdy kid with glasses. 
 
 But now this blue-haired butterfly's 
 
@@ -822,17 +824,17 @@ ready to emerge from his pupa!
 
 <stage>SIGHS</stage> Simpson, you think this is helping you?    
 
-<stage>BART LAUGHING</stage>    
+<stage><person>BART</person> LAUGHING</stage>    
 
-Skinner's a jerk. Skinner's a jerk. 
+<person>Skinner</person>'s a jerk. <person>Skinner</person>'s a jerk. 
 
-Skinner's a jerk. Skinner's a jerk. 
+<person>Skinner</person>'s a jerk. <person>Skinner</person>'s a jerk. 
 
-Skinner's a jerk. 
+<person>Skinner</person>'s a jerk. 
 
-Skinner's a jerk. 
+<person>Skinner</person>'s a jerk. 
 
-Skinner's a jerk.
+<person>Skinner</person>'s a jerk.
 
 
 </txt></xml>

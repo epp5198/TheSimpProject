@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>12/10/18</date> <runtime>07:58</runtime></metadata>
 
@@ -39,7 +41,7 @@ Happy birthday.
 ALL: Merry Christmas!   
 
 - <stage>SNORING, MUMBLING</stage>
-- <stage>HOMER HUMMING</stage>   
+- <stage><person>HOMER</person> HUMMING</stage>   
 
 <stage>SIGHS</stage> Another Thanksgiving is in the books.   
 
@@ -59,7 +61,7 @@ Oh, you selfish little gangsters.
 
 There's always another shakedown, isn't there?   
 
-What do you know, <fam>Bart</fam>? There's only one present on my list.   
+What do you know, <fam><person>Bart</person></fam>? There's only one present on my list.   
 
 My word, that's reasonable.   
 
@@ -67,7 +69,7 @@ I, too, only found one present to be list-worthy.
 
 Oh, give me the lists.   
 
-<stage>MARGE GROANS</stage>   
+<stage><person>MARGE</person> GROANS</stage>   
 
 We already have a TV.   
 
@@ -79,7 +81,7 @@ And I just want one other smart thing in this house.
 
 Yeah, well, we'll think about it.   
 
-<stage>BART AND LISA HUMMING HAPPILY</stage>   
+<stage><person>BART</person> AND <person>LISA</person> HUMMING HAPPILY</stage>   
 
 I want everything about Christmas to be perfect, but that smart TV the kids want is $ ,   .   
 
@@ -100,7 +102,7 @@ Where have I heard that before?
 
 The kids are chanting it nonstop.   
 
-BART AND LISA: GL    K Smart TV.   
+<person>BART</person> AND <person>LISA</person>: GL    K Smart TV.   
 
 - GL    K Smart TV.
 - Knock it off!   
@@ -144,7 +146,7 @@ I love you, too, <fam>Homie</fam>, but I have to go.
 
 My tongue is frozen to your zipper.   
 
-Aw, <fam>Marge</fam>, great to see you out here.   
+Aw, <fam><person>Marge</person></fam>, great to see you out here.   
 
 You want a Cup O' Noodles to chase away the chill?   
 
@@ -160,7 +162,7 @@ What bargain are you busting down the door for?
 
 I'm getting a Futon Friend for my granddaughter.   
 
-I want her to remember me as more than just a <fam>grandpa</fam> who lives at the airport.   
+I want her to remember me as more than just a <fam><person>grandpa</person></fam> who lives at the airport.   
 
 The trick is to carry a piece of empty luggage because then they... they...   
 
@@ -189,7 +191,7 @@ Hmm? Hmm?
 
 I can do this. It's  :  .   
 
-<fam>Homer</fam>'s gonna be here any minute.   
+<fam><person>Homer</person></fam>'s gonna be here any minute.   
 
 <stage>SNORING</stage>   
 
@@ -202,7 +204,7 @@ I can do this. It's  :  .
 
 <stage>MEOWS</stage>    
 
-Ooh, got to relieve <fam>Marge</fam>!    
+Ooh, got to relieve <fam><person>Marge</person></fam>!    
 
 <stage>SHUDDERS</stage>    
 
@@ -210,7 +212,7 @@ Ooh, got to relieve <fam>Marge</fam>!
 
 My hands are starting to freeze.    
 
-I hope <fam>Homer</fam> gets here soon.    
+I hope <fam><person>Homer</person></fam> gets here soon.    
 
 Why are we standing?    
 
@@ -248,13 +250,13 @@ Have a safe Black Friday, and welcome to Thunderdome.
 
 I'm going to make it.    
 
-GIL: I'm not gonna make it!    
+<person>GIL</person>: I'm not gonna make it!    
 
 Is there one drop of humanity in this big-box store?    
 
 <stage>SHOUTING, GROANING</stage>    
 
-MARGE: Don't look, <fam>Marge</fam>. At any other time of year, 
+<person>MARGE</person>: Don't look, <fam><person>Marge</person></fam>. At any other time of year, 
 
 that man's life would be worth more than a TV, 
 
@@ -274,7 +276,7 @@ This will help raise the little one.
 
 <music>♪ Is e-lectricity, hey! ♪    </music>
 
-You did it, <fam>Marge</fam>.    
+You did it, <fam><person>Marge</person></fam>.    
 
 You've given a poor old man the greatest gift of all,    
 
@@ -288,11 +290,11 @@ I'll give you a hundred bucks for it.
 - Can't say no to that.
 - Oh...    
 
-<stage>MARGE GROANS</stage>    
+<stage><person>MARGE</person> GROANS</stage>    
 
 <stage>TIRES SCREECH</stage>    
 
-Oh! <fam>Marge</fam>, I'm so sorry.
+Oh! <fam><person>Marge</person></fam>, I'm so sorry.
 I didn't mean to let you down.    
 
 I'm not mad at you. I won't let myself be mad at you.    
@@ -316,7 +318,7 @@ But I promise you, Christmas will be better than ever.
 
 I'll sweep that up, sweetie.    
 
-<stage>MARGE GROANS</stage>    
+<stage><person>MARGE</person> GROANS</stage>    
 
 Your mother froze her fingers trying to get a Christmas gift for you,    
 
@@ -377,12 +379,12 @@ I got it! Full price, nonrefundable! Boom!
 
 Christmas is on me. Christmas is on me.    
 
-<fam>Marge</fam>, darling, remember when we agreed you should take it down a few notches?    
+<fam><person>Marge</person></fam>, darling, remember when we agreed you should take it down a few notches?    
 
 Yeah, the notches.
 Always with the notches.    
 
-<fam>Marge</fam>, have you considered that we could spend Christmas somewhere else?    
+<fam><person>Marge</person></fam>, have you considered that we could spend Christmas somewhere else?    
 
 Home.    
 
@@ -397,7 +399,7 @@ We're gonna have to take her out cold.
 <stage>MUTTERS</stage>: You're getting one little... sleeve and there you go.    
 
 - Mom?
-- Yes, <fam>Lisa</fam>? Yes?    
+- Yes, <fam><person>Lisa</person></fam>? Yes?    
 
 - That's not our cat.
 - Damn it.    
@@ -484,7 +486,7 @@ Ooh, that's gonna be a big one.
 
 Oh, I don't know how we're gonna give you kids a Christmas.    
 
-Dad, <fam>Bart</fam>, meet me in the shoilet.    
+Dad, <fam><person>Bart</person></fam>, meet me in the shoilet.    
 
 - <stage>TOILET FLUSHES</stage>
 - <catchphrase>D'oh</catchphrase>!    
@@ -592,7 +594,7 @@ Aw...
 
 Oh, boy. You kids are up early.    
 
-<fam>Bart</fam> and I are going to engage in perhaps the most popular Florida tradition... complaining to the manager.    
+<fam><person>Bart</person></fam> and I are going to engage in perhaps the most popular Florida tradition... complaining to the manager.    
 
 JEANIE: Hey, come on in.    
 
@@ -614,14 +616,14 @@ Well, at least something in this place is clean now.
 
 I've ever been on.    
 
-Where's <fam>Maggie</fam>?    
+Where's <fam><person>Maggie</person></fam>?    
 
 <music>♪ ♪    </music>
 
 Oh, this is so much fun.
 You know how I love history.    
 
-It's like looking at a rogues gallery of America's villains.    
+It's like looking at a rogues gallery of <location>America</location>'s villains.    
 
 According to the soundtrack to Hamilton, you were a real jerk.    
 
@@ -634,13 +636,13 @@ Aw. Are you really having a great time?
 
 Really? Because I sure as heck am not.    
 
-No, I'm FaceTiming Milhouse 'cause it's more fun.    
+No, I'm FaceTiming <person>Milhouse</person> 'cause it's more fun.    
 
 Whassup?    
 
-Milhouse, give me something.    
+<person>Milhouse</person>, give me something.    
 
-I'm trapped in The Hall of Vice Presidents.    
+I'm trapped in <location>The Hall of Vice Presidents</location>.    
 
 Well, I'm kind of the vice president of us.    
 
@@ -648,7 +650,7 @@ Well, I'm kind of the vice president of us.
 
 And we've got to go. Back home.    
 
-We can be in Springfield by Christmas if we can just get our money back.    
+We can be in <location>Springfield</location> by Christmas if we can just get our money back.    
 
 Leave that to me.    
 
@@ -679,7 +681,7 @@ It smells so clean.
 <stage>ENGINE SPUTTERING</stage>    
 
 - <stage>ENGINE STOPS</stage>
-- <stage>MARGE GROANS</stage>    
+- <stage><person>MARGE</person> GROANS</stage>    
 
 <stage>WIND GUSTING</stage>    
 
@@ -687,11 +689,11 @@ It smells so clean.
 
 Oh, my God.    
 
-Moe serves Christmas dinner to the old and needy.    
+<person>Moe</person> serves Christmas dinner to the old and needy.    
 
 Yeah, look, it's the one nice thing I do. Ha.    
 
-Guess old Moe's got a heart.    
+Guess old <person>Moe</person>'s got a heart.    
 
 Also, if I turn the rummy away, they might wind up in church.    
 
@@ -699,7 +701,7 @@ That could turn their life around.
 
 That's bad for business.    
 
-Moe, I never dreamed you were capable of such a sweet thing.    
+<person>Moe</person>, I never dreamed you were capable of such a sweet thing.    
 
 Oh, no... I beg you, don't make a moment out of this.    
 
@@ -719,19 +721,19 @@ The place we went was a dump.
 
 But isn't Christmas really about being with your family and your bartender?    
 
-We have traveled many miles to learn there's no place like Moe's.    
+We have traveled many miles to learn there's no place like <person>Moe</person>'s.    
 
 Amen.    
 
 If you're not going to buy something, leave.    
 
-<fam>Bart</fam>, I disrespected you and I'm sorry.    
+<fam><person>Bart</person></fam>, I disrespected you and I'm sorry.    
 
 I've refunded your money plus $ ,  if you pledge to never come here again.    
 
 And please tell your sister she's pretty.    
 
-Not <fam>Lisa</fam>, the baby.    
+Not <fam><person>Lisa</person></fam>, the baby.    
 
 You can't win in Florida.    
 

@@ -1,10 +1,12 @@
-<xml><txt><metadata><ep><epTitle>In the Name of the Grandfather</epTitle><szn>20</szn>x<epNum>14</epNum></ep><date>03/25/09</date> <runtime>22:15</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>In the Name of the Grandfather</epTitle><szn>20</szn>x<epNum>14</epNum></ep>
+<date>03/25/09</date> <runtime>22:15</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
 <stage>SCHOOL BELL RINGING</stage>
 
-<stage>BARNEY BURPS</stage>
+<stage><person>BARNEY</person> BURPS</stage>
 
 <stage>HORN BELLOWING</stage>
 
@@ -34,7 +36,7 @@ Mom, you said we were going to a videogame expo.
 
 5000.
 
-Please, can I get it, <fam>Marge</fam>? Please, please?
+Please, can I get it, <fam><person>Marge</person></fam>? Please, please?
 
 I can have all my birthday parties in it.
 
@@ -72,9 +74,9 @@ I'm on it.
 
 Go back to your day spas!
 
-<stage>DISCO STU HUMMING</stage>
+<stage><person>DISCO STU</person> HUMMING</stage>
 
-<stage>DISCO STU EXCLAIMS</stage>
+<stage><person>DISCO STU</person> EXCLAIMS</stage>
 
 Maybe we should get out now.
 
@@ -82,7 +84,7 @@ Interesting proposal.
 
 Now with an opposing point of view, bubbles!
 
-<fam>Lisa</fam>: Oh, yeah!
+<fam><person>Lisa</person></fam>: Oh, yeah!
 
 <stage>ALL MOANING HAPPILY</stage>
 
@@ -90,7 +92,7 @@ Now with an opposing point of view, bubbles!
 
 Hey, cool your jets! We're trying to get to sleep!
 
-Hey, Flanders, why don't you join us?
+Hey, <person>Flanders</person>, why don't you join us?
 
 Afraid you'll get your mustache wet?
 
@@ -104,7 +106,7 @@ Mmm-hmm. Mmm-hmm.
 
 <stage>MURMURING CONTENTEDLY</stage>
 
-<stage>NED CONTINUES MURMURING CONTENTEDLY</stage>
+<stage><person>NED</person> CONTINUES MURMURING CONTENTEDLY</stage>
 
 I feel like we're forgetting something.
 
@@ -170,7 +172,7 @@ Anyway, I made a list.
 
 Okay.
 
-<stage>HOMER READING</stage>
+<stage><person>HOMER</person> READING</stage>
 
 "Pitch in the n*gro Leagues."
 
@@ -178,11 +180,11 @@ I can think of at least two problems with that.
 
 Can't read that one. My thumb's over it.
 
-<stage>HOMER READING</stage>
+<stage><person>HOMER</person> READING</stage>
 
 We'll do that one!
 
-<fam>Homer</fam>: This place is in lreland?
+<fam><person>Homer</person></fam>: This place is in lreland?
 
 <fam>Abe</fam>: That's right.
 
@@ -192,7 +194,7 @@ Lousy old man, making me look up at an airplane.
 
 <stage>IRISH FOLK MUSIC PLAYING</stage>
 
-Pilot on P.A.: Welcome to lreland, also known as the Emerald Isle, Potatoville, East Boston, Freckle Bog, the Land of Poetry and the Land of Bad Poetry.
+Pilot on P.A.: Welcome to lreland, also known as <location>the Emerald Isle</location>, Potatoville, <location>East</location> <location>Boston</location>, Freckle Bog, the Land of Poetry and the Land of Bad Poetry.
 
 And on your left, you'll see Western lreland.
 
@@ -222,7 +224,7 @@ Ireland!
 
 <stage>SINGING</stage> Oh, this is the life in lreland
 
-<fam>Lisa</fam>: Dunkilderry is so quaint.
+<fam><person>Lisa</person></fam>: Dunkilderry is so quaint.
 
 It looks like the puzzle at the pediatrician's office.
 
@@ -242,11 +244,11 @@ Plasma screen TV.
 
 Summer in Tuscany.
 
-Well, Ireland is at the forefront of Europe's tech boom.
+Well, Ireland is at the forefront of <location>Europe</location>'s tech boom.
 
 In your face, Belgium!
 
-<fam>Bart</fam>, if you hate Belgium so much, maybe I should take your Tintins away!
+<fam><person>Bart</person></fam>, if you hate Belgium so much, maybe I should take your Tintins away!
 
 No! I'll be good.
 
@@ -280,7 +282,8 @@ Don't you mean "pint"?
 
 It's been so long I've forgotten how to say it!
 
-It's a joke to even call this place a pube.What happened, Tom?
+It's a joke to even call this place a pube.
+What happened, Tom?
 
 Everyone got jobs, that's what happened.
 
@@ -298,7 +301,7 @@ While your father and your grandfather have a drink, we're going to see sights.
 
 Hey, I just spent 10 hours on a plane. I'm staying here.
 
-They've got German Krusty on TV.
+They've got German <person>Krusty</person> on TV.
 
 <stage>GREETING IN GERMAN</stage>
 
@@ -358,7 +361,7 @@ That concludes our tour.
 
 Woman: She is great.
 
-<stage>MARGE HUMMING</stage>
+<stage><person>MARGE</person> HUMMING</stage>
 
 <stage>GROANS</stage>
 
@@ -438,11 +441,11 @@ Thank you, Your Honor.
 
 And may I say, I'm glad I could see lreland again, even if it isn't what I remembered.
 
-It got a lot nicer since we sent all our incompetent half-wits to America where you, for some reason, made them police officers.
+It got a lot nicer since we sent all our incompetent half-wits to <location>America</location> where you, for some reason, made them police officers.
 
 Top of the morning to you.
 
-Chief Clancy Wiggum here to pick up the Simpsons and take them back to the...
+Chief Clancy <person>Wiggum</person> here to pick up the Simpsons and take them back to the...
 
 <stage>EXCLAIMS</stage>
 
@@ -456,4 +459,5 @@ This is Unit One...
 
 <stage>GROANING</stage>
 
-Oh, God.</txt></xml>
+Oh, God.
+</txt></xml>

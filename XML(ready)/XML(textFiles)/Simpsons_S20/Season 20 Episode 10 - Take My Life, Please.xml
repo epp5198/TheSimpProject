@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Take My Life, Please</epTitle><szn>20</szn>x<epNum>10</epNum></ep><date>02/18/09</date> <runtime>20:57</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Take My Life, Please</epTitle><szn>20</szn>x<epNum>10</epNum></ep>
+<date>02/18/09</date> <runtime>20:57</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -8,11 +10,11 @@
 
 <stage>SCHOOL BELL RINGING</stage>
 
-<stage>BARNEY BELCHES</stage>
+<stage><person>BARNEY</person> BELCHES</stage>
 
 <stage>HORN BELLOWING</stage>
 
-<stage>LENNY SHRIEKS</stage>
+<stage><person>LENNY</person> SHRIEKS</stage>
 
 <stage>PLAYING DIFFERENT TUNE</stage>
 
@@ -30,13 +32,13 @@
 
 Aha!
 
-<stage>MARGE GASPS</stage>
+<stage><person>MARGE</person> GASPS</stage>
 
-Today we induct the newest honoree to the Springfield Wall of Fame, who will take his place along such luminaries as Duffman, Poochie and the man who invented the yield sign, Paul Yield.
+Today we induct the newest honoree to the <location>Springfield</location> Wall of Fame, who will take his place along such luminaries as Duffman, <person>Poochie</person> and the man who invented the yield sign, Paul Yield.
 
-Now please welcome the newest inductee into the Springfield Wall of Fame, local businessman, frequent flyer silver cardholder, and legendary 20% tipper, <stage>ALL GASP</stage>
+Now please welcome the newest inductee into the <location>Springfield</location> Wall of Fame, local businessman, frequent flyer silver cardholder, and legendary 20% tipper, <stage>ALL GASP</stage>
 
-Springfield's own Vance Connor!
+<location>Springfield</location>'s own Vance Connor!
 
 <stage>ALL CHEERING</stage>
 
@@ -44,7 +46,7 @@ Hi, hi.
 
 Man: You're better than us!
 
-<fam>Homer</fam>, that guy's your age?
+<fam><person>Homer</person></fam>, that guy's your age?
 
 No, he's ten days younger.
 
@@ -92,7 +94,7 @@ Principal Dondalinger!
 
 Ladies, I've seen him up close. And, yes, his eyes are that green.
 
-Our next candidate is <fam>Homer</fam> Simpson.
+Our next candidate is <fam><person>Homer</person></fam> Simpson.
 
 Please hold your applause forever.
 
@@ -100,7 +102,7 @@ Please hold your applause forever.
 
 My fellow Wildcats.
 
-My name is <fam>Homer</fam> Simpson.
+My name is <fam><person>Homer</person></fam> Simpson.
 
 <stage>LOUDL Y</stage> There are many reasons why I...
 
@@ -168,11 +170,11 @@ Watch, I'll prove it. Angry nut coming through!
 
 Clear a path, boys.
 
-<stage>HOMER MURMURING ANGRILY</stage>
+<stage><person>HOMER</person> MURMURING ANGRILY</stage>
 
 Hey, Vance.
 
-Hey, <fam>Homer</fam> Simpson. How you been?
+Hey, <fam><person>Homer</person></fam> Simpson. How you been?
 
 Great. Thanks. Listen, settle a bet. Behind that smile, you're dying, right?
 
@@ -188,19 +190,19 @@ No. Actually they're like two leather clouds.
 
 Oh!
 
-Got them from a buddy of mine with a store in Shelbyville.
+Got them from a buddy of mine with a store in <location>Shelbyville</location>.
 
 You want his number?
 
 No. Yes.
 
-Hey, <fam>Homer</fam>. You want to try my new Vance Connorpolitan?
+Hey, <fam><person>Homer</person></fam>. You want to try my new Vance Connorpolitan?
 
 Like Vance, it is smooth, cool, and oh so sophisticated.
 
 I'll just stick with my beer.
 
-<fam>Homer</fam>, why are you so down on Vance Connor?
+<fam><person>Homer</person></fam>, why are you so down on Vance Connor?
 
 He gave me one of his kidneys.
 
@@ -210,17 +212,17 @@ Because when Vance b*at me in that election, he ruined my life.
 
 Why did you just exchange that look of guilt?
 
-<stage>SIGHS</stage> Lenny, I think it's time for us to come clean.
+<stage>SIGHS</stage> <person>Lenny</person>, I think it's time for us to come clean.
 
 <stage>SOFTLY</stage> About how we give each other haircuts?
 
 No. We'll take that secret to our graves. I'm talking about... You know.
 
-<stage>CLEARS THROAT</stage> Right. Listen, <fam>Homer</fam>.
+<stage>CLEARS THROAT</stage> Right. Listen, <fam><person>Homer</person></fam>.
 
 Something weird happened back in high school.
 
-Teenage Carl and I were walking down the hallway when...
+Teenage <person>Carl</person> and I were walking down the hallway when...
 
 You two. I want you to take this box and bury it in the woods.
 
@@ -230,7 +232,7 @@ I tell you what. We'll do it under one condition.
 
 Our parents want us to go to college.
 
-But with a bad enough recommendation from you, we can stay here and party.
+But with a bad enough recommendation from you, we can stay here and <location>party</location>.
 
 Okay. But screw this up and it's Carnegie Mellon University for the both of you!
 
@@ -238,11 +240,11 @@ Okay. But screw this up and it's Carnegie Mellon University for the both of you!
 
 So there's a chance I actually won. I gotta dig up that ballot box!
 
-Just let it go, <fam>Homer</fam>.
+Just let it go, <fam><person>Homer</person></fam>.
 
 AI Gore?
 
-<fam>Homer</fam>, I had a presidential election stolen from me. But I moved on.
+<fam><person>Homer</person></fam>, I had a presidential election stolen from me. But I moved on.
 
 And I think you could say everything worked out all right.
 
@@ -250,23 +252,23 @@ Isn't that right, Alfred?
 
 <stage>IN HIGH VOICE</stage> "It sure is, Albert."
 
-<stage>HOMER MUTTERING</stage>
+<stage><person>HOMER</person> MUTTERING</stage>
 
 Ballots stolen. Real winner unknown. What is the truth? I gotta know!
 
-Lenny, wake up!
+<person>Lenny</person>, wake up!
 
 Finally you return my shovel!
 
 That's not why I'm here. Get dressed!
 
-California casual or business attire?
+<location>California</location> casual or business attire?
 
-California casual.
+<location>California</location> casual.
 
-<stage>LENNY GULPS</stage>
+<stage><person>LENNY</person> GULPS</stage>
 
-<stage>HOMER AND LENNY GRUNTING</stage>
+<stage><person>HOMER</person> AND <person>LENNY</person> GRUNTING</stage>
 
 There it is!
 
@@ -274,7 +276,7 @@ The ballot box?
 
 No. This is the box that tells us where the ballot box is.
 
-<stage>LENNY READING</stage>
+<stage><person>LENNY</person> READING</stage>
 
 What will this box reveal?
 
@@ -282,19 +284,19 @@ And what will I use this box for afterwards?
 
 Mismatched nuts and bolts? Recipes? I may never know.
 
-<fam>Lisa</fam>: Vance Connor.
+<fam><person>Lisa</person></fam>: Vance Connor.
 
-<fam>Homer</fam>: <catchphrase>D'oh</catchphrase>!
+<fam><person>Homer</person></fam>: <catchphrase>D'oh</catchphrase>!
 
-<fam>Lisa</fam>: <fam>Homer</fam> Simpson.
+<fam><person>Lisa</person></fam>: <fam><person>Homer</person></fam> Simpson.
 
-<fam>Homer</fam>: Woo-hoo!
+<fam><person>Homer</person></fam>: Woo-hoo!
 
 Vance Connor.
 
 <catchphrase>D'oh</catchphrase>!
 
-<fam>Homer</fam> Simpson.
+<fam><person>Homer</person></fam> Simpson.
 
 Woo-hoo!
 
@@ -302,7 +304,7 @@ Vance Connor.
 
 <catchphrase>D'oh</catchphrase>!
 
-<fam>Homer</fam> Simpson.
+<fam><person>Homer</person></fam> Simpson.
 
 Woo-hoo!
 
@@ -310,21 +312,21 @@ Please stop doing that.
 
 "<catchphrase>D'oh</catchphrase>," or "woo-hoo"?
 
-Both. <fam>Homer</fam> Simpson, Vance Connor, Fonzie, <fam>Homer</fam> Simpson.
+Both. <fam><person>Homer</person></fam> Simpson, Vance Connor, Fonzie, <fam><person>Homer</person></fam> Simpson.
 
-And the winner is <stage>GASPS</stage> <fam>Homer</fam> Simpson.
+And the winner is <stage>GASPS</stage> <fam><person>Homer</person></fam> Simpson.
 
 Yes! I'm senior class president!
 
 I get a parking spot if the assistant principal isn't using it!
 
-<stage>HOMER LAUGHING</stage>
+<stage><person>HOMER</person> LAUGHING</stage>
 
 Wait a second. If I'd been class president like I was supposed to, I'd be the one with the big mansion, and the color TVs, and the hot wife!
 
 Hey!
 
-<fam>Marge</fam>, I still would be married to you, but you would just be hotter.
+<fam><person>Marge</person></fam>, I still would be married to you, but you would just be hotter.
 
 Ohhh!
 
@@ -350,7 +352,7 @@ Wait a minute. You're not in our foursome.
 
 No other foursome would have me. My legs gross people out.
 
-<fam>Homer</fam>: Dondalinger!
+<fam><person>Homer</person></fam>: Dondalinger!
 
 Uh-oh.
 
@@ -374,7 +376,7 @@ With a virgin Tom Collins for me?
 
 <stage>SCOFFS</stage> Virgin. What are you? A girl?
 
-<stage>BART LAUGHS</stage>
+<stage><person>BART</person> LAUGHS</stage>
 
 Now, Dondalinger, I want some answers.
 
@@ -394,7 +396,7 @@ You're telling me lies.
 
 Jive talkin'[/i]
 
-<stage>CHUCKLES</stage> <fam>Homer</fam> Simpson, what a loser!
+<stage>CHUCKLES</stage> <fam><person>Homer</person></fam> Simpson, what a loser!
 
 Hey, what if we got everyone to vote for him as a joke and he won?
 
@@ -420,7 +422,7 @@ I... Why you...
 
 Oh.
 
-<stage>HOMER GRUNTS ANGRILY</stage>
+<stage><person>HOMER</person> GRUNTS ANGRILY</stage>
 
 You are so... I hate you!
 
@@ -448,7 +450,7 @@ I don't feel much like eating.
 
 I'll never know what would've happened if I had been class president.
 
-Luigi: <stage>IN ITALIAN ACCENT</stage> You could know if you dared.
+<person>Luigi</person>: <stage>IN ITALIAN ACCENT</stage> You could know if you dared.
 
 Huh? Who said that?
 
@@ -484,7 +486,7 @@ Cook: Yes, I like to stir.
 
 Your new senior class president is, <stage>BOY LAUGHS</stage>
 
-<stage>SIGHS</stage> <fam>Homer</fam> Simpson.
+<stage>SIGHS</stage> <fam><person>Homer</person></fam> Simpson.
 
 <stage>ALL LAUGHING</stage>
 
@@ -494,11 +496,11 @@ Yeah. A loser like us!
 
 He proves you don't have to be popular to have everyone like you.
 
-<stage>CHANTING</stage> <fam>Homer</fam>! <fam>Homer</fam>! <fam>Homer</fam>!
+<stage>CHANTING</stage> <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>!
 
-Both: <stage>CHANTING</stage> <fam>Homer</fam>! <fam>Homer</fam>!
+Both: <stage>CHANTING</stage> <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>!
 
-All: <fam>Homer</fam>! <fam>Homer</fam>! <fam>Homer</fam>! <fam>Homer</fam>...
+All: <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>! <fam><person>Homer</person></fam>...
 
 <stage>ECHOING</stage>
 
@@ -520,7 +522,7 @@ Come on, stir! I must see more!
 
 <fam>Homie</fam>, please. Nothing good will come of this.
 
-<fam>Marge</fam>, unlike CPR, this is something I must know!
+<fam><person>Marge</person></fam>, unlike CPR, this is something I must know!
 
 Very well. Now we must once more stare madly into the sauce.
 
@@ -532,7 +534,7 @@ Mr. President, do you approve of the bailout of the French Club?
 
 They're too big to fail.
 
-<fam>Homer</fam>, do you have a date for the prom yet?
+<fam><person>Homer</person></fam>, do you have a date for the prom yet?
 
 Sorry. The only girl I could ever want is right over there.
 
@@ -542,11 +544,11 @@ Hey, Debbie. Want to go to prom with me?
 
 Well, I'm engaged to the quarterback, but yes!
 
-Forget it, <fam>Marge</fam>.
+Forget it, <fam><person>Marge</person></fam>.
 
-A girl like you could never land a <fam>Homer</fam> Simpson.
+A girl like you could never land a <fam><person>Homer</person></fam> Simpson.
 
-<fam>Lisa</fam>: Aha!
+<fam><person>Lisa</person></fam>: Aha!
 
 So Dad's life would actually have been worse because he wouldn't have gotten together with Mom, his one true love.
 
@@ -554,11 +556,11 @@ Just keep watching the sauce, girlie.
 
 <stage>BAND PLAYING SOFT INSTRUMENTAL MUSIC</stage>
 
-<stage>HOMER SIGHS</stage>
+<stage><person>HOMER</person> SIGHS</stage>
 
 I got the biggest lapels, the ruffliest shirt, and the most beautiful girl.
 
-Thank you, <fam>Homer</fam>.
+Thank you, <fam><person>Homer</person></fam>.
 
 Debbie, I forgot I have an English paper due on Monday.
 
@@ -570,9 +572,9 @@ Nobody's ever asked me to use my head brain before.
 
 <stage>ALL CLAPPING</stage>
 
-<fam>Homer</fam> Simpson, class president.
+<fam><person>Homer</person></fam> Simpson, class president.
 
-<fam>Marge</fam>: Oh, my God! He's talking to me!
+<fam><person>Marge</person></fam>: Oh, my God! He's talking to me!
 
 A lot of great things have happened to me lately.
 
@@ -582,13 +584,13 @@ May I have this dance?
 
 Only if it lasts forever.
 
-<fam>Homer</fam> Simpson! I was gonna let you get to fifth base!
+<fam><person>Homer</person></fam> Simpson! I was gonna let you get to fifth base!
 
 It would've been something you told your grandchildren about!
 
 Sorry, Debbie. I hope you can find happiness without me.
 
-<stage>HOMER HUMMING</stage>
+<stage><person>HOMER</person> HUMMING</stage>
 
 Who wants a cheerleader on the rebound?
 
@@ -596,13 +598,13 @@ I do! Right.
 
 I can hardly believe this is real.
 
-<fam>Marge</fam>, the way I feel about you is as real and lasting as my hairline.
+<fam><person>Marge</person></fam>, the way I feel about you is as real and lasting as my hairline.
 
 <stage>EXCLAIMS</stage> Who's that side of beef munching on our sister?
 
 I don't know. But in this reality I am not gay. Hubba hubba!
 
-<fam>Homer</fam>: Sweet dreams.
+<fam><person>Homer</person></fam>: Sweet dreams.
 
 Young man, you have the noble bearing of the Barbarian leader Vercingetorix.
 
@@ -624,11 +626,11 @@ Let the Lennys and the Carls of the world waste their wretched lives in that tes
 
 Son, you'll be working in sector 6F!
 
-<fam>Lisa</fam>: Aha!
+<fam><person>Lisa</person></fam>: Aha!
 
 So Dad's life would've been the same!
 
-He would've married Mom and worked for Mr. Burns.
+He would've married Mom and worked for Mr. <person>Burns</person>.
 
 It would've been a push.
 
@@ -636,7 +638,7 @@ Can you keep her quiet?
 
 Not even when she's snorkeling.
 
-I was describing beautiful fish, <fam>Bart</fam>!
+I was describing beautiful fish, <fam><person>Bart</person></fam>!
 
 <stage>COOK SIGHS</stage>
 
@@ -676,7 +678,7 @@ I don't know. But he's algae-fying.
 
 Okay.
 
-<stage>HOMER SIGHS</stage>
+<stage><person>HOMER</person> SIGHS</stage>
 
 Dad, we need to have a talk.
 
@@ -702,7 +704,7 @@ Look who thinks he's smarter than sauce.
 
 Sweetheart, I think you'd feel better after we take a little walk.
 
-<fam>Homer</fam>: Why would you bring me here?
+<fam><person>Homer</person></fam>: Why would you bring me here?
 
 It's like bringing Richard Nixon to the Watergate, or Kevin Costner to Waterworld.
 
@@ -724,7 +726,7 @@ Really? Sure.
 
 Dad, do you think I could be elected class president?
 
-Well, we can't all be <fam>Homer</fam> Simpson, son.
+Well, we can't all be <fam><person>Homer</person></fam> Simpson, son.
 
 Thanks, guys.
 
@@ -740,4 +742,5 @@ God, no!
 
 I hear there's a Korean barbecue place where the beef spells out the date of your death.
 
-Whoo! That sounds like fun!</txt></xml>
+Whoo! That sounds like fun!
+</txt></xml>

@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Four Great Women and a Manicure</epTitle><szn>20</szn>x<epNum>20</epNum></ep><date>05/14/09</date> <runtime>01:03</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Four Great Women and a Manicure</epTitle><szn>20</szn>x<epNum>20</epNum></ep>
+<date>05/14/09</date> <runtime>01:03</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -28,9 +30,9 @@ No! A husband!
 
 The year was 1588, 400 years before Kirk Gibson would hit his famous home run.
 
-Queen Elizabeth ruled over all of England.
+Queen Elizabeth ruled over all of <location>England</location>.
 
-Every eligible bachelor in Europe wanted her hand in marriage.
+Every eligible bachelor in <location>Europe</location> wanted her hand in marriage.
 
 Majesty, thy suitors await.
 
@@ -40,7 +42,7 @@ So you can pump out a son and then I don't gotta work for no broad no more.
 
 My liege.
 
-Announcing Prince Ralph of Austria!
+Announcing Prince <person>Ralph</person> of Austria!
 
 Off with my head!
 
@@ -82,7 +84,7 @@ A hundred and twenty of the finest k*ll machines ever built.
 
 Ooh! Not bad. Not bad at all. Now take me to the real ones.
 
-Those are the real ones. "Watch out, England."
+Those are the real ones. "Watch out, <location>England</location>."
 
 <stage>IN ENGLISH ACCENT</stage> "No! Have mercy, my lord!"
 
@@ -102,7 +104,7 @@ Ooh!
 
 You have the strength of a plow horse but the charm of a cart horse.
 
-Selma: Treason!
+<person>Selma</person>: Treason!
 
 How dare you make out under my crenelations while I make out not? Don't you know that I love you?
 
@@ -122,7 +124,7 @@ It's you, Your Majesty.
 
 <stage>CLEARS THROAT</stage>
 
-The Spanish Armada sails for England.
+The Spanish Armada sails for <location>England</location>.
 
 Armada? What's "armada"?
 
@@ -140,7 +142,7 @@ Come, Tea Biscuit.
 
 The time of battle grows nigh.
 
-Moe: So here's us, and a whole lot of them.
+<person>Moe</person>: So here's us, and a whole lot of them.
 
 It's probably a little too early to be standing under this.
 
@@ -162,7 +164,7 @@ And I grant you two my blessing.
 
 Your Majesty, it's so kind of you to give up the one man you truly loved.
 
-I don't need a man. For I have England!
+I don't need a man. For I have <location>England</location>!
 
 Yeah. You keep telling yourself that.
 
@@ -172,7 +174,7 @@ You keep soaking. We're going to Koo Koo Roo.
 
 Which in our language means nothing.
 
-<fam>Lisa</fam>, you are going to look so pretty.
+<fam><person>Lisa</person></fam>, you are going to look so pretty.
 
 Thank you.
 
@@ -192,11 +194,11 @@ Are there any dwarves in your story?
 
 Yes. But they're my own original creation.
 
-There's Crabby, Drunky, Hungry, Greedy, Lenny...
+There's Crabby, Drunky, Hungry, Greedy, <person>Lenny</person>...
 
-Kearney!
+<person>Kearney</person>!
 
-<fam>Lisa</fam>: And Doc... tor Hibbert.
+<fam><person>Lisa</person></fam>: And Doc... tor Hibbert.
 
 <stage>CHUCKLING</stage>
 
@@ -307,7 +309,8 @@ She could be anyone.
 
 I'll be careful.
 
-<stage>LAUGHS</stage><stage>BIRDS CHIRPING</stage>
+<stage>LAUGHS</stage>
+<stage>BIRDS CHIRPING</stage>
 
 No, no, no! That's too much! Go back outside!
 
@@ -337,7 +340,7 @@ Herbivores! I'm so scared!
 
 <stage>SCREAMING</stage>
 
-<fam>Lisa</fam>: So Snow White slept and waited for her prince to come.
+<fam><person>Lisa</person></fam>: So Snow White slept and waited for her prince to come.
 
 But he never did.
 
@@ -365,7 +368,7 @@ This number is for emergencies only.
 
 He who laughs last laughs d*ad.
 
-"In last night's Macbeth, "the best performance was Barney Gumble as Duncan, "followed by Duffman as Macduff, Lenny Leonard as Lennox, "Eddie and Lou as the two soldiers without lines, "then last, and least, the lead, <fam>Homer</fam> Simpson."
+"In last night's Macbeth, "the best performance was <person>Barney</person> Gumble as Duncan, "followed by Duffman as Macduff, <person>Lenny</person> Leonard as Lennox, "<person>Eddie</person> and <person>Lou</person> as the two soldiers without lines, "then last, and least, the <location>lead</location>, <fam><person>Homer</person></fam> Simpson."
 
 Why do they write a new review of this play every single day?
 
@@ -393,7 +396,7 @@ Why did he have to k*ll everyone in their costumes?
 
 It was you who k*ll us! You!
 
-No! It was <fam>Homer</fam>!
+No! It was <fam><person>Homer</person></fam>!
 
 Your dark ambition guided his m*rder hand!
 
@@ -415,7 +418,7 @@ That's where you're wrong. Get out on that stage!
 
 <stage>GRUNTS IN PAIN</stage>
 
-Okay, <fam>Homer</fam>. It's our last performance.
+Okay, <fam><person>Homer</person></fam>. It's our last performance.
 
 You're the only actor that's still alive, and there's nobody in the audience.
 
@@ -443,7 +446,7 @@ Life's but a walking shadow, a poor player that struts and frets his hour upon t
 
 Now nothing will stop you from taking on all of Shakespeare's greatest roles.
 
-King Lear, Hamlet, Othello, Richard III, Henry IV, Part One, Henry IV, Part Two, Henry V, Titus Andronicus...
+King <location>Lear</location>, Hamlet, Othello, Richard III, Henry IV, Part One, Henry IV, Part Two, Henry V, Titus Andronicus...
 
 <stage>g*n</stage>
 
@@ -451,11 +454,11 @@ Me having to read all those plays would be the real tragedy.
 
 That's it. Three stories. That's all we always tell.
 
-Looks like <fam>Maggie</fam> wants a story, too.
+Looks like <fam><person>Maggie</person></fam> wants a story, too.
 
 Ooh!
 
-<stage>MARGE READING</stage>
+<stage><person>MARGE</person> READING</stage>
 
 Mom! Isn't that book the Bible of right-wing losers?
 
@@ -463,11 +466,11 @@ Yeah. But the guy on the book jacket is one sexy slice of beefcake.
 
 <stage>GROWLS PLAYFULLY</stage>
 
-So anyway, this is the story of <fam>Maggie</fam> Roarke, an architect who refused to compromise.
+So anyway, this is the story of <fam><person>Maggie</person></fam> Roarke, an architect who refused to compromise.
 
 Now children, while I do traffic school online, you'll be playing with blocks.
 
-<fam>Marge</fam>: <fam>Maggie</fam>'s genius and creativity far exceeded that of the others.
+<fam><person>Marge</person></fam>: <fam><person>Maggie</person></fam>'s genius and creativity far exceeded that of the others.
 
 And I'm not just saying that because I'm her mother.
 
@@ -475,7 +478,7 @@ But her teacher, Mr. Elsworth Toohey, wanted every child to conform.
 
 Banal. Very banal. Wonderfully pedestrian.
 
-This isn't right. <fam>Maggie</fam>, dancers shouldn't kick too high, and buildings mustn't reach the sky.
+This isn't right. <fam><person>Maggie</person></fam>, dancers shouldn't kick too high, and buildings mustn't reach the sky.
 
 <stage>GRUNTS</stage>
 
@@ -487,11 +490,11 @@ Your rubble is still a little bit higher than the others, so let's just...
 
 There. Welcome to the real world, baby.
 
-<fam>Marge</fam>: He would not let <fam>Maggie</fam>'s creativity flower.
+<fam><person>Marge</person></fam>: He would not let <fam><person>Maggie</person></fam>'s creativity flower.
 
 Mediocrity rules!
 
-All right, <fam>Maggie</fam>. Today is parent/teacher day, so I want everyone to see how uncreative and beaten down you've become.
+All right, <fam><person>Maggie</person></fam>. Today is parent/teacher day, so I want everyone to see how uncreative and beaten down you've become.
 
 That's right. You're beaten down. Yes, you are.
 
@@ -533,7 +536,7 @@ And now, if the court will allow me, it's naptime.
 
 <stage>YAWNS</stage>
 
-<fam>Marge</fam>: <fam>Maggie</fam> grew up to be a world-famous architect.
+<fam><person>Marge</person></fam>: <fam><person>Maggie</person></fam> grew up to be a world-famous architect.
 
 Her building became one of the wonders of the world.
 
@@ -541,7 +544,7 @@ And on the very top floor was a daycare center, where every child was free to fo
 
 Because nothing is...
 
-<stage>GASPS</stage> <fam>Maggie</fam>, get away from there!
+<stage>GASPS</stage> <fam><person>Maggie</person></fam>, get away from there!
 
 Bad baby!
 
@@ -557,4 +560,5 @@ Ho-hi, ho-hi, there's nothing we won't try.
 
 We'll get take-out and then make out.
 
-We're bi, we're bi, we're bi, we're bi</txt></xml>
+We're bi, we're bi, we're bi, we're bi
+</txt></xml>

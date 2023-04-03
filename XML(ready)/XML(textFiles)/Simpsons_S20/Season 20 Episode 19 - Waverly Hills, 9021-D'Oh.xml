@@ -1,4 +1,6 @@
-<xml><txt><metadata><ep><epTitle>Waverly Hills, 9021-<catchphrase>D'Oh</catchphrase></epTitle><szn>20</szn>x<epNum>19</epNum></ep><date>05/07/09</date> <runtime>05:26</runtime></metadata>
+<xml><txt>
+<metadata><ep><epTitle>Waverly Hills, 9021-<catchphrase>D'Oh</catchphrase></epTitle><szn>20</szn>x<epNum>19</epNum></ep>
+<date>05/07/09</date> <runtime>05:26</runtime></metadata>
 
 <stage>SINGING</stage> <music>♪ The Simpsons ♪ </music>
 
@@ -14,7 +16,7 @@
 
 Care to try our new sciencewater?
 
-<fam>Marge</fam>: The label is all in lower case.
+<fam><person>Marge</person></fam>: The label is all in lower case.
 
 It's like drinking e.e. Cummings.
 
@@ -58,7 +60,7 @@ Language!
 
 Schools have bathrooms. And I'm a woman, so my going in unattended won't cause a panic.
 
-<stage>MARGE HUMMING</stage>
+<stage><person>MARGE</person> HUMMING</stage>
 
 Hey, Mrs. Simpson.
 
@@ -66,7 +68,7 @@ Janey.
 
 <stage>SIGHS HAPPILY</stage>
 
-That's <fam>Bart</fam>'s class.
+That's <fam><person>Bart</person></fam>'s class.
 
 <stage>SNORING</stage>
 
@@ -82,13 +84,13 @@ That's an awfully crowded classroom.
 
 Three, two, one.
 
-Okay, children, I've just been granted tenure, so I'm gonna sit back and let Ralph teach for awhile.
+Okay, children, I've just been granted tenure, so I'm gonna sit back and let <person>Ralph</person> teach for awhile.
 
 <stage>CLEARS THROAT</stage>
 
 Class, in what year was one plus one?
 
-The answer is the Amazing Ralph!
+The answer is the Amazing <person>Ralph</person>!
 
 The only person getting an education here today was me, in how bad it is!
 
@@ -106,9 +108,9 @@ And because of cutbacks, they were combining math with P.E.
 
 They were playing dodgebook!
 
-Look at this. Springfield Elementary's rating is so low, it's more than two standard deviations below the norm!
+Look at this. <location>Springfield Elementary</location>'s rating is so low, it's more than two standard deviations below the norm!
 
-I can't understand that math reference because I went to Springfield Elementary!
+I can't understand that math reference because I went to <location>Springfield Elementary</location>!
 
 My cousin goes to a much better school. He lives in Waverly Hills.
 
@@ -144,7 +146,7 @@ What about my friends?
 
 Oh! Elementary school friends, those are forever!
 
-You're always gonna be friends with Milhouse!
+You're always gonna be friends with <person>Milhouse</person>!
 
 20 or 30 years!
 
@@ -154,7 +156,7 @@ Where am I?
 
 Wow! Your first day at the new school.
 
-<fam>Lisa</fam>, have fun. <fam>Bart</fam>, don't.
+<fam><person>Lisa</person></fam>, have fun. <fam><person>Bart</person></fam>, don't.
 
 <stage>GASPS</stage>
 
@@ -162,7 +164,7 @@ Look at this place. It's everything I've ever dreamed of.
 
 On campus s*ab!
 
-Field trips to Europe!
+Field trips to <location>Europe</location>!
 
 Oh, my God. Look what they serve in the cafeteria.
 
@@ -172,17 +174,17 @@ Ooh! A doctorate!
 
 Wait! Don't matriculate those students!
 
-Principal Skinner?
+Principal <person>Skinner</person>?
 
-We need <fam>Lisa</fam> Simpson at Springfield Elementary.
+We need <fam><person>Lisa</person></fam> Simpson at <location>Springfield Elementary</location>.
 
 She's our top student and she writes the fun facts in the morning announcements.
 
-Skinner!
+<person>Skinner</person>!
 
 Bettelheim.
 
-Superintendent Chalmers! What are you doing at another school?
+<person>Superintendent Chalmers</person>! What are you doing at another school?
 
 Seymour, as superintendent, I supervise every school in the district.
 
@@ -224,9 +226,9 @@ Hi, newbie. I'm Caitlin with a "C."
 
 This is Kaitlyn with a "K." And this is Kate Lynn, two words.
 
-<stage>LAUGHING AWKWARDLY</stage> I'm <fam>Lisa</fam>, one word.
+<stage>LAUGHING AWKWARDLY</stage> I'm <fam><person>Lisa</person></fam>, one word.
 
-So, <fam>Lisa</fam>, what's your favorite Alaska Nebraska song?
+So, <fam><person>Lisa</person></fam>, what's your favorite Alaska Nebraska song?
 
 Mine's Touch a Star.
 
@@ -258,15 +260,16 @@ At my old school, I got so many A's, the teachers didn't even check my work!
 
 Maybe that's why you got so many A's.
 
-Oh, my God. You've been challenged. Well, <fam>Lisa</fam>, let's see how you respond.
+Oh, my God. You've been challenged. Well, <fam><person>Lisa</person></fam>, let's see how you respond.
 
 <stage>CRYING</stage>
 
-<fam>Bart</fam>, at this school, I'm not a brain, I'm not popular, I'm not anything!
+<fam><person>Bart</person></fam>, at this school, I'm not a brain, I'm not popular, I'm not anything!
 
 Not to worry. At this school, we've got a clean slate.
 
-In fact, I'm establishing my cred right now.<stage>SIREN WAILS</stage>
+In fact, I'm establishing my cred right now.
+<stage>SIREN WAILS</stage>
 
 Clancy: Got you!
 
@@ -274,7 +277,7 @@ Hey!
 
 Come on!
 
-Take this as a warning, kids. <fam>Bart</fam> Simpson is the ultimate bad boy.
+Take this as a warning, kids. <fam><person>Bart</person></fam> Simpson is the ultimate bad boy.
 
 Befriend him and you'll wind up just like him, a rebel who does what he wants when he wants.
 
@@ -284,13 +287,13 @@ Girl: He's so bad!
 
 Okay, I held up my side of the bargain.
 
-Now you have to go to Ralphie's birthday party.
+Now you have to go to Ralphie's birthday <location>party</location>.
 
 A deal's a deal.
 
 And you'll stay till we cut the cake.
 
-Fine. I want one gift bag now, and one when the party's over.
+Fine. I want one gift bag now, and one when the <location>party</location>'s over.
 
 Fine, you got it.
 
@@ -298,11 +301,11 @@ Big Tony: You wanted a powwow, Chief?
 
 I know you been dealing drugs at the high school.
 
-But I'll look the other way if you come to Ralphie's party.
+But I'll look the other way if you come to Ralphie's <location>party</location>.
 
 I ain't gonna pin no tail on no donkey!
 
-Look, just come to the party. It's gonna be fun.
+Look, just come to the <location>party</location>. It's gonna be fun.
 
 Batman's gonna be there!
 
@@ -330,7 +333,7 @@ You're that bad boy.
 
 What do you want from us, bad boy?
 
-Don't tell anyone but my sister <fam>Lisa</fam> is best friends with Alaska Nebraska.
+Don't tell anyone but my sister <fam><person>Lisa</person></fam> is best friends with Alaska Nebraska.
 
 Get out of here!
 
@@ -340,19 +343,19 @@ You so lie!
 
 She didn't even know who Alaska Nebraska was.
 
-Duh! She said that because she respects Alaska's privacy, just as I have no doubt you guys will respect <fam>Lisa</fam>'s privacy.
+Duh! She said that because she respects Alaska's privacy, just as I have no doubt you guys will respect <fam><person>Lisa</person></fam>'s privacy.
 
 <stage>CHUCKLES</stage>
 
 We're approaching bandwidth overload, sir.
 
-It's gossip at Waverly Elementary.
+It's gossip at <location>Waverly Elementary</location>.
 
 How juicy is it?
 
 The juiciest!
 
-Hi, <fam>Lisa</fam>.
+Hi, <fam><person>Lisa</person></fam>.
 
 Hi, Caitlin.
 
@@ -360,7 +363,7 @@ She knows my name!
 
 No, she knows my name!
 
-<fam>Bart</fam>, your plan worked.
+<fam><person>Bart</person></fam>, your plan worked.
 
 My plan was to lie, lie like hell, and that's what I did.
 
@@ -378,13 +381,13 @@ Get him and string him up!
 
 <stage>HUMMING</stage>
 
-<fam>Homer</fam>: It's open.
+<fam><person>Homer</person></fam>: It's open.
 
-<fam>Marge</fam>, I'm glad you came! There's a kegger down the hall.
+<fam><person>Marge</person></fam>, I'm glad you came! There's a kegger down the hall.
 
 We can go as soon as I desecrate this corpse.
 
-I'm sorry, <fam>Marge</fam>. Where are my manners?
+I'm sorry, <fam><person>Marge</person></fam>. Where are my manners?
 
 Did you want to taunt my k*ll, also? Press the X button.
 
@@ -444,7 +447,7 @@ How about you, me and my wife have a two-way?
 
 Hi.
 
-<fam>Lisa</fam>, I re-graded your paper from the other day and you got an A.
+<fam><person>Lisa</person></fam>, I re-graded your paper from the other day and you got an A.
 
 Really?
 
@@ -464,7 +467,7 @@ I didn't think I'd get a fresh start like this till junior high.
 
 <stage>EXCLAIMING IN FRENCH</stage>
 
-Even the Ralph of this school speaks French.
+Even the <person>Ralph</person> of this school speaks French.
 
 <stage>BIDDING FAREWELL IN FRENCH</stage>
 
@@ -594,13 +597,13 @@ It went back.
 
 City inspector.
 
-I'm here to verify that this is the residence of <fam>Bart</fam> and <fam>Lisa</fam> Simpson.
+I'm here to verify that this is the residence of <fam><person>Bart</person></fam> and <fam><person>Lisa</person></fam> Simpson.
 
 <catchphrase>D'oh</catchphrase>!
 
 Hello, friendos.
 
-Here comes <fam>Lisa</fam> with our backstage passes.
+Here comes <fam><person>Lisa</person></fam> with our backstage passes.
 
 Yay!
 
@@ -614,13 +617,13 @@ Yes, I lied to you. But you only liked me because of a lie.
 
 So if you think about it...
 
-Get the liar!
+Get the <location>liar</location>!
 
 Those are last year's shoes!
 
 k*ll her!
 
-Also, it's <fam>Lisa</fam>!
+Also, it's <fam><person>Lisa</person></fam>!
 
 k*ll her twice!
 
@@ -644,7 +647,7 @@ Mom! Dad! I have to leave Waverly Hills and never come back!
 
 I gotta get back, too!
 
-I just remembered I was playing hide and seek with Milhouse.
+I just remembered I was playing hide and seek with <person>Milhouse</person>.
 
 Three weeks? This has gotta be some kind of record!
 
@@ -660,13 +663,13 @@ Why do you watch comedies if you don't want to hear more jokes?
 
 Please. I just want to go back to a place where I'm ostracized for being me, not for who I pretend to be.
 
-What do you think, <fam>Marge</fam>? Maybe we've outgrown our first apartment.
+What do you think, <fam><person>Marge</person></fam>? Maybe we've outgrown our first apartment.
 
 Yeah. A house in the suburbs does sound pretty nice right now, although I am gonna miss our little love nest.
 
 Get a room!
 
-<fam>Homer</fam>: Come on, boy. Be cool.
+<fam><person>Homer</person></fam>: Come on, boy. Be cool.
 
 But...
 
@@ -688,4 +691,5 @@ Get education fraudulently.
 
 Gimme gimme Gimme gimme.
 
-Mooching off Waverly Hills</txt></xml>
+Mooching off Waverly Hills
+</txt></xml>

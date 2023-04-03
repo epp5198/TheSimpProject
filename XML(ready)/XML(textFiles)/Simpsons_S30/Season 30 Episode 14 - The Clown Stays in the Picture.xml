@@ -5,12 +5,14 @@
 
 
 
-
 
 
 
 
-
+
+
+
+
 
 <date>02/18/19</date> <runtime>12:41</runtime></metadata>
 
@@ -22,7 +24,7 @@ A truck broke down, and the cops are taking their sweet time clearing it up.
 
 <stage>LAUGHING</stage> He thinks my tummy is a mountain.  
 
-Lou, Lou, quick, take a selfie.  
+<person>Lou</person>, <person>Lou</person>, quick, take a selfie.  
 
 It's not a selfie if I take it.  
 
@@ -32,13 +34,13 @@ Take a selfie! Take a selfie!
 
 Oh, man, my phone's d*ad.   
 
-Milhouse, what am I missing in the group text?   
+<person>Milhouse</person>, what am I missing in the group text?   
 
 It's awesome.   
 
 You're never gonna get caught up.   
 
-<stage>BART GROANS</stage>   
+<stage><person>BART</person> GROANS</stage>   
 
 What kind of jazz you listening to, stupid or boring?   
 
@@ -52,13 +54,13 @@ Lame, lame, don't know her.
 
 Loudon Wainwright, lame, lame.   
 
-<stage>GASPS</stage> This guy interviewed Krusty?   
+<stage>GASPS</stage> This guy interviewed <person>Krusty</person>?   
 
 Yeah. Hey, no, aw, that's my ear bu... Ew.   
 
 It's yours now.   
 
-MARC MARON: Wow. That's incredible, Krusty. 
+MARC MARON: Wow. That's incredible, <person>Krusty</person>. 
 
 I mean, really, I'm blown away.   
 
@@ -75,7 +77,7 @@ Oh, right, so that's how you make yourself feel safe.
 
 It's not the crust; it's the fillings.   
 
-Krusty, I got to ask you about something, and-and I don't want you to get defensive, but it's something you've never talked about.   
+<person>Krusty</person>, I got to ask you about something, and-and I don't want you to get defensive, but it's something you've never talked about.   
 
 Can you tell me about The Sands of Space? 
 
@@ -94,7 +96,7 @@ Okay, okay, I'll tell you about The Sands of Space, the movie that almost consum
 
 I'm just feeding the cats.   
 
-<stage>LOUDLY</stage>: It all began back in the golden age of Hollywood,   
+<stage>LOUDLY</stage>: It all began back in the golden age of <location>Hollywood</location>,   
 
 the late     s, when high concept was king. 
 
@@ -124,9 +126,9 @@ Dog Cop!
 
 <stage>GRUNTING</stage>   
 
-KRUSTY: Suddenly, everyone in town 
+<person>KRUSTY</person>: Suddenly, everyone in town 
 
-was dying to be in the Krusty business, 
+was dying to be in the <person>Krusty</person> business, 
 
 and I was dipping shrimp with all the big talents 
 
@@ -134,7 +136,7 @@ I once longed to see fail.
 
 And, of course, what the studio wanted most was a sequel. 
 
-Okay, Krusty, we've got   
+Okay, <person>Krusty</person>, we've got   
 
 Good Cop, Dog Cop  : Golden Revolver all lined up.   
 
@@ -154,7 +156,7 @@ This is my next movie.
 
 The Sands of Space? 
 
-Krusty, are you kidding me?   
+<person>Krusty</person>, are you kidding me?   
 
 This is the most famously un-filmable book in history.   
 
@@ -186,7 +188,7 @@ We hire a has-been to direct it and never-wases to do everything else.
 
 After it b*mb, that clown will come scooting his butt back here to make all the Dog Cop movies we want. Two more.    
 
-KRUSTY: The Sands of Space was a go, 
+<person>KRUSTY</person>: The Sands of Space was a go, 
 
 and the studio hired the least-qualified crew 
 
@@ -220,13 +222,13 @@ Now, move it out!
 
 <music>♪ ♪    </music>
 
-HOMER: Why are we stopping? 
+<person>HOMER</person>: Why are we stopping? 
 
-SKINNER: Oh, the bus has been leaking oil for miles. 
+<person>SKINNER</person>: Oh, the bus has been leaking oil for miles. 
 
 Look behind us. 
 
-HOMER: Those things were literal? 
+<person>HOMER</person>: Those things were literal? 
 
 <music>♪ ♪    </music>
 
@@ -254,7 +256,7 @@ Laser cars, girls with octopus arms, zip zap glip glorp, and it's in the can.
 
 Look, you no-talent bag of wrinkles.    
 
-Go back to whatever Toluca Lake drunk t*nk they fished you out of, because you're not getting anywhere near my movie!    
+Go back to whatever <location>Toluca Lake</location> drunk t*nk they fished you out of, because you're not getting anywhere near my movie!    
 
 <stage>BLOWS NOSE</stage>    
 
@@ -279,7 +281,7 @@ No, because this story must be told.
 
 This is so exciting.    
 
-Krusty's got the passion and vision to make this movie great.    
+<person>Krusty</person>'s got the passion and vision to make this movie great.    
 
 <stage>SOBBING</stage> 
 
@@ -310,7 +312,7 @@ You got your ad in for Dollar Doorknob Club.
 
 Now, let me talk.    
 
-KRUSTY: They say in Hollywood, "Nobody knows anything." 
+<person>KRUSTY</person>: They say in <location>Hollywood</location>, "Nobody knows anything." 
 
 Well, I knew a lot less than that. 
 
@@ -327,7 +329,7 @@ Either way, I don't got no hot dogs, so, uh, which is it?
 
 Do you want the space ship doors to open like, "Zzztt-zzztt," "ppswishh" or "wahh-wahh"?    
 
-Judd Nelson won't come out of his trailer.    
+Judd <person>Nelson</person> won't come out of his trailer.    
 
 Christian Slater won't go back into his trailer.    
 
@@ -417,11 +419,11 @@ So? We got plenty of them.
 
 That's why they're called "extras," right?    
 
-<stage>KRUSTY GRUNTING</stage>    
+<stage><person>KRUSTY</person> GRUNTING</stage>    
 
 You tell that lox to go to acting school and work there as a janitor.    
 
-Krusty loves what you're doing. Same energy, little quicker.    
+<person>Krusty</person> loves what you're doing. Same energy, little quicker.    
 
 Tell him to sod off.    
 
@@ -436,7 +438,7 @@ That butt double for the action scene, that butt double for the love scene. Let'
 
 <music>♪ ♪    </music>
 
-Sorry I'm late, but Krusty and I were storyboarding tomorrow's shots.    
+Sorry I'm late, but <person>Krusty</person> and I were storyboarding tomorrow's shots.    
 
 Close-up, medium, long, long, establishing, close,    
 
@@ -444,7 +446,7 @@ POV, wide, and then... get this... medium.
 
 You've been so busy with that director, I never see you.    
 
-Krusty needs me. He's under so much pressure.    
+<person>Krusty</person> needs me. He's under so much pressure.    
 
 You wouldn't believe how much directing dust he's sniffing.    
 
@@ -491,11 +493,11 @@ I've been going back and forth all night. Which is better?
 - Did you get one with "Hello"?
 - <stage>SCREAMS</stage>    
 
-I'm sorry, I was with <fam>Homer</fam>, my boyfriend.    
+I'm sorry, I was with <fam><person>Homer</person></fam>, my boyfriend.    
 
 Boyfriend? You can't have a boyfriend. I want you!    
 
-Krusty!    
+<person>Krusty</person>!    
 
 Not like a lady.    
 
@@ -503,15 +505,15 @@ Like a "mother slash therapist slash rabbi" who xeroxes things.
 
 Dump the boyfriend.    
 
-I believe in this movie, but I also believe in <fam>Homer</fam> and <fam>Marge</fam>.    
+I believe in this movie, but I also believe in <fam><person>Homer</person></fam> and <fam><person>Marge</person></fam>.    
 
-Me, I'm <fam>Marge</fam>.    
+Me, I'm <fam><person>Marge</person></fam>.    
 
-Oh, yes, <fam>Marge</fam>. <fam>Marge</fam>, I knew that.    
+Oh, yes, <fam><person>Marge</person></fam>. <fam><person>Marge</person></fam>, I knew that.    
 
-<fam>Marge</fam>. <fam>Marge</fam>.    
+<fam><person>Marge</person></fam>. <fam><person>Marge</person></fam>.    
 
-I'm not going to break up with <fam>Homer</fam>. He's my soul mate.    
+I'm not going to break up with <fam><person>Homer</person></fam>. He's my soul mate.    
 
 Hmm. You know what? I get it.    
 
@@ -537,7 +539,7 @@ Surprise me.
 
 
 
-<stage>HOMER GRUNTS, MARGE GASPS</stage>    
+<stage><person>HOMER</person> GRUNTS, <person>MARGE</person> GASPS</stage>    
 
 <stage>LAUGHS</stage>    
 
@@ -551,29 +553,29 @@ Where does that jealousy come from?
 
 How would I know? I fired my shrink after I found out she was seeing other patients. Anyway...    
 
-KRUSTY: I made sure the boyfriend 
+<person>KRUSTY</person>: I made sure the boyfriend 
 
 had all the most dangerous jobs on the set. 
 
 I'm out of breakfast burritos.    
 
 - <stage>OVERLAPPING SHOUTING</stage>
-- <stage>HOMER SCREAMS</stage>    
+- <stage><person>HOMER</person> SCREAMS</stage>    
 
 <stage>TIRES SCREECH</stage>    
 
 Bring in the stunt dummy.    
 
-<stage>HOMER SCREAMS</stage>    
+<stage><person>HOMER</person> SCREAMS</stage>    
 
 - <stage>THUD</stage>
-- <stage>HOMER GRUNTS</stage>    
+- <stage><person>HOMER</person> GRUNTS</stage>    
 
 Perfect. Let's get one more for safety.    
 
 I'm telling you, your crazy boss is out to get me.    
 
-No, he's not. Krusty loves our relationship.    
+No, he's not. <person>Krusty</person> loves our relationship.    
 
 Every day, he says it would be a shame if something happened to you, then laughs and laughs.    
 
@@ -625,7 +627,7 @@ And technically, it's "cacti."
 
 Why should I climb out of here and have you?    
 
-<fam>Marge</fam> spends all her time taking care of that needy clown.    
+<fam><person>Marge</person></fam> spends all her time taking care of that needy clown.    
 
 I thought I was her passion project.    
 
@@ -637,7 +639,7 @@ You know, someday you might appreciate a wife who's developed empathy and patien
 
 I don't think we'll ever be born.    
 
-Sorry, <fam>Maggie</fam>.    
+Sorry, <fam><person>Maggie</person></fam>.    
 
 Eat my thorns. <stage>HUMS</stage>    
 
@@ -662,11 +664,11 @@ And you remembered all your lines.
 
 Aw, thanks...    
 
-<fam>Marge</fam>.    
+<fam><person>Marge</person></fam>.    
 
 You've helped me become what every director should be: an amiable guy who makes everyone suffer through his hellish process.    
 
-<fam>Homer</fam>'s been kidnapped.    
+<fam><person>Homer</person></fam>'s been kidnapped.    
 
 - <stage>GASPS</stage>
 - There's a note.    
@@ -690,7 +692,7 @@ Back to work.
 
 No. This crew looks after its own.    
 
-We're gonna save <fam>Homer</fam>, and I don't care how much golden time they have to pay us.    
+We're gonna save <fam><person>Homer</person></fam>, and I don't care how much golden time they have to pay us.    
 
 We don't have a million-dollar ransom, but we do have one thing: movie magic.    
 
@@ -723,7 +725,7 @@ Stop sh**ting. Stop sh**ting. Cut!
 
 Okay, that's a five.    
 
-We don't have your million dollars, but we can give you something much more valuable: a Hollywood movie.    
+We don't have your million dollars, but we can give you something much more valuable: a <location>Hollywood</location> movie.    
 
 All we want back is the lowliest member of our crew.    
 
@@ -735,11 +737,11 @@ No, no! You can't give away my masterwork.
 
 "There's a light that shines from star to star, from soul to soul, connecting everyone in the universe."    
 
-Be the man who believes in those words, and let the light between me and <fam>Homer</fam> give life to our universe.    
+Be the man who believes in those words, and let the light between me and <fam><person>Homer</person></fam> give life to our universe.    
 
 Gentlemen, the film is yours.    
 
-You're a good man, Krusty.    
+You're a good man, <person>Krusty</person>.    
 
 Only when I'm with you, which is why I never want to see you again.    
 
@@ -763,9 +765,9 @@ Do you like hot cashews but don't have the time to heat them up?
 
 If the 'Shew heats, eat it!    
 
-<stage>KRUSTY GROANS</stage>    
+<stage><person>KRUSTY</person> GROANS</stage>    
 
-- BART: Mom! Dad!
+- <person>BART</person>: Mom! Dad!
 - You guys never told us you worked on a movie together.    
 
 So that's why you've been wearing that crew jacket all these years.    
@@ -783,7 +785,7 @@ Long days, stupid fights you don't remember, but damn good breakfasts.
 A good breakfast can get you through a lot.    
 
 But what happened to the movie?
-Did Krusty ever see it?    
+Did <person>Krusty</person> ever see it?    
 
 I don't know. I guess we'll never know.    
 
