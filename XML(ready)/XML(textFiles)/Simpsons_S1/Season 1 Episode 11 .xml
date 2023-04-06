@@ -1,6 +1,7 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
-<ep><epTitle>The Crepes of Wrath</epTitle><szn>01</szn>x<epNum>11</epNum></ep>
-<stage>FADE IN</stage>
+<metadata><ep><epTitle>The Crepes of Wrath</epTitle><szn>01</szn>x<epNum>11</epNum></ep>
+<stage>FADE IN</stage></metadata>
 
 <fam><person>Bart</person></fam> walks in through the main door, eating a candy bar and carrying his skateboard.
 

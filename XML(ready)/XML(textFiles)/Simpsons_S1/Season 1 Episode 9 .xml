@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Life on the Fast Lane</epTitle><szn>01</szn>x<epNum>09</epNum></ep>
 <date>05/20/98</date> <runtime>14:47</runtime></metadata>

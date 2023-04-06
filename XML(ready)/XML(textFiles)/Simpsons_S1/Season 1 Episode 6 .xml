@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Moaning <fam><person>Lisa</person></fam></epTitle><szn>01</szn>x<epNum>06</epNum></ep>
 <date>05/19/98</date> <runtime>04:21</runtime></metadata>

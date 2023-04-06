@@ -1,7 +1,8 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 
-<ep><epTitle>Some Enchanted Evening</epTitle><szn>01</szn>x<epNum>13</epNum></ep>
-<stage>FADE IN</stage>
+<metadata><ep><epTitle>Some Enchanted Evening</epTitle><szn>01</szn>x<epNum>13</epNum></ep>
+<stage>FADE IN</stage></metadata>
 
 An outside sh*t of the Simpsons house.
 

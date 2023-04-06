@@ -1,13 +1,13 @@
 start = xml
 xml = element xml {txt}
-txt = element txt {metadata,  mixed{(stage | fam |music | catchphrase)*}}
+txt = element txt {metadata?,  mixed{(stage | fam |music | catchphrase | person | location)*}}
 # ebb: I'm setting mixed content (text showing up anywhere around this mix of possible elements) because it allows text as a child
 # of the root element. That matches your document structure I think? 
-metadata = element metadata {ep, date, runtime}
+metadata = element metadata {mixed {ep | date* | runtime? | stage*}}
 date = element date {text}
 runtime = element runtime {text}
-
-ep = element ep {mixed{(epTitle, szn, epNum)+}}
+# ep: need to fix elements 'runtime' and 'date' within 'metadata'
+ep = element ep {mixed{(epTitle, szn, epNum)*}}
 # Before you were only permitting either text OR one of these elements, but you have all of them.
 # Writing mixed{} content with a parenthetical grouping like this and using 
 # mixed{(epTitle, szn, epNum)+ means you expect the elements each to appear in exactly that sequence.
@@ -19,10 +19,13 @@ ep = element ep {mixed{(epTitle, szn, epNum)+}}
 # not at all!
 
 
-epTitle = element epTitle {mixed{fam*}}
+epTitle = element epTitle {mixed{fam* | location* | person*}}
 szn = element szn {text}
 epNum = element epNum {text}
-stage = element stage {text}
-fam = element fam {text}
-music = element music {text}
+stage = element stage {mixed {fam* | location* | person*}}
+fam = element fam {text | person*}
+music = element music {mixed {stage* | location* | fam*}}
 catchphrase = element catchphrase {text}
+person = element person {text}
+location = element location {text}
+# ep: add person and location elements to the schema
