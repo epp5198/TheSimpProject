@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Double, Double, Boy in Trouble</epTitle><szn>20</szn>x<epNum>03</epNum></ep>
 <date>10/23/08</date> <runtime>15:23</runtime></metadata>

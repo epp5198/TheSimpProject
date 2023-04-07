@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>The Wizard of <location>Evergreen Terrace</location></epTitle><szn>10</szn>x<epNum>02</epNum></ep>
 <date>09/25/98</date> <runtime>19:09</runtime></metadata>

@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Wild Barts Can't Be Broken</epTitle><szn>10</szn>x<epNum>11</epNum></ep>
 <date>01/22/99</date> <runtime>22:04</runtime></metadata>

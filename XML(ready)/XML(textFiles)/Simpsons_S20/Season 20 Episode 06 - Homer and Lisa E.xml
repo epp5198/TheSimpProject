@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle><fam><person>Homer</person></fam> and <fam><person>Lisa</person></fam> Exchange Cross Words</epTitle><szn>20</szn>x<epNum>06</epNum></ep>
 <date>11/20/08</date> <runtime>05:22</runtime></metadata>

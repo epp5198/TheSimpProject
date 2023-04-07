@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>The Old Man and the</epTitle><szn>10</szn>x<epNum>20</epNum></ep>
 <date>04/30/99</date> <runtime>12:13</runtime></metadata>

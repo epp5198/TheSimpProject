@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Mayored to the Mob</epTitle><szn>10</szn>x<epNum>09</epNum></ep>
 <date>12/25/98</date> <runtime>15:10</runtime></metadata>

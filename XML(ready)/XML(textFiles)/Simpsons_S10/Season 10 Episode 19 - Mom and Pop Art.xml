@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Mom and Pop Art</epTitle><szn>10</szn>x<epNum>19</epNum></ep>
 <date>04/15/99</date> <runtime>23:30</runtime></metadata>

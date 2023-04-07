@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Lost Verizon</epTitle><szn>20</szn>x<epNum>02</epNum></ep>
 <date>10/09/08</date> <runtime>01:23</runtime></metadata>

@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Monty Can't Buy Me Love</epTitle><szn>10</szn>x<epNum>21</epNum></ep>
 <date>05/07/99</date> <runtime>19:56</runtime></metadata>

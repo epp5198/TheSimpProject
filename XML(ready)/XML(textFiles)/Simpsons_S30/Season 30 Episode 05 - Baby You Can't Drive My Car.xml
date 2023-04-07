@@ -1,7 +1,8 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 
-
-<date>02/28/19</date> <runtime>06:43</runtime>
+<metadata>
+<date>02/28/19</date> <runtime>06:43</runtime></metadata>
 
 <catchphrase>D'oh</catchphrase>!
 

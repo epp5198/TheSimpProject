@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Make Room For <fam><person>Lisa</person></fam></epTitle><szn>10</szn>x<epNum>16</epNum></ep>
 <date>03/05/99</date> <runtime>15:53</runtime></metadata>

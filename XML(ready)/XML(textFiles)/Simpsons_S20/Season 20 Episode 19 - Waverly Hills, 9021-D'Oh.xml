@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Waverly Hills, 9021-<catchphrase>D'Oh</catchphrase></epTitle><szn>20</szn>x<epNum>19</epNum></ep>
 <date>05/07/09</date> <runtime>05:26</runtime></metadata>

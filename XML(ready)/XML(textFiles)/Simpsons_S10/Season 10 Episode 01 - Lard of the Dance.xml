@@ -1,3 +1,4 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><txt>
 <metadata><ep><epTitle>Lard of the Dance</epTitle><szn>10</szn>x<epNum>01</epNum></ep>
 <date>08/28/98</date> <runtime>17:19</runtime></metadata>
