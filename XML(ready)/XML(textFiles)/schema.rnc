@@ -18,7 +18,7 @@ ep = element ep {mixed{(epTitle, szn, epNum)*}}
 # not at all!
 
 
-epTitle = element epTitle {mixed{fam* | location* | person* | catchphrase*}}
+epTitle = element epTitle {mixed {fam* , person* , catchphrase* , location*}}
 szn = element szn {text}
 epNum = element epNum {text}
 stage = element stage {mixed {fam* , location* , person*}}
@@ -27,4 +27,4 @@ music = element music {mixed {stage* , location* , fam* , person*}}
 catchphrase = element catchphrase {mixed {person*}}
 person = element person {text}
 location = element location {text}
-# ep: 
+# ep: location within epTitle
