@@ -27,4 +27,3 @@ music = element music {mixed {stage* , location* , fam* , person*}}
 catchphrase = element catchphrase {mixed {person*}}
 person = element person {text}
 location = element location {text}
-# ep: location within epTitle
