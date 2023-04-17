@@ -11,3 +11,13 @@ SIMPSONS GRAPH IDEAS
 5.) Name of each episode on a Holiday (date : 12/25: Episode-Name: Bart's Very Merry Christmas)
 
 6.) Finding Bart Pranks Calls to Moe
+
+7.) Finding everytime each of the many characters show up (whole show)
+
+9.) Finding the top mentioned locations (whole show)
+
+10.) Sort by runtime by epnum (might be difficult)
+
+11.) Find how many musical instances per season
+
+12.) stage actions per season
