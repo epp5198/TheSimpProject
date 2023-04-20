@@ -1,129 +1,254 @@
-
-        <svg viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
-            <style type="text/css">
-                .bar {
-                    fill: #6ab04c;
-                    transition: fill 0.3s ease-in-out;
-                }
-                .bar:hover {
-                    fill: #c0504d;
-                }
-                .axis {
-                    font-family: sans-serif;
-                    font-size: 14px;
-                    fill: #333;
-                }
-                .title {
-                    font-family: sans-serif;
-                    font-size: 18px;
-                    font-weight: bold;
-                    fill: #333;
-                    text-anchor: middle;
-                }
-                .label {
-                    font-family: sans-serif;
-                    font-size: 12px;
-                    fill: #333;
-                    text-anchor: middle;
-                }
-            </style>
-            <rect x="50" y="50" width="600" height="400" fill="#f2f2f2" stroke="#ccc" rx="10" />
-            <text x="350" y="30" class="title">Simpsons Family Count</text>
-            <line x1="50" y1="450" x2="650" y2="450" stroke="#ccc" />
-            <line x1="50" y1="50" x2="50" y2="450" stroke="#ccc" />
-            <text x="350" y="480" class="axis">Family</text>
-            <text x="25" y="250" class="axis" transform="rotate(-90,25,250)">Count</text>
-            <rect x="90" y="280" width="80" height="5835" class="bar" />
-            <text x="130" y="320" class="label">Homer</text>
-            <rect x="200" y="200" width="80" height="2830" class="bar" />
-            <text x="240" y="190" class="label">Marge</text>
-            <rect x="310" y="220" width="80" height="4380" class="bar" />
-            <text x="350" y="210" class="label">Bart</text>
-            <rect x="420" y="150" width="80" height="2555" class="bar" />
-            <text x="460" y="140" class="label">Lisa</text>
-            <rect x="530" y="180" width="80" height="630" class="bar" />
-            <text x="570" y="170" class="label">Maggie</text>
-            <rect x="640" y="260" width="80" height="415" class="bar" />
-            <text x="680" y="250" class="label">Abe</text>
-        </svg>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <rect width="100%" height="100%" fill="lightgray" />
+    <g transform="translate(200, 40)">
+        <!-- x-axis bar -->
+        <line x1="0" y1="220" x2="5505" y2="220" stroke="black" stroke-width="5" />
+        <!-- y-axis bar -->
+        <line x1="0" y1="0" x2="0" y2="220" stroke="black" stroke-width="5" />
+        <text x="-50" y="120" transform="rotate(-90)" font-size="24px" font-family="Arial">Quantity</text>
+        <text x="2255" y="300" font-size="24px" font-family="Arial">Fruits and Characters</text>
+        <title id="title">A bart chart showing information</title>
+        <g class="bar">
+            <rect width="500" height="19" fill="green" />
+            <text x="525" y="9.5" dy=".35em" font-size="16px" font-family="Arial">Homer (5628)</text>
+        </g>
+        <g class="bar">
+            <rect width="245" height="19" y="20" fill="blue" />
+            <text x="85" y="28" dy=".35em" font-size="16px" font-family="Arial">Bart (2460)</text>
+        </g>
+        <g class="bar">
+            <rect width="150" height="19" y="40" fill="red" />
+            <text x="150" y="48" dy=".35em" font-size="16px" font-family="Arial">15 kiwis</text>
+        </g>
+        <g class="bar">
+            <rect width="160" height="19" y="60" fill="orange" />
+            <text x="161" y="68" dy=".35em" font-size="16px" font-family="Arial">16 oranges</text>
+        </g>
+        <g class="bar">
+            <rect width="230" height="19" y="80" fill="purple" />
+            <text x="235" y="88" dy=".35em" font-size="16px" font-family="Arial">23 lemons</text>
+        </g>
+    </g>
+</svg>
+
+
+
+
+
+<!--<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="45%" height="50%">
+    <title>My Fruit Consumption Chart</title>
+    <g transform="translate(200, 40)">
+        <!-\- x-axis bar -\->
+        <line x1="0"
+            y1="220"
+            x2="5505"
+            y2="220"
+            stroke="black"
+            stroke-width="5"/>
+        <text x="250" y="240" text-anchor="end">Count</text>
+        
+        <!-\- y-axis bar -\->
+        <line x1="0"
+            y1="0"
+            x2="0"
+            y2="220"
+            stroke="black"
+            stroke-width="5"/>
+        <text x="-20" y="100" text-anchor="end">Family</text>
+        
+        <g class="bar">
+            <rect width="500" height="19"></rect>
+            <text x="525" y="9.5" dy=".35em">Homer (5628)</text>
+        </g>
+        <g class="bar">
+            <rect width="245" height="19" y="20"></rect>
+            <text x="85" y="28" dy=".35em">Bart (2460)</text>
+        </g>
+        <g class="bar">
+            <rect width="150" height="19" y="40"></rect>
+            <text x="150" y="48" dy=".35em">15 kiwis</text>
+        </g>
+        <g class="bar">
+            <rect width="160" height="19" y="60"></rect>
+            <text x="161" y="68" dy=".35em">16 oranges</text>
+        </g>
+        <g class="bar">
+            <rect width="230" height="19" y="80"></rect>
+            <text x="235" y="88" dy=".35em">23 lemons</text>
+        </g>
+    </g>
+</svg>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <g transform="translate(200, 40)"><!-\- x-axis bar -\->
+        <line x1="0"
+            y1="220"
+            x2="5505"
+            y2="220"
+            stroke="black"
+            stroke-width="5"/>
+        <!-\- y-axis bar -\->
+        <line x1="0"
+            y1="0"
+            x2="0"
+            y2="220"
+            stroke="black"
+            stroke-width="5"/>
+        
+        
+            <title id="title">A bart chart showing information</title>
+            <g class="bar">
+                <rect width="500" height="19"></rect>
+                <text x="525" y="9.5" dy=".35em">Homer (5628)</text>
+            </g>
+            <g class="bar">
+                <rect width="245" height="19" y="20"></rect>
+                <text x="85" y="28" dy=".35em">Bart (2460)</text>
+            </g>
+            <g class="bar">
+                <rect width="150" height="19" y="40"></rect>
+                <text x="150" y="48" dy=".35em">15 kiwis</text>
+            </g>
+            <g class="bar">
+                <rect width="160" height="19" y="60"></rect>
+                <text x="161" y="68" dy=".35em">16 oranges</text>
+            </g>
+            <g class="bar">
+                <rect width="230" height="19" y="80"></rect>
+                <text x="235" y="88" dy=".35em">23 lemons</text>
+            </g>
+            </g>
+    </svg>-->
+        
+        
+        
+        
+        <!--<g id="homer">
+            <line x1="0"
+                y1="20"
+                x2="5505"
+                y2="20"
+                stroke="red"
+                stroke-width="5"/>
+            <text x="-10" y="25" class="legend-label" text-anchor="end">HOMER</text>
+            <text x="5510" y="25" class="legend-value">1101</text>
+        </g>
+        <g id="marge">
+            <line x1="0"
+                y1="40"
+                x2="2830"
+                y2="40"
+                stroke="green"
+                stroke-width="5"/>
+            <text x="-10" y="45" class="legend-label" text-anchor="end">MARGE</text>
+            <text x="2835" y="45" class="legend-value">566</text>
+        </g>
+        <g id="bart">
+            <line x1="0"
+                y1="60"
+                x2="4375"
+                y2="60"
+                stroke="blue"
+                stroke-width="5"/>
+            <text x="-10" y="65" class="legend-label" text-anchor="end">BART</text>
+            <text x="4380" y="65" class="legend-value">875</text>
+        </g>
+        <g id="lisa">
+            <line x1="0"
+                y1="80"
+                x2="2385"
+                y2="80"
+                stroke="orange"
+                stroke-width="5"/>
+            <text x="-10" y="85" class="legend-label" text-anchor="end">LISA</text>
+            <text x="2390" y="85" class="legend-value">477</text>
+        </g>
+        <g id="maggie">
+            <line x1="0"
+                y1="100"
+                x2="630"
+                y2="100"
+                stroke="black"
+                stroke-width="5"/>
+            <text x="-10" y="105" class="legend-label" text-anchor="end">MAGGIE</text>
+            <text x="635" y="105" class="legend-value">126</text>
+        </g>
+        <g id="homie">
+            <line x1="0"
+                y1="120"
+                x2="330"
+                y2="120"
+                stroke="purple"
+                stroke-width="5"/>
+            <text x="-10" y="125" class="legend-label" text-anchor="end">HOMIE</text>
+            <text x="335" y="125" class="legend-value">66</text>
+        </g>
+        <g id="grampa">
+            <line x1="0"
+                y1="140"
+                x2="135"
+                y2="140"
+                stroke="aqua"
+                stroke-width="5"/>
+            <text x="-10" y="145" class="legend-label" text-anchor="end">GRAMPA</text>
+            <text x="140" y="145" class="legend-value">27</text>
+        </g>
+        <g id="lis">
+            <line x1="0"
+                y1="160"
+                x2="85"
+                y2="160"
+                stroke=""
+                stroke-width="5"/>
+            <text x="-10" y="165" class="legend-label" text-anchor="end">LIS</text>
+            <text x="90" y="165" class="legend-value">17</text>
+        </g>
+        <g id="grandpa">
+            <line x1="0"
+                y1="180"
+                x2="55"
+                y2="180"
+                stroke=""
+                stroke-width="5"/>
+            <text x="-10" y="185" class="legend-label" text-anchor="end">GRANDPA</text>
+            <text x="60" y="185" class="legend-value">11</text>
+        </g>
+        <g id="abe">
+            <line x1="0"
+                y1="200"
+                x2="225"
+                y2="200"
+                stroke=""
+                stroke-width="5"/>
+            <text x="-10" y="205" class="legend-label" text-anchor="end">ABE</text>
+            <text x="230" y="205" class="legend-value">45</text>
+        </g>
+        <g id="bartholomew">
+            <line x1="0"
+                y1="220"
+                x2="5"
+                y2="220"
+                stroke=""
+                stroke-width="5"/>
+            <text x="-10" y="225" class="legend-label" text-anchor="end">BARTHOLOMEW</text>
+            <text x="10" y="225" class="legend-value">1</text>
+        </g>
+    </g>
+</svg>
+-->

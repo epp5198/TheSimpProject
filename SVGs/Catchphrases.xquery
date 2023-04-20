@@ -22,7 +22,7 @@ declare variable $distCatches := $simpsonsAll//catchphrase ! normalize-space() !
 
 return 
     <g id="{$d}">
-        
+       
         <line x1 = '{0}' y1 ='{$pos * $ySpacer}'  x2= '{$xSpacer * $countThisCatch}' y2="{$pos * $ySpacer}" stroke='{$colors[position() = $pos]}' stroke-width='5'/>
         
     

@@ -1,58 +1,58 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-    <head>
-        <title>SimpsonsFamilyCount</title>
-    </head>
-    <body>
-        
-        <svg viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
-            <style type="text/css">
-                .bar {
-                    fill: #6ab04c;
-                    transition: fill 0.3s ease-in-out;
-                }
-                .bar:hover {
-                    fill: #c0504d;
-                }
-                .axis {
-                    font-family: sans-serif;
-                    font-size: 14px;
-                    fill: #333;
-                }
-                .title {
-                    font-family: sans-serif;
-                    font-size: 18px;
-                    font-weight: bold;
-                    fill: #333;
-                    text-anchor: middle;
-                }
-                .label {
-                    font-family: sans-serif;
-                    font-size: 12px;
-                    fill: #333;
-                    text-anchor: middle;
-                }
-            </style>
-            <rect x="50" y="50" width="600" height="400" fill="#f2f2f2" stroke="#ccc" rx="10" />
-            <text x="350" y="30" class="title">Simpsons Family Count</text>
-            <line x1="50" y1="450" x2="650" y2="450" stroke="#ccc" />
-            <line x1="50" y1="50" x2="50" y2="450" stroke="#ccc" />
-            <text x="350" y="480" class="axis">Family</text>
-            <text x="25" y="250" class="axis" transform="rotate(-90,25,250)">Count</text>
-            <rect x="90" y="280" width="80" height="5835" class="bar" />
-            <text x="130" y="320" class="label">Homer</text>
-            <rect x="200" y="200" width="80" height="2830" class="bar" />
-            <text x="240" y="190" class="label">Marge</text>
-            <rect x="310" y="220" width="80" height="4380" class="bar" />
-            <text x="350" y="210" class="label">Bart</text>
-            <rect x="420" y="150" width="80" height="2555" class="bar" />
-            <text x="460" y="140" class="label">Lisa</text>
-            <rect x="530" y="180" width="80" height="630" class="bar" />
-            <text x="570" y="170" class="label">Maggie</text>
-            <rect x="640" y="260" width="80" height="415" class="bar" />
-            <text x="680" y="250" class="label">Abe</text>
-        </svg>
-    </body>
+<head>
+    <title>WEE</title>
+    <style>
+        .bar {
+            fill: steelblue;
+        }
+    </style>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+<body>
+<svg width="600" height="500"></svg>
+<script>
+var svg = d3.select("svg"),
+            margin = 200,
+            width = svg.attr("width") - margin,
+            height = svg.attr("height") - margin
+
+
+var xScale = d3.scaleBand().range([0, width]).padding(0.4),
+            yScale = d3.scaleLinear().range([height, 0]);
+
+var g = svg.append("g")
+            .attr("transform", "translate(" + 100 + "," + 100 + ")");
+
+    d3.csv("XYZ.csv", function(error, data) {
+        if (error) {
+            throw error;
+        }
+
+        xScale.domain(data.map(function(d) { return d.year; }));
+        yScale.domain([0, d3.max(data, function(d) { return d.value; })]);
+
+        g.append("g")
+         .attr("transform", "translate(0," + height + ")")
+         .call(d3.axisBottom(xScale));
+
+        g.append("g")
+         .call(d3.axisLeft(yScale).tickFormat(function(d){
+             return "$" + d;
+         }).ticks(10));
+
+
+        g.selectAll(".bar")
+         .data(data)
+         .enter().append("rect")
+         .attr("class", "bar")
+         .attr("x", function(d) { return xScale(d.year); })
+         .attr("y", function(d) { return yScale(d.value); })
+         .attr("width", xScale.bandwidth())
+         .attr("height", function(d) { return height - yScale(d.value); });
+    });
+</script>
+</body>
 </html>
                     
 

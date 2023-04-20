@@ -1,3 +1,37 @@
+let $season1 := collection('file:///C:/github/TheSimpProject/XML(ready)/XML(textFiles)/Simpsons_S30/?select=*.xml')
+let $count := 0
+for $file in $season1
+    let $phrase-count := count($file//catchphrase[contains(normalize-space(), "why you little")])
+    let $count := $count + $phrase-count
+return $count
+
+
+
+
+
+
+
+
+
+
+
+
+(:let $seasons := (
+    collection('file:///C:/github/TheSimpProject/XML(ready)/XML(textFiles)/Simpsons_S1/?select=*.xml'),
+    collection('file:///C:/github/TheSimpProject/XML(ready)/XML(textFiles)/Simpsons_S10/?select=*.xml'),
+    collection('file:///C:/github/TheSimpProject/XML(ready)/XML(textFiles)/Simpsons_S20/?select=*.xml'),
+    collection('file:///C:/github/TheSimpProject/XML(ready)/XML(textFiles)/Simpsons_S30/?select=*.xml')
+)
+for $season in $seasons
+return
+    <result season="{$season/@season}">
+        <count>{count($season//catchphrase[contains(normalize-space() ! lower-case(.), "why you little")])}</count>
+    </result>:)
+
+
+
+
+(:
 xquery version "3.1";
 
 declare variable $xSpacer := 5;
@@ -29,4 +63,4 @@ return
 }
 
 </g>
-</svg>
+</svg>:)

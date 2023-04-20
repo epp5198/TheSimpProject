@@ -1,0 +1,102 @@
+Family Per Season
+Homer : 1698 + 66 homie
+Bart: 1360 + 1 Bartholomew + 4 El Barto
+Marge: 937
+Lisa: 672  + 17 Lis
+Maggie: 126
+Abe: 45  + 27 grampa + 11 grandpa
+
+Doh Per Season
+Season 1: 4
+Season 10: 41
+Season 20: 35
+Season 30: 29
+
+
+Choking Bart
+Season 1: 1
+Season 10: 1
+Season 20: 2
+Season 30: 1
+
+Every Musical Instance
+Season 1: 65
+Season 10: 282
+Season 20: 24
+Season 30: 383
+
+Springfield 
+Season 1: 35
+Season 10: 55
+Season 20: 30
+Season 30: 19
+
+Top 10 Mentioned Locations
+Springfield _______: 610 (example springfield elementary)
+Party: 300
+America: 205
+Earth: 100
+New York: 70
+Kwik: 65 (as in KwikEMart
+Canada: 50
+Hollywood: 45
+Washington: 40
+Japan: 40
+Other People
+Krusty: 660
+Moe: 555
+Skinner: 525
+Milhouse: 465
+Burns: 465
+Nelson: 365
+Lenny: 345
+Flanders: 335
+Barney: 255
+Sideshow Bob: 250
+Smithers: 230
+Apu: 175
+Patty: 150
+Itchy: 140
+Scratchy: 140
+Mrs. Krabappel: 135
+Ralph: 130
+Selma: 120
+Lou: 100
+Snake: 100
+Carl: 95
+Wiggum: 75
+Fat Tony: 50
+Reverend Lovejoy: 30
+Groundskeeper Willie: 25
+Dr. Hibbert: 20
+Comic book guy: 20
+Disco Stu: 20
+Chalmers: 10
+Maude Flanders: 5
+Professor Frink: 5
+Cletus: 5
+Dr. Nick: 5
+
+
+
+Stage Actions Count
+Season 1: 2218
+Season 10: 2548
+Season 20: 1188
+Season 30: 1351
+
+
+
+
+
+Catchphrases Count
+Caramba: 13
+Doh: 109
+Why you little: 5
+Eat my shorts: 2
+Cowabunga: 10
+Hi-diddly-ho: 2
+Stupid flanders: 3
+
+
+

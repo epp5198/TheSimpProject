@@ -16,12 +16,14 @@ declare variable $distCatches := $simpsonsAll//location ! normalize-space() ! lo
 <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
     <g transform="translate(50, 20)">
     {
-        for $d at $pos in $distCatches
+        for $d in $distCatches
         let $matchingCatch := $allCatches[normalize-space() ! lower-case(.) ! replace(., "'", '') = $d]
         let $countThisCatch := sum(for $c in $matchingCatch return count($simpsonsAll//Q{}location[. = $c]))
+        order by $countThisCatch descending
         return
         <g id="{$d}">
-            <line x1 = '{0}' y1 ='{$pos * $ySpacer}'  x2= '{$xSpacer * $countThisCatch}' y2="{$pos * $ySpacer}" stroke='{$colors[position() = $pos]}' stroke-width='5'/>
+            <line x1 = '{0}' y1 ='{position() * $ySpacer}' x2= '{$xSpacer * $countThisCatch}' y2="{position() * $ySpacer}" stroke='{$colors[position() = position()]}'
+                  stroke-width='5'/>
         </g>
     }
     </g>
