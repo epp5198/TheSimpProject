@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1142.47 887.48">
+  <g>
+    <g>
+      <line x1="66.97" y1="828.82" x2="1117.97" y2="828.82" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <g>
+        <line x1="66.97" y1="828.82" x2="66.97" y2="810.09" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="1117.97" y1="828.82" x2="1117.97" y2="810.09" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text transform="translate(25.27 847.29)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 49.27px;"><tspan x="0" y="0">0</tspan></text>
+        <text transform="translate(0 697.49)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 49.27px;"><tspan x="0" y="0">10</tspan></text>
+        <text transform="translate(0 547.69)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 49.27px;"><tspan x="0" y="0">20</tspan></text>
+        <text transform="translate(0 397.89)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 49.27px;"><tspan x="0" y="0">30</tspan></text>
+        <text transform="translate(0 248.09)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 49.27px;"><tspan x="0" y="0">40</tspan></text>
+        <text transform="translate(0 98.29)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 49.27px;"><tspan x="0" y="0">50</tspan></text>
+      </g>
+      <line x1="66.97" y1="828.82" x2="66.97" y2="79.82" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <g>
+        <line x1="66.97" y1="828.82" x2="93.24" y2="828.82" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="66.97" y1="679.02" x2="93.24" y2="679.02" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="66.97" y1="529.22" x2="93.24" y2="529.22" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="66.97" y1="379.42" x2="93.24" y2="379.42" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="66.97" y1="229.62" x2="93.24" y2="229.62" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="66.97" y1="79.82" x2="93.24" y2="79.82" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      </g>
+    </g>
+    <g>
+      <rect x="813.18" y="394.4" width="189.18" height="434.42" style="fill: #231f20; stroke: #000; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="602.98" y="304.52" width="189.18" height="524.3" style="fill: #737577; stroke: #000; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="392.78" y="214.64" width="189.18" height="614.18" style="fill: #f5ba3d; stroke: #000; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="182.58" y="768.9" width="189.18" height="59.92" style="stroke: #000; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+  </g>
+  <text transform="translate(216.47 869.46)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 34px;"><tspan x="0" y="0" style="letter-spacing: 0em;">S</tspan><tspan x="16.97" y="0">eason 1</tspan></text>
+  <text transform="translate(418.85 869.62)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 34px;"><tspan x="0" y="0" style="letter-spacing: 0em;">S</tspan><tspan x="16.97" y="0">eason 10</tspan></text>
+  <text transform="translate(627.85 869.62)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 34px;"><tspan x="0" y="0" style="letter-spacing: 0em;">S</tspan><tspan x="16.97" y="0">eason 20</tspan></text>
+  <text transform="translate(836.85 869.62)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 34px;"><tspan x="0" y="0" style="letter-spacing: 0em;">S</tspan><tspan x="16.97" y="0">eason 30</tspan></text>
+  <text transform="translate(459.47 28.46)" style="font-family: MyriadPro-Regular, &apos;Myriad Pro&apos;; font-size: 34px;"><tspan x="0" y="0" style="letter-spacing: 0em;">D</tspan><tspan x="22.95" y="0" style="letter-spacing: -.08em;">’</tspan><tspan x="27.37" y="0">o</tspan><tspan x="46.03" y="0" style="letter-spacing: -.03em;">h</tspan><tspan x="63.78" y="0" style="letter-spacing: -.07em;">’</tspan><tspan x="68.37" y="0">s </tspan><tspan x="89.04" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="106.28" y="0">er </tspan><tspan x="141.64" y="0" style="letter-spacing: 0em;">S</tspan><tspan x="158.61" y="0">eason</tspan></text>
+</svg>
