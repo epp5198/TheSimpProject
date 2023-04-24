@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1723.17 940.4">
+  <text transform="translate(392.5 51.18)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 59px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Family Over All 4 Seasons Count</tspan></text>
+  <g>
+    <g>
+      <g>
+        <text transform="translate(161.46 918.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">0</tspan></text>
+        <text transform="translate(489.87 918.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">500</tspan></text>
+        <text transform="translate(837.33 918.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">1000</tspan></text>
+        <text transform="translate(1203.83 918.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">1500</tspan></text>
+        <text transform="translate(1570.33 918.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">2000</tspan></text>
+      </g>
+      <line x1="180.5" y1="855.76" x2="1646.5" y2="855.76" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+      <g>
+        <line x1="180.5" y1="855.76" x2="180.5" y2="837.31" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+        <line x1="547" y1="855.76" x2="547" y2="837.31" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+        <line x1="913.5" y1="855.76" x2="913.5" y2="837.31" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+        <line x1="1280" y1="855.76" x2="1280" y2="837.31" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+        <line x1="1646.5" y1="855.76" x2="1646.5" y2="837.31" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+      </g>
+    </g>
+    <g>
+      <line x1="180.5" y1="855.76" x2="180.5" y2="117.76" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+      <g>
+        <line x1="180.5" y1="794.26" x2="217.15" y2="794.26" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+        <line x1="180.5" y1="671.26" x2="217.15" y2="671.26" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+        <line x1="180.5" y1="548.26" x2="217.15" y2="548.26" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+        <line x1="180.5" y1="425.26" x2="217.15" y2="425.26" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+        <line x1="180.5" y1="302.26" x2="217.15" y2="302.26" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+        <line x1="180.5" y1="179.26" x2="217.15" y2="179.26" style="fill: #ffd90f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+      </g>
+    </g>
+    <g>
+      <rect x="180.5" y="134.98" width="1293.01" height="88.56" style="fill: #e6e6e6; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+      <rect x="180.5" y="257.98" width="1000.55" height="88.56" style="fill: #ff946a; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+      <rect x="180.5" y="380.98" width="686.82" height="88.56" style="fill: #35ff7f; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+      <rect x="180.5" y="503.98" width="492.58" height="88.56" style="fill: #e93400; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+      <rect x="180.5" y="626.98" width="93.09" height="88.56" style="fill: #00b6df; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+      <rect x="180.5" y="752.98" width="60.84" height="88.56" style="fill: #ffeeb0; stroke: #f2f2f2; stroke-miterlimit: 10;"/>
+    </g>
+  </g>
+  <text transform="translate(34.5 198.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Homer</tspan></text>
+  <text transform="translate(56.5 313.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Bart</tspan></text>
+  <text transform="translate(42.5 429.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Marge</tspan></text>
+  <text transform="translate(63.5 555.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Lisa</tspan></text>
+  <text transform="translate(.5 680.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Maggie</tspan></text>
+  <text transform="translate(59.5 809.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Abe</tspan></text>
+  <text transform="translate(1482.5 198.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">1764</tspan></text>
+  <text transform="translate(1192.5 316.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">1365</tspan></text>
+  <text transform="translate(881.5 440.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">937</tspan></text>
+  <text transform="translate(684.5 563.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">672</tspan></text>
+  <text transform="translate(280.5 687.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">126</tspan></text>
+  <text transform="translate(264.5 805.4)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">83</tspan></text>
+</svg>
