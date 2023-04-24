@@ -4,15 +4,12 @@ body {
     margin: 0;
 }
 
-/* Style the header */
 .header {
     background-color: grey;
     padding: 1px;
     text-align: center;
 }
 
-
-/* Style the top navigation bar */
 .topnav {
   background-color: #333;
   overflow: hidden;
@@ -40,7 +37,7 @@ body {
   z-index: 1;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
  left: 0;
-right: auto;/* add this line to left-align the dropdown */
+right: auto;
 }
 
 
@@ -118,10 +115,6 @@ body {
 h1 {
     text-align: center
 }
-/* CSS inheritance rules indicate that all elements inside the body will inherit the color and font-family properties that I set here on this BIG container element */
-
-/*body section section { background-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet); padding:2em;}
-body section {background-image: url("images/littleNewt.jpg"); padding:2em;}*/
 
 p {
     padding: 1em;
@@ -181,9 +174,6 @@ img.photo {
     max-width: 100%;
     width: 80%
 }
-/* If I want to style ANY element with the class of "photo" I could just write 
- * .photo { }
- *  */
 
 ol {
     list-style-type: circle;
@@ -191,26 +181,74 @@ ol {
 
 }
 
-/* unvisited link */
 a:link {
     color: grey;
 }
 
-/* visited link. I used a hexadecimal color code for something dark green that I picked from: 
- * https://www.w3schools.com/colors/colors_picker.asp  */
 a:visited {
     color: white;
 }
 
-/* mouse over link */
+
 a:hover {
     color: orange;
 }
 
-/* selected link */
+
 a:active {
     color: grey;
 }
 
+/*This part is for the analysis page*/
+/* Set up the flex container */
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	height: 100vh;
+	font-family: sans-serif;
+}
+
+/* Style the graph container */
+.graph-container {
+	flex: 1 1 60%; /* Updated flex property */
+	padding: 20px;
+	background-color: transparent;
+}
+
+/* Style the graph */
+.graph {
+}
+
+.graph svg {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+/* Style the right column (writing space) */
+.writing-space {
+	flex: 1 1 40%; /* Updated flex property */
+	padding: 20px;
+	background-color: #fff;
+}
+
+/* Style the input and text areas */
+.writing-space h1 {
+	margin-top: 0;
+	font-size: 2rem;
+	color: #a2aaad;
+}
+
+.analysis {
+	margin-top: 0;
+	font-size: 1.2rem;
+	color: #a2aaad;
+	background-color: #fff;
+}
+
+ul {
+    text-align: left;
+    color:lightblue;
+  }
 
 

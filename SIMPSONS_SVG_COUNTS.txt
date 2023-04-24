@@ -1,27 +1,72 @@
 Family Overall Count
-Homer : 1698 + 66 homie
-Bart: 1360 + 1 Bartholomew + 4 El Barto
+Homer : 1698 + 66 homie; 1764
+Bart: 1360 + 1 Bartholomew + 4 El Barto; 1365
 Marge: 937
-Lisa: 672  + 17 Lis
+Lisa: 672  + 17 Lis; 689
 Maggie: 126
-Abe: 45  + 27 grampa + 11 grandpa
+Abe: 45  + 27 grampa + 11 grandpa; 83
 
-Family Per Season Count
-Homer
-Season 1
-Season 10
-
-Catchphrase per person
 Homer:
-- Doh
-- Stupid Flanders
-- Why you little
-Bart:
-- Caramba
-- Eat my shorts
-- Cowabunga
-Flanders:
-- Hi-diddly-ho
+Season 1: 1027 - 370 (657 Without Stage Markers)
+Season 10: 255
+Season 20: 160
+Season 30: 144
+Homie:
+Season 1: 4 - 0 (4 Without Stage Markers)
+Season 10: 11
+Season 20: 24
+Season 30: 27
+Bart
+Season 1: 963 - 329 (634 Without Stage Markers)
+Season 10: 114
+Season 20: 121
+Season 30: 89
+Bartholomew
+Season 1: 0 - 0 (0 Without Stage Markers)
+Season 10: 0
+Season 20: 1
+Season 30: 0
+El Barto
+Season 1: 0 - 0 (0 Without Stage Markers)
+Season 10: 0
+Season 20: 1
+Season 30: 3
+Maggie
+Season 1: 50 - 0 (50 Without Stage Markers)
+Season 10: 16
+Season 20: 42
+Season 30: 18
+Lisa
+Season 1: 333  - 130 (203 Without Stage Markers)
+Season 10: 101
+Season 20: 116
+Season 30: 112
+Lis
+Season 1: 8 - 0 (8 Without Stage Markers)
+Season 10: 0
+Season 20: 0
+Season 30: 9
+Marge
+Season 1: 520 - 251 (296 Without Stage Markers)
+Season 10: 98
+Season 20: 96
+Season 30: 173
+Abe
+Season 1: 29 - 0 (29 Without Stage Markers)
+Season 10: 16
+Season 20: 16
+Season 30: 12
+grampa
+Season 1: 2 - 0 (2 Without Stage Markers)
+Season 10: 6 
+Season 20: 7
+Season 30: 18
+grandpa
+Season 1: 7 - 0 (7 Without Stage Markers)
+Season 10: 1
+Season 20: 0
+Season 30: 3
+
 
 
 
@@ -61,6 +106,8 @@ Canada: 50
 Hollywood: 45
 Washington: 40
 Japan: 40
+
+
 Other People
 Krusty: 660
 Moe: 555
@@ -105,23 +152,78 @@ Season 20: 1188
 Season 30: 1351
 
 Stage Actions with Person Tag
-Season 1:
-Season 10:
-Season 20:
-Season 30:
+Season 1: 1262+10; 1272
+Season 10: 106+56; 162
+Season 20: 110+1; 111
+Season 30: 75+1; 76
 
 
 
 
 
 Catchphrases Count
-Caramba: 13
-Doh: 109
+Don't Have A Cow Man: 3
+Caramba: 12
+Doh: 119
 Why you little: 5
 Eat my shorts: 2
-Cowabunga: 10
-Hi-diddly-ho: 2
+Cowabunga: 2
+Hi-diddly-ho: 9
 Stupid flanders: 3
+
+
+Catchphrases Count Per Season
+
+Don't Have a Cow Man
+2
+0
+0
+1
+
+Caramba: 12
+3
+1
+4
+4
+
+Doh: 119
+13
+41
+36
+29
+
+
+Why you little: 5
+1
+1
+2
+1
+
+Eat my shorts: 2
+1
+0
+0
+1
+
+
+Cowabunga: 2
+1
+0
+1
+0
+
+Diddly: 9
+0
+5
+0
+4
+
+
+Stupid flanders: 3
+0
+0
+1
+2
 
 
 
