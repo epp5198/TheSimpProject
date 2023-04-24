@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1810.34 943.4">
+  <text transform="translate(383.62 51.18)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 59px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Musical Instance Count Per Season</tspan></text>
+  <g>
+    <g>
+      <g>
+        <text transform="translate(210.3 921.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">0</tspan></text>
+        <text transform="translate(374.51 921.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">50</tspan></text>
+        <text transform="translate(538.71 921.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">100</tspan></text>
+        <text transform="translate(721.96 921.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">150</tspan></text>
+        <text transform="translate(905.21 921.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">200</tspan></text>
+        <text transform="translate(1088.46 921.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">250</tspan></text>
+        <text transform="translate(1271.71 921.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">300</tspan></text>
+        <text transform="translate(1454.96 921.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">350</tspan></text>
+        <text transform="translate(1638.21 921.83)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 68.72px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">400</tspan></text>
+      </g>
+      <line x1="229.34" y1="858.76" x2="1695.34" y2="858.76" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+      <g>
+        <line x1="229.34" y1="858.76" x2="229.34" y2="840.31" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="412.59" y1="858.76" x2="412.59" y2="840.31" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="595.84" y1="858.76" x2="595.84" y2="840.31" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="779.09" y1="858.76" x2="779.09" y2="840.31" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="962.34" y1="858.76" x2="962.34" y2="840.31" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="1145.59" y1="858.76" x2="1145.59" y2="840.31" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="1328.84" y1="858.76" x2="1328.84" y2="840.31" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="1512.09" y1="858.76" x2="1512.09" y2="840.31" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="1695.34" y1="858.76" x2="1695.34" y2="840.31" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+      </g>
+    </g>
+    <g>
+      <line x1="229.34" y1="858.76" x2="229.34" y2="120.76" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+      <g>
+        <line x1="229.34" y1="766.51" x2="265.99" y2="766.51" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="229.34" y1="582.01" x2="265.99" y2="582.01" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="229.34" y1="397.51" x2="265.99" y2="397.51" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+        <line x1="229.34" y1="213.01" x2="265.99" y2="213.01" style="fill: #3fa9f5; stroke: #000; stroke-miterlimit: 10;"/>
+      </g>
+    </g>
+    <g>
+      <rect x="229.34" y="146.59" width="238.23" height="132.84" style="fill: red; stroke: #000; stroke-miterlimit: 10;"/>
+      <rect x="229.34" y="331.09" width="1033.53" height="132.84" style="fill: #ff0; stroke: #000; stroke-miterlimit: 10;"/>
+      <rect x="229.34" y="515.59" width="87.96" height="132.84" style="fill: lime; stroke: #000; stroke-miterlimit: 10;"/>
+      <rect x="229.34" y="700.09" width="1403.69" height="132.84" style="fill: aqua; stroke: #000; stroke-miterlimit: 10;"/>
+    </g>
+  </g>
+  <text transform="translate(11.08 226.41)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Season 1</tspan></text>
+  <text transform="translate(487.34 221.41)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">65</tspan></text>
+  <text transform="translate(1287.34 416.41)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">282</tspan></text>
+  <text transform="translate(344.34 601.41)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">24</tspan></text>
+  <text transform="translate(1649.34 786.41)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">383</tspan></text>
+  <text transform="translate(3.08 411.74)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Season 10</tspan></text>
+  <text transform="translate(1.5 601.74)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Season 20</tspan></text>
+  <text transform="translate(.5 791.74)" style="fill: #ffd90f; font-family: CenturyGothic, &apos;Century Gothic&apos;; font-size: 43px; stroke: #f2f2f2; stroke-miterlimit: 10;"><tspan x="0" y="0">Season 30</tspan></text>
+</svg>
