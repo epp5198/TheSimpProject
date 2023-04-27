@@ -113,10 +113,11 @@ Here comes our guide for the day, Postmaster Bill.
          
             
             
-            <p>We want to find how The Simpsons TV show has changed over the years in the amount of accounts of certain characters, phrases, and overall changes. We will do this by looking not at the entire collection but seasons 1,10,20, and 30 as they are 10 years apart each and 
-                could show monumental changes over the years. Specifically, our mission is to seek out how often the different family members, as well as musical occurences, appear throughout the history of the series.</p>
+            <p>We knew we wanted to look at the transcripts for the Simpsons and we knew it had to be online and the most up to date and usable site was this one that we pulled from. The texts were well formatted and seem to resemble the actual episodes.
+            </p>
             <h3>The Issues</h3>
-            <p>Our issues here were</p>
+            <p>Issues that immediately arose were that not every season was complete. Our original plan was to view the first 10 seasons to show change over time but one season was completely absent, and one was missing episodes. We figured our best course of action would be to take seasons that were around 10 years apart.
+            </p>
             
             
         </div>
@@ -185,10 +186,11 @@ for link in episode_links:
 print('Done processing all episodes.')
 </code>
 </pre>
-            <p>We want to find how The Simpsons TV show has changed over the years in the amount of accounts of certain characters, phrases, and overall changes. We will do this by looking not at the entire collection but seasons 1,10,20, and 30 as they are 10 years apart each and 
-                could show monumental changes over the years. Specifically, our mission is to seek out how often the different family members, as well as musical occurences, appear throughout the history of the series.</p>
+            <p>We needed to get the text files off the website in the most efficient manner and the code above is our most effective manner. We had to create a python script that would look through each of the seasons and only take 1, 10, 20, and 30 and then convert the certain HTML code in which the texts were stored and then turn that into a text file using the name of the episode and season.
+            </p>
             <h3>The Issues</h3>
-            <p>Our issues here were</p>
+            <p>It all sounds fine and dandy, like we just wrote out of the blue. But, it took a lot of time and Googling to figure it all out. It could’ve been faster to take all episodes and copy and paste them into separate text files but nah… this was way cooler!... but much harder.
+            </p>
             
             
         </div>
@@ -199,10 +201,11 @@ print('Done processing all episodes.')
             <h2>The XML</h2>
             <p>XML File Snippet</p>
             <img src="photos/exampleXML.png" alt="Example XML Code"/>
-            <p>We want to find how The Simpsons TV show has changed over the years in the amount of accounts of certain characters, phrases, and overall changes. We will do this by looking not at the entire collection but seasons 1,10,20, and 30 as they are 10 years apart each and 
-                could show monumental changes over the years. Specifically, our mission is to seek out how often the different family members, as well as musical occurences, appear throughout the history of the series.</p>
+            <p>The XML was critical to actually find any numbers. We thought about it for about a week coming up with what we wanted to find and how exactly we wanted to do it and then we went with Finding and Replacing.
+            </p>
             <h3>The Issues</h3>
-            <p>Our issues here were</p>
+            <p>We still dealt with a lot of bugs in the words. Some are still around within the code. Things such as: foreign letter accents. ASCII characters. Just little things that really shot down some ideas that line counts and especially how Season 1 is a completely different setup than the others. 
+            </p>
             
             
         </div>
@@ -232,10 +235,11 @@ person = element person {text}
 location = element location {text}
                 </code>
             </pre>
-            <p>We want to find how The Simpsons TV show has changed over the years in the amount of accounts of certain characters, phrases, and overall changes. We will do this by looking not at the entire collection but seasons 1,10,20, and 30 as they are 10 years apart each and 
-                could show monumental changes over the years. Specifically, our mission is to seek out how often the different family members, as well as musical occurences, appear throughout the history of the series.</p>
+            <p>The RNG Schema was used to set the structure of our XML files. The tag hierarchy was fairly simple and made up of a small set of tags which made our schema simple yet tag the information we needed for the project.
+            </p>
             <h3>The Issues</h3>
-            <p>Our issues here were</p>
+            <p>There was only one problem which came from working on the RNG Schema, the original draft had a few problems with mixed syntax which was easily fixed. With this problem solved the schema was complete with no other problems.
+            </p>
             
             
         </div>
